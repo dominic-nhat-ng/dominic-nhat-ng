@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And tell them all about the books you've read. Better still, buy some more books and read them. That's an order. You can never read too many books.” - P.B. Kerr
+“In reading he found solitude. In reading he could dispel the blare of the world.” - Christos Tsiolkas
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akiba Meido Sensou
+  <strong>🥭 <u>Title:</u></strong> Ichigo Mashimaro OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Akiba Maid War</h4>
+<h4>🌿 <u>English Title:</u> Strawberry Marshmallow OVA</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1217/129604.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/4325.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Comedy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Akiba Meido Sensou](https://myanimelist.net/anime/52193/Akiba_Meido_Sensou)*
+🍂 *More information: [Ichigo Mashimaro OVA](https://myanimelist.net/anime/1888/Ichigo_Mashimaro_OVA)*
     
