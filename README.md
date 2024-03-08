@@ -18,12 +18,12 @@
 
 <br />
 
-<h2 align="center">There's always a good anime to watch every day 😀</h2>
+<h2 align="center">This repo created by mercenarioZ !!! 😀</h2>
 <h3><i>Good Quote</i></h3>
 
 <blockquote>
 <i>
-“If there is no mystery, for the artist, to solve inside of his art, then there's no point in it. . . . for me, every act of art is the act of solving a mystery.” - Truman Capote
+“If any accolades come in the writing of this story, all praise will be His, all Glory will rightly go to Him. If He will allow me to share some part in this, I am truly humbled.” - Lynn Dove
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Second Season
+  <strong>🥭 <u>Title:</u></strong> Eyeshield 21
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monogatari Series: Second Season</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1807/121534.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1079/133529.jpg />
 
-<h4>🌱 Score: 8.76/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Romance, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Monogatari Series: Second Season](https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season)*
+🍂 *More information: [Eyeshield 21](https://myanimelist.net/anime/15/Eyeshield_21)*
     

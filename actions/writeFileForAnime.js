@@ -24,7 +24,7 @@ export const writeFileForAnime = (data) => {
 
 <br />
 
-<h2 align="center">There's always a good anime to watch every day 😀</h2>
+<h2 align="center">This repo created by mercenarioZ !!! 😀</h2>
 <h3><i>Good Quote</i></h3>
 
 <blockquote>
