@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If any accolades come in the writing of this story, all praise will be His, all Glory will rightly go to Him. If He will allow me to share some part in this, I am truly humbled.” - Lynn Dove
+“And tell them all about the books you've read. Better still, buy some more books and read them. That's an order. You can never read too many books.” - P.B. Kerr
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Eyeshield 21
+  <strong>🥭 <u>Title:</u></strong> Akiba Meido Sensou
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Akiba Maid War</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1079/133529.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1217/129604.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Eyeshield 21](https://myanimelist.net/anime/15/Eyeshield_21)*
+🍂 *More information: [Akiba Meido Sensou](https://myanimelist.net/anime/52193/Akiba_Meido_Sensou)*
     
