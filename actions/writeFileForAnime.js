@@ -10,7 +10,7 @@ export const writeFileForAnime = (data) => {
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,ubuntu,tensorflow,pytorch,docker,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,bash,vim,ubuntu,tensorflow,pytorch,docker,raspberrypi" />
   </a>
 
   <br />
@@ -29,7 +29,7 @@ export const writeFileForAnime = (data) => {
 
 <blockquote>
 <i>
-<q>${data.text}</q> - ${data.author}
+${data.text} - ${data.author}
 </i>
 </blockquote>
 
