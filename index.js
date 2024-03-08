@@ -9,37 +9,53 @@ const run = async () => {
     text, author
   } = await getQuote();
 
-  if (!text || !author) return;
+  const {
+    title,
+    englishTitle,
+    score,
+    episodeCount,
+    rating,
+    url,
+    type,
+    startDate,
+    genres,
+    imageSrc
+  } = await getHighRateAnime();
 
-  // console.log({
-  //   title,
-  //   englishTitle,
-  //   score,
-  //   episodeCount,
-  //   rating,
-  //   url,
-  //   type,
-  //   startDate,
-  //   genres,
-  //   imageSrc
-  // });
+  // if (!text || !author) return;
 
-  // const formattedScore = `${score}/10`;
+  console.log({
+    title,
+    englishTitle,
+    score,
+    episodeCount,
+    rating,
+    url,
+    type,
+    startDate,
+    genres,
+    imageSrc,
+    text,
+    author
+  });
 
-  // writeFileForAnime({
-  //   // title,
-  //   // englishTitle,
-  //   // score: formattedScore,
-  //   // episodeCount,
-  //   // rating,
-  //   // url,
-  //   // type,
-  //   // startDate,
-  //   // genres,
-  //   // imageSrc
-  // });
+  const formattedScore = `${score}/10`;
 
-  writeFileForQuote({text, author});
+  writeFileForAnime({
+    title,
+    englishTitle,
+    score: formattedScore,
+    episodeCount,
+    rating,
+    url,
+    type,
+    startDate,
+    genres,
+    imageSrc,
+    text, author
+  });
+
+  // writeFileForQuote({text, author});
 };
 
 
