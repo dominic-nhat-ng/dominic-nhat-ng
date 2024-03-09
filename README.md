@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In reading he found solitude. In reading he could dispel the blare of the world.” - Christos Tsiolkas
+“I leapt eagerly into books. The characters’ lives were so much more interesting than the lonely heartbeat of my own.” - Ruta Sepetys
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ichigo Mashimaro OVA
+  <strong>🥭 <u>Title:</u></strong> Wotaku ni Koi wa Muzukashii
 </h4>
 
-<h4>🌿 <u>English Title:</u> Strawberry Marshmallow OVA</h4>
+<h4>🌿 <u>English Title:</u> Wotakoi: Love is Hard for Otaku</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/4325.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1864/93518.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Slice of Life</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ichigo Mashimaro OVA](https://myanimelist.net/anime/1888/Ichigo_Mashimaro_OVA)*
+🍂 *More information: [Wotaku ni Koi wa Muzukashii](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii)*
     
