@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Its better to hold a book between your Fingers than to Hold a Cigarette.” - Bista Nirooj
+“Great literature is simply language charged with meaning to the utmost possible degree.” - Ezra Pound
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
+  <strong>🥭 <u>Title:</u></strong> Shinkiro
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1824/94859.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1225/139618.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu](https://myanimelist.net/anime/2450/Crayon_Shin-chan_Movie_09__Arashi_wo_Yobu_Mouretsu_Otona_Teikoku_no_Gyakushuu)*
+🍂 *More information: [Shinkiro](https://myanimelist.net/anime/57145/Shinkiro)*
     
