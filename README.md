@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I leapt eagerly into books. The characters’ lives were so much more interesting than the lonely heartbeat of my own.” - Ruta Sepetys
+“Its better to hold a book between your Fingers than to Hold a Cigarette.” - Bista Nirooj
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wotaku ni Koi wa Muzukashii
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wotakoi: Love is Hard for Otaku</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1864/93518.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1824/94859.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Wotaku ni Koi wa Muzukashii](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii)*
+🍂 *More information: [Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu](https://myanimelist.net/anime/2450/Crayon_Shin-chan_Movie_09__Arashi_wo_Yobu_Mouretsu_Otona_Teikoku_no_Gyakushuu)*
     
