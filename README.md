@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Great literature is simply language charged with meaning to the utmost possible degree.” - Ezra Pound
+“Some of the most relaxing weekends I have ever enjoyed were those I spent quietly with a sense of all work to date completed, and an absorbing mystery.” - Aung San Suu Kyi
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinkiro
+  <strong>🥭 <u>Title:</u></strong> Kaichou wa Maid-sama!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Maid Sama!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1225/139618.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/25254.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shinkiro](https://myanimelist.net/anime/57145/Shinkiro)*
+🍂 *More information: [Kaichou wa Maid-sama!](https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama)*
     
