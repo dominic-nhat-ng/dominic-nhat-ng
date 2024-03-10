@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“When a day goes by and I haven't written anything, I better have been doing something worth writing about.” - P.S. Bartlett
+“Honestly, I hate when in books, the guys changes the girl's life. Like, no. The girl needs to change her own life.” - Sasha Alsberg a
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Baka to Test to Shoukanjuu Ni!
+  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny 2 Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baka & Test – Summon the Beasts 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/28992.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1941/128060.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Baka to Test to Shoukanjuu Ni!](https://myanimelist.net/anime/8516/Baka_to_Test_to_Shoukanjuu_Ni)*
+🍂 *More information: [Tiger & Bunny 2 Part 2](https://myanimelist.net/anime/52291/Tiger___Bunny_2_Part_2)*
     
