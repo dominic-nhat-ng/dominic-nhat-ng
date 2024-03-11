@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Honestly, I hate when in books, the guys changes the girl's life. Like, no. The girl needs to change her own life.” - Sasha Alsberg a
+“One act presses upon another, on a path we have no choice but to follow, and each time there are reasons. We do what we must, we do what we are told, we do what is easiest. What else can we do but solve one sordid problem at a time? Then we look up and find... this.” - Joe Abercrombie
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny 2 Part 2
+  <strong>🥭 <u>Title:</u></strong> Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> GATE</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1941/128060.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/76222.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tiger & Bunny 2 Part 2](https://myanimelist.net/anime/52291/Tiger___Bunny_2_Part_2)*
+🍂 *More information: [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri)*
     
