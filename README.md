@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The direness of the situation suddenly struck me. All by myself for half an hour, and I had no book.” - Laurie Cass
+“I love the way that each book—any book—is its own journey. You open it, and off you go….” - Sharon Creech
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Shuumatsu Ryokou
+  <strong>🥭 <u>Title:</u></strong> Yoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Girls' Last Tour</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/88321.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1807/121603.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou)*
+🍂 *More information: [Yoku](https://myanimelist.net/anime/51308/Yoku)*
     
