@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Adult librarians are like lazy bakers: their patrons want a jelly doughnut, so they give them a jelly doughnut. Children’s librarians are ambitious bakers: 'You like the jelly doughnut? I’ll get you a jelly doughnut. But you should try my cruller, too. My cruller is gonna blow your mind, kid.” - John Green
+“No man can be called friendless who has God and the companionship of good books.” - Elizabeth Barrett Browning
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Migi to Dali
+  <strong>🥭 <u>Title:</u></strong> Seitokai Yakuindomo Movie 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Migi & Dali</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1845/134817.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1738/116883.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Suspense</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Migi to Dali](https://myanimelist.net/anime/50586/Migi_to_Dali)*
+🍂 *More information: [Seitokai Yakuindomo Movie 2](https://myanimelist.net/anime/40814/Seitokai_Yakuindomo_Movie_2)*
     
