@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading is probably another way of being in a place.” - José Saramago
+“So many books, so little time.” - Frank Zappa
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Dong Qian Kun 4th Season
+  <strong>🥭 <u>Title:</u></strong> Hayate no Gotoku!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Hayate the Combat Butler!!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1843/139679.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/75212.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Wu Dong Qian Kun 4th Season](https://myanimelist.net/anime/57183/Wu_Dong_Qian_Kun_4th_Season)*
+🍂 *More information: [Hayate no Gotoku!!](https://myanimelist.net/anime/4192/Hayate_no_Gotoku)*
     
