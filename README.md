@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The books are to remind us what asses and fools we are.” - Ray Bradbury
+“One act presses upon another, on a path we have no choice but to follow, and each time there are reasons. We do what we must, we do what we are told, we do what is easiest. What else can we do but solve one sordid problem at a time? Then we look up and find... this.” - Joe Abercrombie
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+  <strong>🥭 <u>Title:</u></strong> Hotarubi no Mori e
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War Season 2</h4>
+<h4>🌿 <u>English Title:</u> Into the Forest of Fireflies' Light</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1764/106659.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1599/112267.jpg />
 
-<h4>🌱 Score: 8.63/10</h4>
+<h4>🌱 Score: 8.28/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Award Winning, Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen)*
+🍂 *More information: [Hotarubi no Mori e](https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e)*
     
