@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I've never understood the desire for books with matched bindings. You don't go through life looking for sets of matched people, and books are just as individual.” - Susan Lendroth
+“What's the use trying to read Shakespeare, especially in one of those little paper editions whose pages get ruffled, or stuck together with sea-water?” - Virginia Woolf
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium Movie 3: Chikai no Finale
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 08: Ginyoku no Magician
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium: Our Promise: A Brand New Day</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 08: Magician of the Silver Sky</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1141/102223.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/20982.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium Movie 3: Chikai no Finale](https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale)*
+🍂 *More information: [Meitantei Conan Movie 08: Ginyoku no Magician](https://myanimelist.net/anime/1367/Meitantei_Conan_Movie_08__Ginyoku_no_Magician)*
     
