@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I still love the book-ness of books, the smell of books: I am a book fetishist—books to me are the coolest and sexiest and most wonderful things there are.” - Neil Gaiman
+“Instead, we'd do what we always did, the only thing we'd ever been dependably stellar at: we'd read.” - Eleanor Brown
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Shuumatsu Ryokou
+  <strong>🥭 <u>Title:</u></strong> Hachimitsu to Clover
 </h4>
 
-<h4>🌿 <u>English Title:</u> Girls' Last Tour</h4>
+<h4>🌿 <u>English Title:</u> Honey and Clover</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/88321.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1301/133577.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou)*
+🍂 *More information: [Hachimitsu to Clover](https://myanimelist.net/anime/16/Hachimitsu_to_Clover)*
     
