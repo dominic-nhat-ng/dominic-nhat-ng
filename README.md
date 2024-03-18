@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Instead, we'd do what we always did, the only thing we'd ever been dependably stellar at: we'd read.” - Eleanor Brown
+“For a bookworm like Mother, a Brontë novel sister was better than a biological one.” - Eileen Favorite
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hachimitsu to Clover
+  <strong>🥭 <u>Title:</u></strong> One Piece
 </h4>
 
-<h4>🌿 <u>English Title:</u> Honey and Clover</h4>
+<h4>🌿 <u>English Title:</u> One Piece</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1301/133577.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
 
-<h4>🌱 Score: 7.99/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: null</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hachimitsu to Clover](https://myanimelist.net/anime/16/Hachimitsu_to_Clover)*
+🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
     
