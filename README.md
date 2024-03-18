@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Just as one spoils the stomach by overfeeding and thereby impairs the whole body, so can one overload and choke the mind by giving it too much nourishment. For the more one reads the fewer are the traces left of what one has read; the mind is like a tablet that has been written over and over. Hence it is impossible to reflect; and it is only by reflection that one can assimilate what one has read. If one reads straight ahead without pondering over it later, what has been read does not take root, but is for the most part lost.” - Arthur Schopenhauer
+“I still love the book-ness of books, the smell of books: I am a book fetishist—books to me are the coolest and sexiest and most wonderful things there are.” - Neil Gaiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wotaku ni Koi wa Muzukashii
+  <strong>🥭 <u>Title:</u></strong> Shoujo Shuumatsu Ryokou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wotakoi: Love is Hard for Otaku</h4>
+<h4>🌿 <u>English Title:</u> Girls' Last Tour</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1864/93518.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/88321.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Adventure, Mystery, Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Wotaku ni Koi wa Muzukashii](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii)*
+🍂 *More information: [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou)*
     
