@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And now, talking of praying, I realise sadly that there will be little point in praying for you. You are passing now to a region where you will be beyond the reach of the power of prayer.” - Anthony Burgess
+“I rode my bike home and did the one thing that always helped when things weren't going well. I read. Books were my refuge. Getting lost in a solid adventure story was the best way I knew of to turn off reality.” - D.J. MacHale
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin III vs. Meitantei Conan
+  <strong>🥭 <u>Title:</u></strong> Ginga Tetsudou 999
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin III vs. Detective Conan</h4>
+<h4>🌿 <u>English Title:</u> Galaxy Express 999</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1849/134190.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1685/104554.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 1978</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Lupin III vs. Meitantei Conan](https://myanimelist.net/anime/6115/Lupin_III_vs_Meitantei_Conan)*
+🍂 *More information: [Ginga Tetsudou 999](https://myanimelist.net/anime/1491/Ginga_Tetsudou_999)*
     
