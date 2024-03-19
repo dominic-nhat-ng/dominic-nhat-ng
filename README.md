@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For a bookworm like Mother, a Brontë novel sister was better than a biological one.” - Eileen Favorite
+“And now, talking of praying, I realise sadly that there will be little point in praying for you. You are passing now to a region where you will be beyond the reach of the power of prayer.” - Anthony Burgess
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece
+  <strong>🥭 <u>Title:</u></strong> Lupin III vs. Meitantei Conan
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece</h4>
+<h4>🌿 <u>English Title:</u> Lupin III vs. Detective Conan</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1849/134190.jpg />
 
-<h4>🌱 Score: 8.72/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
+🍂 *More information: [Lupin III vs. Meitantei Conan](https://myanimelist.net/anime/6115/Lupin_III_vs_Meitantei_Conan)*
     
