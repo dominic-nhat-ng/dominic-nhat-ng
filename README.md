@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“La lecture de tous les bons livres est comme une conversation avec les plus honnêtes gens des siècles passés.” - René Descartes
+“I understood books. I did not understand boys—especially alien boys.” - Jennifer L. Armentrout
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Overlord
+  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken: Coleus no Yume
 </h4>
 
-<h4>🌿 <u>English Title:</u> Overlord</h4>
+<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime: Visions of Coleus</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/88019.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1570/135813.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Overlord](https://myanimelist.net/anime/29803/Overlord)*
+🍂 *More information: [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime/54565/Tensei_shitara_Slime_Datta_Ken__Coleus_no_Yume)*
     
