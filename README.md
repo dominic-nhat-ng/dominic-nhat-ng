@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are my friends, my companions. They make me laugh and cry and find meaning in life.” - Christopher Paolini
+“That's the problem with best friends. Sometimes they know you better than you know yourself.” - Cecily von Ziegesar
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Trigun
+  <strong>🥭 <u>Title:</u></strong> Majo no Tabitabi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Trigun</h4>
+<h4>🌿 <u>English Title:</u> Wandering Witch: The Journey of Elaina</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/20310.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1802/108501.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Trigun](https://myanimelist.net/anime/6/Trigun)*
+🍂 *More information: [Majo no Tabitabi](https://myanimelist.net/anime/40571/Majo_no_Tabitabi)*
     
