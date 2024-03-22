@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Like walking into the darkness our soldier’s went, their lives like cash haphazardly spent. Vietnam was a conflict that was no more than an experiment aimed at humanity's scientific evolvement.” - A.K. Kuykendall
+“One can fight money only with money! from my Tale Of The Rock Pieces.” - Ivan Stoikov - Allan Bard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> One Piece
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> One Piece</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
     
