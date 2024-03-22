@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One can fight money only with money! from my Tale Of The Rock Pieces.” - Ivan Stoikov - Allan Bard
+“I cannot live without reading.” - Aidan Chambers
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece
+  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
 
-<h4>🌱 Score: 8.72/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
+🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
     
