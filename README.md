@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I cannot live without reading.” - Aidan Chambers
+“She was faint by passing the terrible things art has done countless times over, why believe in put down theories and books her eyes constantly told me without lower lengths of ultraviolet new beams pouring from an endless waterfall toward the center of every center. I've emerged my skin in years of Roman romance only to find cosmic rays from a different perspective and on that note perception expanded all the truthful parts of myself. - Brandon Villasenor
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.46/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
+🍂 *More information: [undefined](undefined)*
     
