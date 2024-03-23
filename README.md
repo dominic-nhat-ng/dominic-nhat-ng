@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She was faint by passing the terrible things art has done countless times over, why believe in put down theories and books her eyes constantly told me without lower lengths of ultraviolet new beams pouring from an endless waterfall toward the center of every center. I've emerged my skin in years of Roman romance only to find cosmic rays from a different perspective and on that note perception expanded all the truthful parts of myself. - Brandon Villasenor
+“When people read, they hear voices and see images in their head. This production is total synesthesia and something close to madness. A great book is an hallucinated IMAX film for one. The author had a feeling, which he turned into words, and the reader gets a feeling from those words—maybe it’s the same feeling; maybe it’s not. As Peter Mendelsund wrote in What We See When We Read, a book is a coproduction. A reader both performs the book and attends the performance. She is conductor, orchestra, and audience. A book, whether nonfiction of fiction, is an “invitation to daydream.” - Derek Thompson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Special A
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Special A (S.A)</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/77363.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Special A](https://myanimelist.net/anime/3470/Special_A)*
     
