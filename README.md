@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I love the smell of a new book, but I prefer inhaling fresh bottles of ink and glue. They get me more lightheaded – unless I read the book.” - Bauvard
+“Having found the book which has a message for us, let us not be guilty of the folly of saying we - Charlotte Mason, Ourselves
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gakkougurashi!
+  <strong>🥭 <u>Title:</u></strong> Saint Seiya
 </h4>
 
-<h4>🌿 <u>English Title:</u> School-Live!</h4>
+<h4>🌿 <u>English Title:</u> Saint Seiya: Knights of the Zodiac</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1798/91548.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1180/133782.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 1986</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Slice of Life, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gakkougurashi!](https://myanimelist.net/anime/24765/Gakkougurashi)*
+🍂 *More information: [Saint Seiya](https://myanimelist.net/anime/1254/Saint_Seiya)*
     
