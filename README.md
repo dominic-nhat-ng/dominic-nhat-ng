@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It is only a novel... or, in short, only some work in which the greatest powers of the mind are displayed, in which the most thorough knowledge of human nature, the happiest delineation of its varieties, the liveliest effusions of wit and humour, are conveyed to the world in the best-chosen language” - Jane Austen
+“Books knew more than you did, as a rule.” - Jean-Christophe Valtat
 </i>
 </blockquote>
 
