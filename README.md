@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books knew more than you did, as a rule.” - Jean-Christophe Valtat
+“You can't consume much if you sit still and read books.” - Aldous Huxley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - Solid State Society 3D</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/29259.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D](https://myanimelist.net/anime/10090/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society_3D)*
     
