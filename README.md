@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You can't consume much if you sit still and read books.” - Aldous Huxley
+“There is no mistaking a real book when one meets it. It is like falling in love, and like that colossal adventure it is an experience of great social import. Even as the tranced swain, the booklover yearns to tell others of his bliss. He writes letters about it, adds it to the postscript of all manner of communications, intrudes it into telephone messages, and insists on his friends writing down the title of the find. Like the simple-hearted betrothed, once certain of his conquest, “I want you to love her, too!” It is a jealous passion also. He feels a little indignant if he finds that any one else has discovered the book, too.” - Christopher Morley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
+  <strong>🥭 <u>Title:</u></strong> The iDOLM@STER
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - Solid State Society 3D</h4>
+<h4>🌿 <u>English Title:</u> THE IDOLM@STER</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/29259.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/41085.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D](https://myanimelist.net/anime/10090/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society_3D)*
+🍂 *More information: [The iDOLM@STER](https://myanimelist.net/anime/10278/The_iDOLMSTER)*
     
