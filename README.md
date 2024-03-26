@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I shall keep my book on the table here, and read a little every morning as soon as I wake, for I know it will do me good, and help me through the day.” - Louisa May Alcott
+“Once you have read a book you care about, some part of it is always with you.” - Louis L'Amour
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Liuqi: Xuanwu Guo Pian
+  <strong>🥭 <u>Title:</u></strong> Konnichiwa Anne: Before Green Gables
 </h4>
 
-<h4>🌿 <u>English Title:</u> Scissor Seven (2021)</h4>
+<h4>🌿 <u>English Title:</u> Before Green Gables</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1884/111224.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/54069.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Mystery</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 39</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Wu Liuqi: Xuanwu Guo Pian](https://myanimelist.net/anime/45556/Wu_Liuqi__Xuanwu_Guo_Pian)*
+🍂 *More information: [Konnichiwa Anne: Before Green Gables](https://myanimelist.net/anime/5494/Konnichiwa_Anne__Before_Green_Gables)*
     
