@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Life without books, chocolate & coffee is just useless.” - Nadun Lokuliyanage
+“In the shop window you have promptly identified the cover with the title you were looking for. Following this visual trail, you have forced your way through the shop past the thick barricade of Books You Haven't Read, which were frowning at you from the tables and shelves, trying to cow you. But you know you must never allow yourself to be awed, that among them there extend for acres and acres the Books You Needn't Read, the Books Made For Purposes Other Than Reading, Books Read Even Before You Open Them Since They Belong To The Category Of Books Read Before Being Written. And thus you pass the outer girdle of ramparts, but then you are attacked by the infantry of the Books That If You Had More Than One Life You Would Certainly Also Read But Unfortunately Your Days Are Numbered. With a rapid maneuver you bypass them and move into the phalanxes of the Books You Mean To Read But There Are Others You Must Read First, the Books Too Expensive Now And You'll Wait Till They're Remaindered, the Books ditto When They Come Out In Paperback, Books You Can Borrow From Somebody, Books That Everybody's Read So It's As If You Had Read Them, Too. Eluding these assaults, you come up beneath the towers of the fortress, where other troops are holding out: - Italo Calvino
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 01: Tokei Jikake no Matenrou
+  <strong>🥭 <u>Title:</u></strong> Mairimashita! Iruma-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed Movie 01: The Time Bombed Skyscraper</h4>
+<h4>🌿 <u>English Title:</u> Welcome to Demon School! Iruma-kun</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/77131.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1009/103187.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1997</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 23</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 01: Tokei Jikake no Matenrou](https://myanimelist.net/anime/779/Meitantei_Conan_Movie_01__Tokei_Jikake_no_Matenrou)*
+🍂 *More information: [Mairimashita! Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)*
     
