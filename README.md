@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What can I say Rango? What can I do to prove to you that I belong to you?” - Anaïs Nin
+“With thought, patience, and discrimination, book passion becomes the signature of a person's character. ” - Nicholas A. Basbanes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Barakamon
+  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV) 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Barakamon</h4>
+<h4>🌿 <u>English Title:</u> Ushio & Tora (2016)</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1092/117404.jpg />
 
-<h4>🌱 Score: 8.37/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
+🍂 *More information: [Ushio to Tora (TV) 2nd Season](https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season)*
     
