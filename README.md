@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“With thought, patience, and discrimination, book passion becomes the signature of a person's character. ” - Nicholas A. Basbanes
+“No one reads; if someone does read, he doesn't understand; if he understands, he immediately forgets.” - Stanislaw Lem
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV) 2nd Season
+  <strong>🥭 <u>Title:</u></strong> IDOLiSH7
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ushio & Tora (2016)</h4>
+<h4>🌿 <u>English Title:</u> IDOLiSH7</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1092/117404.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1390/90828.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 17</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ushio to Tora (TV) 2nd Season](https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season)*
+🍂 *More information: [IDOLiSH7](https://myanimelist.net/anime/33899/IDOLiSH7)*
     
