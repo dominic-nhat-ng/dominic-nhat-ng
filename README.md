@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I do not want to just read books; I want to crawl inside them and live there.” - Anonymous
+“What can I say Rango? What can I do to prove to you that I belong to you?” - Anaïs Nin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cowboy Bebop
+  <strong>🥭 <u>Title:</u></strong> Barakamon
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cowboy Bebop</h4>
+<h4>🌿 <u>English Title:</u> Barakamon</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/19644.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
 
-<h4>🌱 Score: 8.75/10</h4>
+<h4>🌱 Score: 8.37/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)*
+🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
     
