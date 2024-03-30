@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“No one reads; if someone does read, he doesn't understand; if he understands, he immediately forgets.” - Stanislaw Lem
+“Words dazzle and deceive because they are mimed by the face. But black words on a white page are the soul laid bare.” - Guy de Maupassant
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> IDOLiSH7
+  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> IDOLiSH7</h4>
+<h4>🌿 <u>English Title:</u> The King's Avatar 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1390/90828.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1573/109220.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 17</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [IDOLiSH7](https://myanimelist.net/anime/33899/IDOLiSH7)*
+🍂 *More information: [Quanzhi Gaoshou 2](https://myanimelist.net/anime/37932/Quanzhi_Gaoshou_2)*
     
