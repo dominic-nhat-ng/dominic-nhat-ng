@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I do lend my books, but I have to be a bit selective because my marginalia are so incriminating.” --Alison Bechdel” - Leah Price
+“Our clients' faces, with the customary outward paleness and inner glow of the book lover.” - Diane Setterfield
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Undead Unluck
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1136/138410.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)*
     
