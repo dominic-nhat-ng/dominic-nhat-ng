@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Our clients' faces, with the customary outward paleness and inner glow of the book lover.” - Diane Setterfield
+“If you grew up in a rural area, you have seen how farmhouses come and go, but the dent left by cellars is permanent. There is something unbreakable in that hand-dug foundational gouge into the earth. Books are the cellars of civilization: when cultures crumble away, their books remain out of sheer stupid solidity.” - Paul Collins
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Undead Unluck
+  <strong>🥭 <u>Title:</u></strong> Skip Beat!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Skip Beat!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1136/138410.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/84022.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)*
+🍂 *More information: [Skip Beat!](https://myanimelist.net/anime/4722/Skip_Beat)*
     
