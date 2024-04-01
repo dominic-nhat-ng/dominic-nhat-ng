@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I enjoy sharing my books as I do my friends, asking only that you treat them well and see them safely home.” - Ernest Morgan
+“There are many, many types of books in the world, which makes good sense, because there are many, many types of people, and everybody wants to read something different.” - Lemony Snicket
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Xingchen Bian: Po Tian Mi Ju
+  <strong>🥭 <u>Title:</u></strong> Wan Sheng Jie 4
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> All Saints Street 4</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1450/120241.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1567/137044.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Xingchen Bian: Po Tian Mi Ju](https://myanimelist.net/anime/50667/Xingchen_Bian__Po_Tian_Mi_Ju)*
+🍂 *More information: [Wan Sheng Jie 4](https://myanimelist.net/anime/53859/Wan_Sheng_Jie_4)*
     
