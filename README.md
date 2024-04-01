@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are many, many types of books in the world, which makes good sense, because there are many, many types of people, and everybody wants to read something different.” - Lemony Snicket
+“The books we love offer a sketch of a whole universe that we secretly inhabit, and in which we desire the other person to assume a role. - Pierre Bayard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wan Sheng Jie 4
+  <strong>🥭 <u>Title:</u></strong> Zankyou no Terror
 </h4>
 
-<h4>🌿 <u>English Title:</u> All Saints Street 4</h4>
+<h4>🌿 <u>English Title:</u> Terror in Resonance</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1567/137044.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1417/117422.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Wan Sheng Jie 4](https://myanimelist.net/anime/53859/Wan_Sheng_Jie_4)*
+🍂 *More information: [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)*
     
