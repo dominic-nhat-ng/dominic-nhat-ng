@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One kind of good book should leave you asking: how did the author know that about me?” - Alain de Botton
+“The magic is only in what books say, how they stitched the patches of the universe together into one garment for us.” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou: Dianfeng Rongyao
+  <strong>🥭 <u>Title:</u></strong> Zombieland Saga Revenge
 </h4>
 
-<h4>🌿 <u>English Title:</u> The King's Avatar: For the Glory</h4>
+<h4>🌿 <u>English Title:</u> Zombie Land Saga Revenge</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1960/102480.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1118/115156.jpg />
 
-<h4>🌱 Score: 7.97/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Quanzhi Gaoshou: Dianfeng Rongyao](https://myanimelist.net/anime/40080/Quanzhi_Gaoshou__Dianfeng_Rongyao)*
+🍂 *More information: [Zombieland Saga Revenge](https://myanimelist.net/anime/40174/Zombieland_Saga_Revenge)*
     
