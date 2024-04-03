@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“They were steaming out of the station before Maia asked, 'Was it books in the trunk?' - Eva Ibbotson
+“One kind of good book should leave you asking: how did the author know that about me?” - Alain de Botton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Enen no Shouboutai: Ni no Shou
+  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou: Dianfeng Rongyao
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fire Force Season 2</h4>
+<h4>🌿 <u>English Title:</u> The King's Avatar: For the Glory</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1673/107657.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1960/102480.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Enen no Shouboutai: Ni no Shou](https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou)*
+🍂 *More information: [Quanzhi Gaoshou: Dianfeng Rongyao](https://myanimelist.net/anime/40080/Quanzhi_Gaoshou__Dianfeng_Rongyao)*
     
