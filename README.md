@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Dream up a book on Monday, publish it on Friday.” - Jill Novak
+“Literature illuminates life only for those to whom books are a necessity.” - Anthony Powell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dance Dance Danseur
+  <strong>🥭 <u>Title:</u></strong> Nejimaki Seirei Senki: Tenkyou no Alderamin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dance Dance Danseur</h4>
+<h4>🌿 <u>English Title:</u> Alderamin on the Sky</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1571/121381.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/79531.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Dance Dance Danseur](https://myanimelist.net/anime/48702/Dance_Dance_Danseur)*
+🍂 *More information: [Nejimaki Seirei Senki: Tenkyou no Alderamin](https://myanimelist.net/anime/31764/Nejimaki_Seirei_Senki__Tenkyou_no_Alderamin)*
     
