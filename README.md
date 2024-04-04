@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The magic is only in what books say, how they stitched the patches of the universe together into one garment for us.” - Ray Bradbury
+“It was in Durmond that I made the wonderful discovery of interlibrary loan, the greatest invention since the light bulb. - Kathryn Lasky
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zombieland Saga Revenge
+  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Zombie Land Saga Revenge</h4>
+<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1118/115156.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1295/106551.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 8.41/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Comedy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zombieland Saga Revenge](https://myanimelist.net/anime/40174/Zombieland_Saga_Revenge)*
+🍂 *More information: [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)*
     
