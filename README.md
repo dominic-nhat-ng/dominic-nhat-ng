@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Every face, every shop, bedroom window, public-house, and dark square is a picture feverishly turned--in search of what? It is the same with books. What do we seek through millions of pages?” - Virginia Woolf
+“A stereotype becomes a stereotype when a significant percentage of the population appears to conform to it.” - Kelley Armstrong
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Summer Ghost
+  <strong>🥭 <u>Title:</u></strong> Shin Tennis no Oujisama Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Prince of Tennis II Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1651/117943.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/39891.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 7</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Summer Ghost](https://myanimelist.net/anime/48171/Summer_Ghost)*
+🍂 *More information: [Shin Tennis no Oujisama Specials](https://myanimelist.net/anime/13245/Shin_Tennis_no_Oujisama_Specials)*
     
