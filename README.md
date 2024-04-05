@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A stereotype becomes a stereotype when a significant percentage of the population appears to conform to it.” - Kelley Armstrong
+“What are American dry-goods? asked the duchess, raising her large hands in wonder and accentuating the verb. - Oscar Wilde
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shin Tennis no Oujisama Specials
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Prince of Tennis II Specials</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/39891.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Comedy, Sports</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 7</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Shin Tennis no Oujisama Specials](https://myanimelist.net/anime/13245/Shin_Tennis_no_Oujisama_Specials)*
+🍂 *More information: [undefined](undefined)*
     
