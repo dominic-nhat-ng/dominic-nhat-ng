@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What are American dry-goods? asked the duchess, raising her large hands in wonder and accentuating the verb. - Oscar Wilde
+“The books are advancing silently, innocently through my house. There is no way I can stop them.” - Carlos María Domínguez
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Vanitas no Karte Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> The Case Study of Vanitas Part 2</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1247/120579.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Vanitas no Karte Part 2](https://myanimelist.net/anime/49114/Vanitas_no_Karte_Part_2)*
     
