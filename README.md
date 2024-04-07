@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We are much more likely to be drawn to a messy bookstore than a neat one because the mess signifies vitality. We are not drawn to a bookstore because of tasteful, Finnish shelves in gunmetal gray mesh, each one displaying three carefully chosen, color-coordinated covers. Clutter -- orderly clutter, if possible -- is what we expect. Like a city. It's not quite a city unless there's more than enough.” - Lewis Buzbee
+“A book is a device to ignite the imagination.” - Alan Bennett
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Black Butler</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1467/137783.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji)*
     
