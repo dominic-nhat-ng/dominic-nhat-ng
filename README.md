@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book is a device to ignite the imagination.” - Alan Bennett
+“My fingers positively itched to drift at length along their spines, to arrive at one whose lure I could not pass, to pluck it down, to inch it open, then to close my eyes and inhale the soul-sparking scent of old and literate dust.” - Kate Morton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji
+  <strong>🥭 <u>Title:</u></strong> Wotaku ni Koi wa Muzukashii
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler</h4>
+<h4>🌿 <u>English Title:</u> Wotakoi: Love is Hard for Otaku</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1467/137783.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1864/93518.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji)*
+🍂 *More information: [Wotaku ni Koi wa Muzukashii](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii)*
     
