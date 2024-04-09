@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There's nothing shocking about celebrities going topless, getting drunk, or falling over. Let me know when they read a book.” - Fuad Alakbarov
+“I could read the great books but the great books don't interest me.” - Charles Bukowski
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium Movie 3: Chikai no Finale
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium: Our Promise: A Brand New Day</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1141/102223.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium Movie 3: Chikai no Finale](https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale)*
+🍂 *More information: [undefined](undefined)*
     
