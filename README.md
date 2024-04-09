@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I am sure you would not understand if I told you my father is delightfully clear and selfish, tender and lying, formal and incurable. He exhausts all the loves given to him. If I did not leave his house at night to warm myself in Rango's burning hands I would die at my task, arid and barren, sapless, while my father monologues about his past, and I yawn yawn yawn...” - Anaïs Nin
+“There's nothing shocking about celebrities going topless, getting drunk, or falling over. Let me know when they read a book.” - Fuad Alakbarov
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium Movie 3: Chikai no Finale
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium: Our Promise: A Brand New Day</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1467/137783.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1141/102223.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji)*
+🍂 *More information: [Hibike! Euphonium Movie 3: Chikai no Finale](https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale)*
     
