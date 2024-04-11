@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.” - Julian Barnes
+“Who was it who said, "I hold the buying of more books than one can peradventure read, as nothing less than the soul's reaching towards infinity; which is the only thing that raises us above the beasts that perish?" Whoever it was, I agree with him.” - A. Edward Newton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tamayura: Sotsugyou Shashin Part 4 - Ashita
+  <strong>🥭 <u>Title:</u></strong> Shokugeki no Souma: Ni no Sara
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Food Wars! The Second Plate</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1697/134884.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/79353.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Gourmet, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tamayura: Sotsugyou Shashin Part 4 - Ashita](https://myanimelist.net/anime/29831/Tamayura__Sotsugyou_Shashin_Part_4_-_Ashita)*
+🍂 *More information: [Shokugeki no Souma: Ni no Sara](https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara)*
     
