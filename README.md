@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Betsy returned to her chair, took off her coat and hat, opened her book and forgot the world again.” - Maud Hart Lovelace
+“When we read a story, we inhabit it. The covers of the book are like a roof and four walls. What is to happen next will take place within the four walls of the story. And this is possible because the story's voice makes everything its own.” - John Berger
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Black Clover
+  <strong>🥭 <u>Title:</u></strong> Full Metal Panic! Invisible Victory
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Clover</h4>
+<h4>🌿 <u>English Title:</u> Full Metal Panic! Invisible Victory</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/88336.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1033/92011.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Black Clover](https://myanimelist.net/anime/34572/Black_Clover)*
+🍂 *More information: [Full Metal Panic! Invisible Victory](https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory)*
     
