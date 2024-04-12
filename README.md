@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Some of these things are true and some of them lies. But they are all good stories.” - Hilary Mantel
+“Everyone creates realities based on their own personal beliefs. These beliefs are so powerful that they can create [expansive or entrapping] realities over and over.~Kuan Yin” - Hope Bradford
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bleach
+  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bleach</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/40451.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1546/102680.jpg />
 
-<h4>🌱 Score: 7.94/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Bleach](https://myanimelist.net/anime/269/Bleach)*
+🍂 *More information: [Kengan Ashura Part 2](https://myanimelist.net/anime/40269/Kengan_Ashura_Part_2)*
     
