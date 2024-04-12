@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In God's eye I spit, hair upon thy rigid tail sharp fangs glittery wet. Earth be thy sand, the sinful be thy toy, I've been playing forever, in song no longer do I find joy. In Gods eye I fight the bad fight with a goal as sharp as an axe, to ungently place thy hands upon its omnipotent thorax.” - A.K. Kuykendall
+“Some of these things are true and some of them lies. But they are all good stories.” - Hilary Mantel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 40: Nobita no Shin Kyouryuu
+  <strong>🥭 <u>Title:</u></strong> Bleach
 </h4>
 
-<h4>🌿 <u>English Title:</u> Doraemon the Movie 2020: Nobita's New Dinosaur</h4>
+<h4>🌿 <u>English Title:</u> Bleach</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1745/108659.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/40451.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doraemon Movie 40: Nobita no Shin Kyouryuu](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)*
+🍂 *More information: [Bleach](https://myanimelist.net/anime/269/Bleach)*
     
