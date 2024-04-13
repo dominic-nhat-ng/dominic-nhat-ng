@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What a blessing it is to love books as I love them;- to be able to converse with the dead, and to live amidst the unreal!” - Thomas Babington Macaulay
+“This book is not for people who read covers. Hence the reason the “about this book” section is on the inside. Because it will take that level of understanding to interpret the inside. The will, to want to read. You have to be willing to open the book, to find out about the book. - The Affidavit of Niedria Dionne Kenny” - Niedria Dionne Kenny
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Durarara!!x2 Ten: Onoroke Chakapoko
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Durarara!!x2 Ten Episode 13.5</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/76082.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Durarara!!x2 Ten: Onoroke Chakapoko](https://myanimelist.net/anime/31552/Durararax2_Ten__Onoroke_Chakapoko)*
     
