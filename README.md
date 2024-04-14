@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But words are things, and a small drop of ink, - George Gordon Byron
+“One day I would have all the books in the world, shelves and shelves of them. I would live my life in a tower of books. I would read all day long and eat peaches. And if any young knights in armor dared to come calling on their white chargers and plead with me to let down my hair, I would pelt them with peach pits until they went home.” - Jacqueline Kelly
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint☆Oniisan (Movie)
+  <strong>🥭 <u>Title:</u></strong> Karigurashi no Arrietty
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint☆Young Men (Movie)</h4>
+<h4>🌿 <u>English Title:</u> The Secret World of Arrietty</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/48723.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1974/116417.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Award Winning, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Saint☆Oniisan (Movie)](https://myanimelist.net/anime/15771/Saint☆Oniisan_Movie)*
+🍂 *More information: [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)*
     
