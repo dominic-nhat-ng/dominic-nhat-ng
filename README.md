@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One day I would have all the books in the world, shelves and shelves of them. I would live my life in a tower of books. I would read all day long and eat peaches. And if any young knights in armor dared to come calling on their white chargers and plead with me to let down my hair, I would pelt them with peach pits until they went home.” - Jacqueline Kelly
+“But what struck me was the book-madness of the place--books lay scattered across the unmade bed and the top of a battered-looking desk, books stood in knee-high piles on the floor, books were crammed sideways and right side up in a narrow bookcase that rose higher than my head and leaned dangerously from the wall, books sat in stacks on top of a dingy dresser. The closet door was propped open by a pile of books, and from beneath the bed a book stuck out beside the toe of a maroon slipper.” - Steven Millhauser
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Karigurashi no Arrietty
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Secret World of Arrietty</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1974/116417.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Award Winning, Fantasy</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)*
+🍂 *More information: [undefined](undefined)*
     
