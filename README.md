@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It is one of the strongest bonds, I think, that can spring up between people: sharing a passion for certain books and their authors.” - Alice Steinbach
+“In the shop we buy and sell them, but in truth books have no owner. Every book you see here has been somebody’s best friend.” - Carlos Ruiz Zafón
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Shuumatsu Ryokou
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Girls' Last Tour</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/88321.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou)*
+🍂 *More information: [undefined](undefined)*
     
