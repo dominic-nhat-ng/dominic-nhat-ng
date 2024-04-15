@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“La lecture de tous les bons livres est comme une conversation avec les plus honnêtes gens des siècles passés.” - René Descartes
+“It is one of the strongest bonds, I think, that can spring up between people: sharing a passion for certain books and their authors.” - Alice Steinbach
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!!
+  <strong>🥭 <u>Title:</u></strong> Shoujo Shuumatsu Ryokou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!!</h4>
+<h4>🌿 <u>English Title:</u> Girls' Last Tour</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/76014.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/88321.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Adventure, Mystery, Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)*
+🍂 *More information: [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou)*
     
