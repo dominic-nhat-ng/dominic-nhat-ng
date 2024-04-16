@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are books about magic and there are books of magic, and the price of the latter is far above rubies.” - Susanna Clarke
+“If you read many books, you may or may not become an atheist, but if you read 'nature', you will surely become a theist!” - Md. Ziaul Haque
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dorohedoro
+  <strong>🥭 <u>Title:</u></strong> Evangelion Movie 3: Q
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Evangelion: 3.0 You Can (Not) Redo</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1740/104786.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/43201.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
+🍂 *More information: [Evangelion Movie 3: Q](https://myanimelist.net/anime/3785/Evangelion_Movie_3__Q)*
     
