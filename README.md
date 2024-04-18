@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading,' Ead said lightly. 'A dangerous pastime.” - Samantha Shannon
+“There is this idea that you either read to escape or you read to find yourself. I don't really see the difference. We find ourselves through the process of escaping.” - Matt Haig
 </i>
 </blockquote>
 
