@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I often carry things to read so that I will not have to look at the people.” - CHARLES BUKOWSKI
+“إحدى يديه كانت منهمكة بالعبث في خصلات شعري - نجلاء حسن
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Irozuku Sekai no Ashita kara
+  <strong>🥭 <u>Title:</u></strong> Tsubasa Chronicle 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Iroduku: The World in Colors</h4>
+<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE Season Two</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1424/93855.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/6554.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Irozuku Sekai no Ashita kara](https://myanimelist.net/anime/37497/Irozuku_Sekai_no_Ashita_kara)*
+🍂 *More information: [Tsubasa Chronicle 2nd Season](https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season)*
     
