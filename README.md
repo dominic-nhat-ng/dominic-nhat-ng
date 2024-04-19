@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You know a book is well-written when it makes you read it over and over again, and in every time you enjoy the events, interact with the conflict, and continue to the ending. It teaches you new lessons every time and uplifts your spirit, reminding you with needed humanitarian feelings.” - Noora Ahmed Alsuwaidi
+“Reading, for all of us, is fettered only by obvious restrictions. You can't own all that you want or need to read. There are, then, two kinds of books--yours, and the contents of libraries. There is the actual, personal library, your own shelves, which mark out reading inclinations, decade by decade, and the virtual library in the head--the floating assemblage of fragments and images and impressions and information half-remembered that forms the climate of the mind, the distillation of reading experiences that makes each of us what we are.” - Penelope Lively
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shen Yin Wangzuo 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Gridman Universe
 </h4>
 
-<h4>🌿 <u>English Title:</u> Throne of Seal 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1279/126735.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1897/133657.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 8.13/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 78</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shen Yin Wangzuo 2nd Season](https://myanimelist.net/anime/52684/Shen_Yin_Wangzuo_2nd_Season)*
+🍂 *More information: [Gridman Universe](https://myanimelist.net/anime/50587/Gridman_Universe)*
     
