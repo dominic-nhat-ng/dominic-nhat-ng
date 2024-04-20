@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And if our book consumption remains as low as it has been, at least let us admit that it is because reading is a less exciting pastime than going to the dogs, the pictures or the pub, and not because books, whether bought or borrowed, are too expensive.” - George Orwell
+“Lewat membaca kita bisa bersentuhan dengan seluruh pengalaman manusia: kegembiraan, tragedi, kemenangan, kekalahan, kepahlawanan, dan bahkan keberadaan manusia yang paling dasar, yang paling sepele, dan yang paling biasa-biasa saja.” - Desi Anwar
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinseiki Evangelion
+  <strong>🥭 <u>Title:</u></strong> Ookami to Koushinryou: Merchant Meets the Wise Wolf
 </h4>
 
-<h4>🌿 <u>English Title:</u> Neon Genesis Evangelion</h4>
+<h4>🌿 <u>English Title:</u> Spice and Wolf: Merchant Meets the Wise Wolf</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1314/108941.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1059/142414.jpg />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: 8.23/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Avant Garde, Award Winning, Drama, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shinseiki Evangelion](https://myanimelist.net/anime/30/Shinseiki_Evangelion)*
+🍂 *More information: [Ookami to Koushinryou: Merchant Meets the Wise Wolf](https://myanimelist.net/anime/51122/Ookami_to_Koushinryou__Merchant_Meets_the_Wise_Wolf)*
     
