@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Teddy bears are best because they understand it's nice to be alone.” - Sloane Crosley
+“And if our book consumption remains as low as it has been, at least let us admit that it is because reading is a less exciting pastime than going to the dogs, the pictures or the pub, and not because books, whether bought or borrowed, are too expensive.” - George Orwell
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Senjou no Valkyria
+  <strong>🥭 <u>Title:</u></strong> Shinseiki Evangelion
 </h4>
 
-<h4>🌿 <u>English Title:</u> Valkyria Chronicles</h4>
+<h4>🌿 <u>English Title:</u> Neon Genesis Evangelion</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/53901.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1314/108941.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.35/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Action, Romance</h4>
+<h4>🌵 Genres: Action, Avant Garde, Award Winning, Drama, Sci-Fi, Suspense</h4>
 
 <h4>🥑 Episodes: 26</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Senjou no Valkyria](https://myanimelist.net/anime/5507/Senjou_no_Valkyria)*
+🍂 *More information: [Shinseiki Evangelion](https://myanimelist.net/anime/30/Shinseiki_Evangelion)*
     
