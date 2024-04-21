@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“However much you study, you cannot know without action. - Saadi of Shiraz
+“All books are divisible into two classes: the books of the hours, and the books of all Time.” - John Ruskin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 03: Seikimatsu no Majutsushi
+  <strong>🥭 <u>Title:</u></strong> Hunter x Hunter: Original Video Animation
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed Movie 03: The Last Wizard of the Century</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1831/94317.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1/137.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 8</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 03: Seikimatsu no Majutsushi](https://myanimelist.net/anime/781/Meitantei_Conan_Movie_03__Seikimatsu_no_Majutsushi)*
+🍂 *More information: [Hunter x Hunter: Original Video Animation](https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation)*
     
