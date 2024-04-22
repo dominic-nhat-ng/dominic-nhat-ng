@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Every article and review and book that I have ever published has constituted an appeal to the person or persons to whom I should have talked before I dared to write it. I never launch any little essay without the hope—and the fear, because the encounter may also be embarrassing—that I shall draw a letter that begins, 'Dear Mr. Hitchens, it seems that you are unaware that…' It is in this sense that authorship is collaborative with 'the reader.' And there's no help for it: you only find out what you ought to have known by pretending to know at least some of it already. - Christopher Hitchens
+“The difference between a novelist and someone who tinkers around with writing is this: novelists finish their books.” - Nancy Etchemendy
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kamisama Hajimemashita: Kamisama, Shiawase ni Naru
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba Movie: Mugen Ressha-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/83437.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1704/106947.jpg />
 
-<h4>🌱 Score: 8.16/10</h4>
+<h4>🌱 Score: 8.59/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kamisama Hajimemashita: Kamisama, Shiawase ni Naru](https://myanimelist.net/anime/33323/Kamisama_Hajimemashita__Kamisama_Shiawase_ni_Naru)*
+🍂 *More information: [Kimetsu no Yaiba Movie: Mugen Ressha-hen](https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen)*
     
