@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“All books are divisible into two classes: the books of the hours, and the books of all Time.” - John Ruskin
+“Every article and review and book that I have ever published has constituted an appeal to the person or persons to whom I should have talked before I dared to write it. I never launch any little essay without the hope—and the fear, because the encounter may also be embarrassing—that I shall draw a letter that begins, 'Dear Mr. Hitchens, it seems that you are unaware that…' It is in this sense that authorship is collaborative with 'the reader.' And there's no help for it: you only find out what you ought to have known by pretending to know at least some of it already. - Christopher Hitchens
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hunter x Hunter: Original Video Animation
+  <strong>🥭 <u>Title:</u></strong> Kamisama Hajimemashita: Kamisama, Shiawase ni Naru
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1/137.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/83437.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 8.16/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 8</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hunter x Hunter: Original Video Animation](https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation)*
+🍂 *More information: [Kamisama Hajimemashita: Kamisama, Shiawase ni Naru](https://myanimelist.net/anime/33323/Kamisama_Hajimemashita__Kamisama_Shiawase_ni_Naru)*
     
