@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I think that every reader on earth has a list of cherished books as unique as their fingerprints....I think that, as you age, you tend to gravitate towards the classics, but those aren't the books that give you the same sort of hope for the world that a cherished book does.” - Douglas Coupland
+“How can you tell? That I like books, I mean. - Cassandra Clare
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Tsukimonogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Tsukimonogatari</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/68259.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Comedy, Mystery, Supernatural, Ecchi</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Tsukimonogatari](https://myanimelist.net/anime/28025/Tsukimonogatari)*
     
