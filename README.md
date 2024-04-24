@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[T]he only luxury he allows himself is buying books, paperback books, mostly novels, American novels, British novels, foreign novels in translation, but in the end books are not luxuries so much as necessities, and reading is an addiction he has no wish to be cured of.” - Paul Auster
+“You learn almost as much about a thinker from what he reads—in particular, what he likes and what he disdains—as from what he writes himself.” - Rodney Ulyate
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai
+  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka??
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikara-san: Here Comes Miss Modern</h4>
+<h4>🌿 <u>English Title:</u> Is the Order a Rabbit??</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1061/93069.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/76702.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai](https://myanimelist.net/anime/33378/Haikara-san_ga_Tooru_Movie_1__Benio_Hana_no_17-sai)*
+🍂 *More information: [Gochuumon wa Usagi desu ka??](https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_desu_ka)*
     
