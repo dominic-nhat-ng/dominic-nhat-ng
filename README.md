@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“How can you tell? That I like books, I mean. - Cassandra Clare
+“[T]he only luxury he allows himself is buying books, paperback books, mostly novels, American novels, British novels, foreign novels in translation, but in the end books are not luxuries so much as necessities, and reading is an addiction he has no wish to be cured of.” - Paul Auster
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsukimonogatari
+  <strong>🥭 <u>Title:</u></strong> Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsukimonogatari</h4>
+<h4>🌿 <u>English Title:</u> Haikara-san: Here Comes Miss Modern</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/68259.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1061/93069.jpg />
 
-<h4>🌱 Score: 8.09/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Supernatural, Ecchi</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tsukimonogatari](https://myanimelist.net/anime/28025/Tsukimonogatari)*
+🍂 *More information: [Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai](https://myanimelist.net/anime/33378/Haikara-san_ga_Tooru_Movie_1__Benio_Hana_no_17-sai)*
     
