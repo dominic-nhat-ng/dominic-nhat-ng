@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Everyone’s talking about the death and disappearance of the book as a format and an object. I don’t think that will happen. I think whatever happens, we have to figure out a way to protect our imaginations. Stories and poetry do that. You need a language in this world. People want words, they want to hear their situation in language, and find a way to talk about it. It allows you to find a language to talk about your own pain. - Jeanette Winterson
+“One author said "I write because I want to live a footprint in the sands of history.” It's hard to live a footprint in the sands of history when giants are passing through the same sands unless you are one of the giants” - Bangambiki Habyarimana
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi to, Nami ni Noretara
+  <strong>🥭 <u>Title:</u></strong> Dorohedoro
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ride Your Wave</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1893/99701.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1740/104786.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kimi to, Nami ni Noretara](https://myanimelist.net/anime/38594/Kimi_to_Nami_ni_Noretara)*
+🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
     
