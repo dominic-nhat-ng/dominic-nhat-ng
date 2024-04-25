@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One author said "I write because I want to live a footprint in the sands of history.” It's hard to live a footprint in the sands of history when giants are passing through the same sands unless you are one of the giants” - Bangambiki Habyarimana
+“Be awesome! Be a book nut!” - Dr. Seuss
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dorohedoro
+  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai: Tenri-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The World God Only Knows: Tenri Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1740/104786.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/43359.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
+🍂 *More information: [Kami nomi zo Shiru Sekai: Tenri-hen](https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen)*
     
