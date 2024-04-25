@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books long to be read as we humans long to be loved.” - Keira Michelle Telford
+“Everyone’s talking about the death and disappearance of the book as a format and an object. I don’t think that will happen. I think whatever happens, we have to figure out a way to protect our imaginations. Stories and poetry do that. You need a language in this world. People want words, they want to hear their situation in language, and find a way to talk about it. It allows you to find a language to talk about your own pain. - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ashita no Joe 2
+  <strong>🥭 <u>Title:</u></strong> Kimi to, Nami ni Noretara
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tomorrow's Joe 2</h4>
+<h4>🌿 <u>English Title:</u> Ride Your Wave</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/45028.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1893/99701.jpg />
 
-<h4>🌱 Score: 8.74/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1980</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 47</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ashita no Joe 2](https://myanimelist.net/anime/2921/Ashita_no_Joe_2)*
+🍂 *More information: [Kimi to, Nami ni Noretara](https://myanimelist.net/anime/38594/Kimi_to_Nami_ni_Noretara)*
     
