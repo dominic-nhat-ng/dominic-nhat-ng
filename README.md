@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“هناك كتب مثل الخرائط تهديك إلى غيرها و هناك كتب تحتاج إلى خرائط لأن الذي يقلبها يضيع فيها” - أنيس منصور
+“...'and I have my mind...and a mind needs books as a sword needs a whetstone, if it is to keep its edge.' Tyrion tapped the leather cover of the book. 'That's why I read so much, Jon Snow.” - George R.R. Martin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yoru ni Kakeru
+  <strong>🥭 <u>Title:</u></strong> Higashi no Eden
 </h4>
 
-<h4>🌿 <u>English Title:</u> Racing into the Night</h4>
+<h4>🌿 <u>English Title:</u> Eden of The East</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1548/124083.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/15033.jpg />
 
-<h4>🌱 Score: 8.33/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Award Winning, Mystery, Romance, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yoru ni Kakeru](https://myanimelist.net/anime/48653/Yoru_ni_Kakeru)*
+🍂 *More information: [Higashi no Eden](https://myanimelist.net/anime/5630/Higashi_no_Eden)*
     
