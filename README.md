@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Be awesome! Be a book nut!” - Dr. Seuss
+“The problem with books is that they end.” - Caroline Kepnes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai: Tenri-hen
+  <strong>🥭 <u>Title:</u></strong> Macross
 </h4>
 
-<h4>🌿 <u>English Title:</u> The World God Only Knows: Tenri Arc</h4>
+<h4>🌿 <u>English Title:</u> Macross</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/43359.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1553/137717.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 1982</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 36</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kami nomi zo Shiru Sekai: Tenri-hen](https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen)*
+🍂 *More information: [Macross](https://myanimelist.net/anime/1088/Macross)*
     
