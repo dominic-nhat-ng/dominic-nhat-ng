@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The problem with books is that they end.” - Caroline Kepnes
+“هناك كتب مثل الخرائط تهديك إلى غيرها و هناك كتب تحتاج إلى خرائط لأن الذي يقلبها يضيع فيها” - أنيس منصور
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Macross
+  <strong>🥭 <u>Title:</u></strong> Yoru ni Kakeru
 </h4>
 
-<h4>🌿 <u>English Title:</u> Macross</h4>
+<h4>🌿 <u>English Title:</u> Racing into the Night</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1553/137717.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1548/124083.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 8.33/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 1982</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 36</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Macross](https://myanimelist.net/anime/1088/Macross)*
+🍂 *More information: [Yoru ni Kakeru](https://myanimelist.net/anime/48653/Yoru_ni_Kakeru)*
     
