@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“My head’ll explode if I continue with this escapism.” - Jess C Scott
+“The fascination exerted by one human being over another is not what he emits of his personality at the present instant of encounter but a summation of his entire being which gives off this powerful drug capturing the fancy and attachment.” - Anaïs Nin
 </i>
 </blockquote>
 
