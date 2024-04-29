@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Sidda can't help herself. She just loves books. Loves the way they feel, the way they smell, loves the black letters marching across the white pages...” - Rebecca Wells
+“Any book without a mistake in it has had too much money spent on it.” - William Collins
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sora yori mo Tooi Basho
+  <strong>🥭 <u>Title:</u></strong> Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Place Further Than The Universe</h4>
+<h4>🌿 <u>English Title:</u> Haikara-san: Here Comes Miss Modern</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/89879.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1061/93069.jpg />
 
-<h4>🌱 Score: 8.52/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Drama</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho)*
+🍂 *More information: [Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai](https://myanimelist.net/anime/33378/Haikara-san_ga_Tooru_Movie_1__Benio_Hana_no_17-sai)*
     
