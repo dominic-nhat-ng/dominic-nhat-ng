@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book is read one page at a time. A shelf is read one book at a time. A library is read one shelf at a time.” - Terry Goodkind
+“It's the best way of telling the truth; it's a process of producing grand, beautiful, well-ordered lies that tell more truth than any assemblage of facts. Beyond that … [it's] delight in, and play with, language; also, a curiously intimate way of communicating with people whom you will never meet.” - Julian Barnes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka??
+  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Is the Order a Rabbit??</h4>
+<h4>🌿 <u>English Title:</u> Cardcaptor Sakura The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/76702.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1733/90336.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Gochuumon wa Usagi desu ka??](https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_desu_ka)*
+🍂 *More information: [Cardcaptor Sakura Movie 1](https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1)*
     
