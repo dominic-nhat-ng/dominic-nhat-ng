@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There isn’t any particular relationship between the messages, except that the author has chosen them carefully, so that, when seen all at once, they produce an image of life that is beautiful and surprising and deep. There is no beginning, no middle, no end, no suspense, no moral, no causes, no effects. What we love in our books are the depths of many marvelous moments seen all at one time.” - Kurt Vonnegut
+“So go back to the books. They will comfort you and cheer you. If you earnestly work with them, neither sorrow nor anxiety nor distress nor suffering need trouble your mind any more, no, not evermore.” - Walter Wangerin Jr.
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kyousou Giga (TV)
+  <strong>🥭 <u>Title:</u></strong> Douluo Dalu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kyousougiga</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/85431.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1438/101531.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kyousou Giga (TV)](https://myanimelist.net/anime/19703/Kyousou_Giga_TV)*
+🍂 *More information: [Douluo Dalu](https://myanimelist.net/anime/37150/Douluo_Dalu)*
     
