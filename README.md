@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Collect books, even if you don’t plan on reading them right away. Filmmaker John Waters has said, “Nothing is more important than an unread library.” - Austin Kleon
+“Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.” - Mark Twain
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Yuukaku-hen
+  <strong>🥭 <u>Title:</u></strong> Tennis no Oujisama
 </h4>
 
-<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Entertainment District Arc</h4>
+<h4>🌿 <u>English Title:</u> The Prince of Tennis</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1908/120036.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/21624.jpg />
 
-<h4>🌱 Score: 8.75/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimetsu no Yaiba: Yuukaku-hen](https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen)*
+🍂 *More information: [Tennis no Oujisama](https://myanimelist.net/anime/22/Tennis_no_Oujisama)*
     
