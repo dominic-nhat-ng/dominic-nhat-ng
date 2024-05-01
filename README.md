@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A successful book is not made of what is in it, but what is left out of it.” - Mark Twain
+“Collect books, even if you don’t plan on reading them right away. Filmmaker John Waters has said, “Nothing is more important than an unread library.” - Austin Kleon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Yuukaku-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Entertainment District Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1908/120036.jpg />
 
-<h4>🌱 Score: 8.37/10</h4>
+<h4>🌱 Score: 8.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Adventure</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
+🍂 *More information: [Kimetsu no Yaiba: Yuukaku-hen](https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen)*
     
