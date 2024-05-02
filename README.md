@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“... la alegría infantil de sumergirse en una conversación inesperada con un completo desconocido para descubrirse, horas después -y bajo toneladas hipercalóricas de "¿leíste a tal?". "¡Sí! ¿Y leíste a tal?". "¡Sí! ¿Y leíste a tal?"-, pensando que ése, sí, es el comienzo de una gran amistad.” - Leila Guerriero
+“I never minded the random scribblings of other readers, found them interesting in fact. It is a truth universally acknowledged that people write the darndest things in the margins of their books.” - Tara Bray Smith
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!!
+  <strong>🥭 <u>Title:</u></strong> Digimon Tamers
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!!</h4>
+<h4>🌿 <u>English Title:</u> Digimon Tamers</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/76014.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/73696.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 51</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)*
+🍂 *More information: [Digimon Tamers](https://myanimelist.net/anime/874/Digimon_Tamers)*
     
