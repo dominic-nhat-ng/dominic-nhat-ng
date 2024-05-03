@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Unless their use by readers bring them to life, books are indeed dead things.” - Lawrence Clark Powell
+“The days weren't long enough for the reading she wanted to do.” - Alan Bennett
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Over Drive
+  <strong>🥭 <u>Title:</u></strong> Xingchen Bian: Po Tian Mi Ju
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/89534.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1450/120241.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 16</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Over Drive](https://myanimelist.net/anime/2112/Over_Drive)*
+🍂 *More information: [Xingchen Bian: Po Tian Mi Ju](https://myanimelist.net/anime/50667/Xingchen_Bian__Po_Tian_Mi_Ju)*
     
