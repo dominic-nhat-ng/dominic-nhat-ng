@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I never minded the random scribblings of other readers, found them interesting in fact. It is a truth universally acknowledged that people write the darndest things in the margins of their books.” - Tara Bray Smith
+“Unless their use by readers bring them to life, books are indeed dead things.” - Lawrence Clark Powell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Digimon Tamers
+  <strong>🥭 <u>Title:</u></strong> Over Drive
 </h4>
 
-<h4>🌿 <u>English Title:</u> Digimon Tamers</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/73696.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/89534.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Digimon Tamers](https://myanimelist.net/anime/874/Digimon_Tamers)*
+🍂 *More information: [Over Drive](https://myanimelist.net/anime/2112/Over_Drive)*
     
