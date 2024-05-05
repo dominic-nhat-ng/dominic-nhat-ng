@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books do not per­ish like hu­mankind. Of course we com­mon­ly see them bro­ken in the hab­er­dash­er's shop when on­ly a few months be­fore they lay bound on the sta­tion­er's stall; these are not true works, but mere trash and new­fan­gle­ness for the vul­gar. There are thou­sands of such gew­gaws and toys which peo­ple have in their cham­bers, or which they keep up­on their shelves, be­liev­ing that they are pre­cious things, when they are the mere pass­ing fol­lies of the pass­ing time and of no more val­ue than pa­pers gath­ered up from some dunghill or raked by chance out of the ken­nel. True books are filled with the pow­er of the un­der­stand­ing which is the in­her­itance of the ages: you may take up a book in time, but you read it in eter­ni­ty.” - Peter Ackroyd
+“There are books for when you’re bored. Plenty of them. There are books for when you’re calm. The best kind, in my opinion. There are also books for when you’re sad. And there are books for when you’re happy. There are books for when you’re thirsty for knowledge. And there are books for when you’re desperate. The latter are the kind of books Ulises Lima and Belano wanted to write.” - Roberto Bolaño
 </i>
 </blockquote>
 
