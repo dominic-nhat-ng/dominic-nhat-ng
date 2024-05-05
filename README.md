@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are books for when you’re bored. Plenty of them. There are books for when you’re calm. The best kind, in my opinion. There are also books for when you’re sad. And there are books for when you’re happy. There are books for when you’re thirsty for knowledge. And there are books for when you’re desperate. The latter are the kind of books Ulises Lima and Belano wanted to write.” - Roberto Bolaño
+“Sometimes I think books are the only friends worth having.” - Susie Derkins
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Little Witch Academia
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/42989.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Little Witch Academia](https://myanimelist.net/anime/14349/Little_Witch_Academia)*
     
