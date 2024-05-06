@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Any book represents effort, struggle, work--I know, I write them myself--every book deserves attention, even if that ends with dismissal.” - Penelope Lively
+“Just as music is noise that makes sense, a painting is colour that makes sense, so a story is life that makes sense.” - Yann Martel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shin Kidou Senki Gundam Wing: Endless Waltz Special
+  <strong>🥭 <u>Title:</u></strong> Tunshi Xingkong 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam Wing: Endless Waltz</h4>
+<h4>🌿 <u>English Title:</u> Swallowed Star 3rd Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1907/139447.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1250/138217.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.32/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 33</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shin Kidou Senki Gundam Wing: Endless Waltz Special](https://myanimelist.net/anime/2273/Shin_Kidou_Senki_Gundam_Wing__Endless_Waltz_Special)*
+🍂 *More information: [Tunshi Xingkong 3rd Season](https://myanimelist.net/anime/56523/Tunshi_Xingkong_3rd_Season)*
     
