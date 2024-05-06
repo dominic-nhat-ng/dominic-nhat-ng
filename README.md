@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Just as music is noise that makes sense, a painting is colour that makes sense, so a story is life that makes sense.” - Yann Martel
+“Reading a book is like re-writing it for yourself. You bring to a novel, anything you read, all your experience of the world. You bring your history and you read it in your own terms.” - Angela Carter
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tunshi Xingkong 3rd Season
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! Garupa☆Pico Fever!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Swallowed Star 3rd Season</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1250/138217.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1724/117808.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 33</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tunshi Xingkong 3rd Season](https://myanimelist.net/anime/56523/Tunshi_Xingkong_3rd_Season)*
+🍂 *More information: [BanG Dream! Garupa☆Pico Fever!](https://myanimelist.net/anime/49123/BanG_Dream_Garupa☆Pico_Fever)*
     
