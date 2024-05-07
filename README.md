@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading a book is like re-writing it for yourself. You bring to a novel, anything you read, all your experience of the world. You bring your history and you read it in your own terms.” - Angela Carter
+“He rolled his eyes. "Fiction lies for the truth.” - Kristine Grayson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! Garupa☆Pico Fever!
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan OAD</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1724/117808.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/59221.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! Garupa☆Pico Fever!](https://myanimelist.net/anime/49123/BanG_Dream_Garupa☆Pico_Fever)*
+🍂 *More information: [Shingeki no Kyojin OVA](https://myanimelist.net/anime/18397/Shingeki_no_Kyojin_OVA)*
     
