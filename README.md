@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Een persoon kan ongeveer 3000 boeken lezen in zijn leven. Geef jij iets vijf sterren, dan zeg je eigenlijk: dat moet een van die 3000 boeken zijn. Een liefhebber zou het liefst 3000 meesterwerken lezen. Dus al die drie en vier sterrenboeken: ik lees ze niet, en als het vijf sterren heeft zonder dat het in de 3000 thuishoort dan zijn we getuige van een literaire misdaad.” - Martijn Benders
+“Literature can remind us that not all life is already written down: there are still so many stories to be told.” - Colum McCann
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hatsukoi Jikan
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1163/138201.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Hatsukoi Jikan](https://myanimelist.net/anime/56511/Hatsukoi_Jikan)*
+🍂 *More information: [undefined](undefined)*
     
