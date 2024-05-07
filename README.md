@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He rolled his eyes. "Fiction lies for the truth.” - Kristine Grayson
+“Een persoon kan ongeveer 3000 boeken lezen in zijn leven. Geef jij iets vijf sterren, dan zeg je eigenlijk: dat moet een van die 3000 boeken zijn. Een liefhebber zou het liefst 3000 meesterwerken lezen. Dus al die drie en vier sterrenboeken: ik lees ze niet, en als het vijf sterren heeft zonder dat het in de 3000 thuishoort dan zijn we getuige van een literaire misdaad.” - Martijn Benders
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin OVA
+  <strong>🥭 <u>Title:</u></strong> Hatsukoi Jikan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan OAD</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/59221.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1163/138201.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin OVA](https://myanimelist.net/anime/18397/Shingeki_no_Kyojin_OVA)*
+🍂 *More information: [Hatsukoi Jikan](https://myanimelist.net/anime/56511/Hatsukoi_Jikan)*
     
