@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You can viddy that everything in this wicked world counts. You can pony that one thing always leads to another. Right right right.” - Anthony Burgess
+“Luckily, I always travel with a book, just in case I have to wait on line for Santa, or some such inconvenience.” - David Levithan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chainsaw Man
+  <strong>🥭 <u>Title:</u></strong> Sakigake!! Cromartie Koukou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Chainsaw Man</h4>
+<h4>🌿 <u>English Title:</u> Cromartie High School</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1806/126216.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1782/130913.jpg />
 
-<h4>🌱 Score: 8.51/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chainsaw Man](https://myanimelist.net/anime/44511/Chainsaw_Man)*
+🍂 *More information: [Sakigake!! Cromartie Koukou](https://myanimelist.net/anime/114/Sakigake_Cromartie_Koukou)*
     
