@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature can remind us that not all life is already written down: there are still so many stories to be told.” - Colum McCann
+“You can viddy that everything in this wicked world counts. You can pony that one thing always leads to another. Right right right.” - Anthony Burgess
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Chainsaw Man
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Chainsaw Man</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1806/126216.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.51/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Chainsaw Man](https://myanimelist.net/anime/44511/Chainsaw_Man)*
     
