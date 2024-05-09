@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It takes a great reader to make a great book.” - Orna Ross
+“Not all fairy tales come from the books.” - Giovannie de Sadeleer
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+  <strong>🥭 <u>Title:</u></strong> Tenkuu no Shiro Laputa
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU TOO!</h4>
+<h4>🌿 <u>English Title:</u> Castle in the Sky</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/75376.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/37799.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 1986</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Fantasy, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku](https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku)*
+🍂 *More information: [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa)*
     
