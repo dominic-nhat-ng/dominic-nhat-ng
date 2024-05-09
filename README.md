@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Not all fairy tales come from the books.” - Giovannie de Sadeleer
+“In the dark, with the windows lit and the rows of books glittering, the library is a closed space, a universe of self-serving rules that pretend to replace or translate those of the shapeless universe beyond. ” - Alberto Manguel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenkuu no Shiro Laputa
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Castle in the Sky</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/37799.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Fantasy, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa)*
+🍂 *More information: [undefined](undefined)*
     
