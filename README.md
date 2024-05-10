@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[I] read books because I love them, not because I think I should read them.” - Simon Van Booy
+“Finding the book was like kissing a lightning bolt.” - Karen Miller
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! Movie: Episode of Roselia - I: Yakusoku
+  <strong>🥭 <u>Title:</u></strong> Vanitas no Karte Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Case Study of Vanitas Part 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1867/119189.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1247/120579.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780/BanG_Dream_Movie__Episode_of_Roselia_-_I__Yakusoku)*
+🍂 *More information: [Vanitas no Karte Part 2](https://myanimelist.net/anime/49114/Vanitas_no_Karte_Part_2)*
     
