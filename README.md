@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature illuminates life only for those to whom books are a necessity.” - Anthony Powell
+“[I] read books because I love them, not because I think I should read them.” - Simon Van Booy
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Tetsudou 999
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! Movie: Episode of Roselia - I: Yakusoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Galaxy Express 999</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1685/104554.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1867/119189.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1978</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Tetsudou 999](https://myanimelist.net/anime/1491/Ginga_Tetsudou_999)*
+🍂 *More information: [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780/BanG_Dream_Movie__Episode_of_Roselia_-_I__Yakusoku)*
     
