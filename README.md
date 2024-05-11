@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And then beautiful things grow rich with the emotion that they have aroused in succeeding generations. That is why old things are more beautiful than modern. The Ode on a Grecian - W. Somerset Maugham
+“Flowers don't tell, they show. That's the way good books should be too."--Stephanie Skeem. Author of Flotsam” - Stephanie Skeem
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki II
+  <strong>🥭 <u>Title:</u></strong> Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars II</h4>
+<h4>🌿 <u>English Title:</u> Miss Kobayashi's Dragon Maid: Valentine's, and Then Hot Springs! (Please Don't Get Your Hopes Up)</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/61109.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/88486.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Seikai no Senki II](https://myanimelist.net/anime/397/Seikai_no_Senki_II)*
+🍂 *More information: [Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai](https://myanimelist.net/anime/35363/Kobayashi-san_Chi_no_Maid_Dragon__Valentine_Soshite_Onsen_-_Amari_Kitai_Shinaide_Kudasai)*
     
