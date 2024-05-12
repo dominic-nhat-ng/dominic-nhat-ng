@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Flowers don't tell, they show. That's the way good books should be too."--Stephanie Skeem. Author of Flotsam” - Stephanie Skeem
+“I do, I’m afraid, understand books far more readily than I understand people. Books are so easy to get along with.” - Katherine Rundell
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
+  <strong>🥭 <u>Title:</u></strong> Kagami no Kojou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Miss Kobayashi's Dragon Maid: Valentine's, and Then Hot Springs! (Please Don't Get Your Hopes Up)</h4>
+<h4>🌿 <u>English Title:</u> Lonely Castle in the Mirror</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/88486.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1954/129158.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Fantasy, Slice of Life</h4>
+<h4>🌵 Genres: Drama, Fantasy, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai](https://myanimelist.net/anime/35363/Kobayashi-san_Chi_no_Maid_Dragon__Valentine_Soshite_Onsen_-_Amari_Kitai_Shinaide_Kudasai)*
+🍂 *More information: [Kagami no Kojou](https://myanimelist.net/anime/51116/Kagami_no_Kojou)*
     
