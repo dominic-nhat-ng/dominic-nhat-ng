@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault. Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope. They are the elect to whom beautiful things mean only Beauty. There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.” - Oscar Wilde
+“I'm an open book. But some of the pages are stuck together.” - Kelli Jae Baeli
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahoujin Guruguru (2017)
+  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV) 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magical Circle</h4>
+<h4>🌿 <u>English Title:</u> Ushio & Tora (2016)</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1880/103168.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1092/117404.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mahoujin Guruguru (2017)](https://myanimelist.net/anime/34745/Mahoujin_Guruguru_2017)*
+🍂 *More information: [Ushio to Tora (TV) 2nd Season](https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season)*
     
