@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A good book, he had concluded, leaves you wanting to reread the book. A great book compels you to reread your own soul. Such books were for him rare and, as he aged, rarer. Still he searched, one more Ithaca for which he was forever bound.” - Richard Flanagan
+“Of snowy afternoons, - Jessica de la Davies
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoukoku no Altair
+  <strong>🥭 <u>Title:</u></strong> Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram
 </h4>
 
-<h4>🌿 <u>English Title:</u> Altair: A Record of Battles</h4>
+<h4>🌿 <u>English Title:</u> Fate/Grand Order: Divine Realm of the Round Table - Camelot Paladin; Agateram</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/86751.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1736/114615.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoukoku no Altair](https://myanimelist.net/anime/34547/Shoukoku_no_Altair)*
+🍂 *More information: [Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram](https://myanimelist.net/anime/38086/Fate_Grand_Order__Shinsei_Entaku_Ryouiki_Camelot_2_-_Paladin__Agateram)*
     
