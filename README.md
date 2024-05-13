@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I'm an open book. But some of the pages are stuck together.” - Kelli Jae Baeli
+“I wish we could sometimes love the characters in real life as we love the characters in romances. There are a great many human souls whom we should accept more kindly, and even appreciate more clearly, if we simply thought of them as people in a story.” - G.K. Chesterton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV) 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Hakuouki Movie 2: Shikon Soukyuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ushio & Tora (2016)</h4>
+<h4>🌿 <u>English Title:</u> Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1092/117404.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/71796.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ushio to Tora (TV) 2nd Season](https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season)*
+🍂 *More information: [Hakuouki Movie 2: Shikon Soukyuu](https://myanimelist.net/anime/13119/Hakuouki_Movie_2__Shikon_Soukyuu)*
     
