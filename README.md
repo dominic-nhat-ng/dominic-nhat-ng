@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are worse crimes than burning books. One of them is not reading them.” - Joseph Brodsky
+“To literary critics a book is assumed to be guilty until it proves itself innocent.” - Nelson Algren
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Muteki-kyuu*Believer / Mirai Harmony
+  <strong>🥭 <u>Title:</u></strong> Barakamon
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Barakamon</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1325/110517.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.37/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Muteki-kyuu*Believer / Mirai Harmony](https://myanimelist.net/anime/42889/Muteki-kyuuBeliever___Mirai_Harmony)*
+🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
     
