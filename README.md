@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“To literary critics a book is assumed to be guilty until it proves itself innocent.” - Nelson Algren
+“I am not man or beast; I am bibliosexual, and a seedy bibliosexual who haunts the streets, laden with carrier bags held by blistered fingers, stooping under the weight of the rucksack that has brought on sciatica and a Dickensian demeanour.” - Robin Ince
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Barakamon
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Barakamon</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.37/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
+🍂 *More information: [undefined](undefined)*
     
