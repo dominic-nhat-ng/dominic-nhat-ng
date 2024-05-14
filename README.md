@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Of snowy afternoons, - Jessica de la Davies
+“There are worse crimes than burning books. One of them is not reading them.” - Joseph Brodsky
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram
+  <strong>🥭 <u>Title:</u></strong> Muteki-kyuu*Believer / Mirai Harmony
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fate/Grand Order: Divine Realm of the Round Table - Camelot Paladin; Agateram</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1736/114615.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1325/110517.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
+<h4>🌵 Genres: </h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram](https://myanimelist.net/anime/38086/Fate_Grand_Order__Shinsei_Entaku_Ryouiki_Camelot_2_-_Paladin__Agateram)*
+🍂 *More information: [Muteki-kyuu*Believer / Mirai Harmony](https://myanimelist.net/anime/42889/Muteki-kyuuBeliever___Mirai_Harmony)*
     
