@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“That's the problem with best friends. Sometimes they know you better than you know yourself.” - Cecily von Ziegesar
+“For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die.” - Anne Lamott
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hotarubi no Mori e
+  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Into the Forest of Fireflies' Light</h4>
+<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld Part 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1599/112267.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1438/105106.jpg />
 
-<h4>🌱 Score: 8.28/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hotarubi no Mori e](https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e)*
+🍂 *More information: [Sword Art Online: Alicization - War of Underworld 2nd Season](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season)*
     
