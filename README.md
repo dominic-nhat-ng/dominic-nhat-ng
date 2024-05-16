@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You are what you eat and read.” - Maya Corrigan
+“That's the problem with best friends. Sometimes they know you better than you know yourself.” - Cecily von Ziegesar
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Hotarubi no Mori e
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Into the Forest of Fireflies' Light</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1599/112267.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.28/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Award Winning, Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Hotarubi no Mori e](https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e)*
     
