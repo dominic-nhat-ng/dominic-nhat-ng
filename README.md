@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die.” - Anne Lamott
+“This would be...a book that would be a trapdoor down into some place dark. A place only you could go, alone, when you opened the cover. Because only books have that power.” - Chuck Palahniuk
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Majo no Tabitabi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld Part 2</h4>
+<h4>🌿 <u>English Title:</u> Wandering Witch: The Journey of Elaina</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1438/105106.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1802/108501.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Sword Art Online: Alicization - War of Underworld 2nd Season](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season)*
+🍂 *More information: [Majo no Tabitabi](https://myanimelist.net/anime/40571/Majo_no_Tabitabi)*
     
