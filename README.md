@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He passed his hands over some of the fine embossed bindings as he thought, - Ari Berk
+“Books open new worlds to me.” - Aya Ling
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Baccano!
+  <strong>🥭 <u>Title:</u></strong> Aria the Avvenire
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baccano!</h4>
+<h4>🌿 <u>English Title:</u> Aria the Avvenire</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/14547.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/74338.jpg />
 
-<h4>🌱 Score: 8.36/10</h4>
+<h4>🌱 Score: 7.92/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Fantasy, Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Baccano!](https://myanimelist.net/anime/2251/Baccano)*
+🍂 *More information: [Aria the Avvenire](https://myanimelist.net/anime/29893/Aria_the_Avvenire)*
     
