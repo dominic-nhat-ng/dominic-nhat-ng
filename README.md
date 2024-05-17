@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Entrei numa livraria. Pus-me a contar os livros que há para ler e os anos que terei de vida. Não chegam! Não duro nem para metade da livraria! Deve haver certamente outras maneiras de uma pessoa se salvar, senão… estou perdido.” - Almada Negreiros
+“He passed his hands over some of the fine embossed bindings as he thought, - Ari Berk
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Un-Go: Inga-ron
+  <strong>🥭 <u>Title:</u></strong> Baccano!
 </h4>
 
-<h4>🌿 <u>English Title:</u> UN-GO: Chapter of Inga</h4>
+<h4>🌿 <u>English Title:</u> Baccano!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/35071.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/14547.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.36/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Un-Go: Inga-ron](https://myanimelist.net/anime/11531/Un-Go__Inga-ron)*
+🍂 *More information: [Baccano!](https://myanimelist.net/anime/2251/Baccano)*
     
