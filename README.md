@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One generation's pleasure became a burden for another. Hence, entire collections from father to son were sold for a song, and the vendors, knowing nothing about literature, would place a price on the books. (about secondhand literature book)” - Murzban F. Shroff
+“He wanted nothing, for the time being, except to understand .... Without advice, assistance or plan, he began reading an incongruous assortment of books; he would find some passage which he could not understand in one book, and he would get another on that subject .... There was no order in his reading; but there was order in what remained of it in his mind.” - Ayn Rand
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 5: Shisen no Hate
+  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Kaikou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Broken Blade 5</h4>
+<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/68087.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1104/91793.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Break Blade Movie 5: Shisen no Hate](https://myanimelist.net/anime/9724/Break_Blade_Movie_5__Shisen_no_Hate)*
+🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Kaikou](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)*
     
