@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“This must be what an addict feels like, I think, - Jodi Picoult
+“One generation's pleasure became a burden for another. Hence, entire collections from father to son were sold for a song, and the vendors, knowing nothing about literature, would place a price on the books. (about secondhand literature book)” - Murzban F. Shroff
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Taiho Shichau zo
+  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 5: Shisen no Hate
 </h4>
 
-<h4>🌿 <u>English Title:</u> You're Under Arrest</h4>
+<h4>🌿 <u>English Title:</u> Broken Blade 5</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1498/97153.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/68087.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1994</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Taiho Shichau zo](https://myanimelist.net/anime/1577/Taiho_Shichau_zo)*
+🍂 *More information: [Break Blade Movie 5: Shisen no Hate](https://myanimelist.net/anime/9724/Break_Blade_Movie_5__Shisen_no_Hate)*
     
