@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books open new worlds to me.” - Aya Ling
+“This must be what an addict feels like, I think, - Jodi Picoult
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aria the Avvenire
+  <strong>🥭 <u>Title:</u></strong> Taiho Shichau zo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Aria the Avvenire</h4>
+<h4>🌿 <u>English Title:</u> You're Under Arrest</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/74338.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1498/97153.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 1994</h4>
 
-<h4>🌵 Genres: Fantasy, Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Aria the Avvenire](https://myanimelist.net/anime/29893/Aria_the_Avvenire)*
+🍂 *More information: [Taiho Shichau zo](https://myanimelist.net/anime/1577/Taiho_Shichau_zo)*
     
