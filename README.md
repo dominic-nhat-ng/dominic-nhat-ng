@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He wanted nothing, for the time being, except to understand .... Without advice, assistance or plan, he began reading an incongruous assortment of books; he would find some passage which he could not understand in one book, and he would get another on that subject .... There was no order in his reading; but there was order in what remained of it in his mind.” - Ayn Rand
+“Our business is to find homes for books with the hope they will be loved as we have loved them. My heart is broken every day I make a sale; then renewed again by the arrival of an unexpected replacement. I keep learning to love again.” - Sheridan Hay
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Kaikou
+  <strong>🥭 <u>Title:</u></strong> Violet Evergarden Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These</h4>
+<h4>🌿 <u>English Title:</u> Violet Evergarden: The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1104/91793.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1825/110716.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 8.87/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Kaikou](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)*
+🍂 *More information: [Violet Evergarden Movie](https://myanimelist.net/anime/37987/Violet_Evergarden_Movie)*
     
