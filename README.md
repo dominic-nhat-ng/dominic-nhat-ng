@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Our business is to find homes for books with the hope they will be loved as we have loved them. My heart is broken every day I make a sale; then renewed again by the arrival of an unexpected replacement. I keep learning to love again.” - Sheridan Hay
+“In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity.” - Ralph Waldo Emerson
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Violet Evergarden Movie
+  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Violet Evergarden: The Movie</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1825/110716.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/13167.jpg />
 
-<h4>🌱 Score: 8.87/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Violet Evergarden Movie](https://myanimelist.net/anime/37987/Violet_Evergarden_Movie)*
+🍂 *More information: [Initial D Battle Stage 2](https://myanimelist.net/anime/3931/Initial_D_Battle_Stage_2)*
     
