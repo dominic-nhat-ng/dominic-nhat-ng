@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity.” - Ralph Waldo Emerson
+“هناك كتب .. غلافـها أفضل ما فيها” - Charles Dickens
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage 2
+  <strong>🥭 <u>Title:</u></strong> Digimon Adventure: Last Evolution Kizuna
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/13167.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1654/104884.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Initial D Battle Stage 2](https://myanimelist.net/anime/3931/Initial_D_Battle_Stage_2)*
+🍂 *More information: [Digimon Adventure: Last Evolution Kizuna](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)*
     
