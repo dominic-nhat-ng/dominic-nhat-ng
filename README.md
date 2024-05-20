@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“هناك كتب .. غلافـها أفضل ما فيها” - Charles Dickens
+“I had found my religion: nothing seemed more important to me than a book. I saw the library as a temple.” - Jean-Paul Sartre
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Digimon Adventure: Last Evolution Kizuna
+  <strong>🥭 <u>Title:</u></strong> Diamond no Ace: Act II
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Ace of Diamond Act II</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1654/104884.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1153/100511.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 52</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Digimon Adventure: Last Evolution Kizuna](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)*
+🍂 *More information: [Diamond no Ace: Act II](https://myanimelist.net/anime/38731/Diamond_no_Ace__Act_II)*
     
