@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Where should I go?" -Alice. "That depends on where you want to end up." - The Cheshire Cat.” - Lewis Carroll
+“A good book is never exhausted. It goes on whispering to you from the wall. Books perfume and give weight to a room. A bookcase is as good as a view, as the sight of a city or a river. There are dawns and sunsets in books - storms, fogs, zephyrs. - Anatole Broyard
 </i>
 </blockquote>
 
