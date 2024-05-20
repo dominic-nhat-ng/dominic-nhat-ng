@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I had found my religion: nothing seemed more important to me than a book. I saw the library as a temple.” - Jean-Paul Sartre
+“Where should I go?" -Alice. "That depends on where you want to end up." - The Cheshire Cat.” - Lewis Carroll
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Diamond no Ace: Act II
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ace of Diamond Act II</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1153/100511.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Diamond no Ace: Act II](https://myanimelist.net/anime/38731/Diamond_no_Ace__Act_II)*
+🍂 *More information: [undefined](undefined)*
     
