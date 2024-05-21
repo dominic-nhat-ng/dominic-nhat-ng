@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“That afternoon he told me that the difference between human beings and animals was that human beings were able to dream while awake. He said the purpose of books was to permit us to exercise that faculty. Art, he said, was a controlled madness… He said books weren't made of themes, which you could write essays about, but of images that inserted themselves into your brain and replaced what you were seeing with your eyes.” - Steven Millhauser
+“It should be noted that my mother has a long history of being disturbingly unperturbed by what normal people deem perturbing. Certain things simply don't strike her as worthy of a sit-down.” - Sloane Crosley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.36/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Adventure</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
+🍂 *More information: [undefined](undefined)*
     
