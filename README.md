@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It should be noted that my mother has a long history of being disturbingly unperturbed by what normal people deem perturbing. Certain things simply don't strike her as worthy of a sit-down.” - Sloane Crosley
+“Of all things I liked books the best.” - Nikola Tesla
 </i>
 </blockquote>
 
