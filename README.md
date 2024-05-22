@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There’s nothing as cozy as a piece of candy and a book.” - Betty MacDonald
+“Only the nonreader fears books. ” - Richard Peck
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Asobi Asobase Specials
+  <strong>🥭 <u>Title:</u></strong> Seitokai Yakuindomo Movie 2
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1270/97437.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1738/116883.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2021</h4>
 
 <h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Asobi Asobase Specials](https://myanimelist.net/anime/38002/Asobi_Asobase_Specials)*
+🍂 *More information: [Seitokai Yakuindomo Movie 2](https://myanimelist.net/anime/40814/Seitokai_Yakuindomo_Movie_2)*
     
