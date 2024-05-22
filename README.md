@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Only the nonreader fears books. ” - Richard Peck
+“My bookshelves help me breathe.” - Unknown
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seitokai Yakuindomo Movie 2
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1738/116883.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Seitokai Yakuindomo Movie 2](https://myanimelist.net/anime/40814/Seitokai_Yakuindomo_Movie_2)*
+🍂 *More information: [undefined](undefined)*
     
