@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I could almost hear the characters inside, murmuring and jostling, impatient for me to open the cover and let them out.” - Jennifer Donnelly
+“For all the books in his possession, he still failed to read the stories written plain as day in the faces of the people around him.” - Emma Donoghue
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mairimashita! Iruma-kun
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Welcome to Demon School! Iruma-kun</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1009/103187.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Mairimashita! Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)*
+🍂 *More information: [undefined](undefined)*
     
