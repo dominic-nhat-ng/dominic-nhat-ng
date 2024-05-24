@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Dear Literary World, Sorry for breaking down your door...I'll pay for that!!! Since I'm here and planning to stay a while, let me tell you some stories!!” - CK Webb
+“Books and drafts mean something quite different for different thinkers. One collects in a book the lights he was able to steal and carry home swiftly out of the rays of some insight that suddenly dawned on him, while another thinker offers us nothing but shadows - images in black and grey of what had built up in his soul the day before.” - Friedrich Nietzsche
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-hime no Monogatari
+  <strong>🥭 <u>Title:</u></strong> Vivy: Fluorite Eye's Song
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tale of the Princess Kaguya</h4>
+<h4>🌿 <u>English Title:</u> Vivy -Fluorite Eye's Song-</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1935/93606.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1637/115052.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 8.4/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Action, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-hime no Monogatari](https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari)*
+🍂 *More information: [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)*
     
