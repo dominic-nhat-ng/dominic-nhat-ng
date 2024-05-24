@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For all the books in his possession, he still failed to read the stories written plain as day in the faces of the people around him.” - Emma Donoghue
+“We rely upon the poets, the philosophers, and the playwrights to articulate what most of us can only feel, in joy or sorrow. They illuminate the thoughts for which we only grope; they give us the strength and balm we cannot find in ourselves. Whenever I feel my courage wavering, I rush to them. They give me the wisdom of acceptance, the will and resiliance to push on.” - Helen Hayes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Psycho-Pass: Sinners of the System Case.2 - First Guardian
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1357/96879.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Psycho-Pass: Sinners of the System Case.2 - First Guardian](https://myanimelist.net/anime/37441/Psycho-Pass__Sinners_of_the_System_Case2_-_First_Guardian)*
     
