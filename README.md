@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We rely upon the poets, the philosophers, and the playwrights to articulate what most of us can only feel, in joy or sorrow. They illuminate the thoughts for which we only grope; they give us the strength and balm we cannot find in ourselves. Whenever I feel my courage wavering, I rush to them. They give me the wisdom of acceptance, the will and resiliance to push on.” - Helen Hayes
+“Dear Literary World, Sorry for breaking down your door...I'll pay for that!!! Since I'm here and planning to stay a while, let me tell you some stories!!” - CK Webb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass: Sinners of the System Case.2 - First Guardian
+  <strong>🥭 <u>Title:</u></strong> Kaguya-hime no Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Tale of the Princess Kaguya</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1357/96879.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1935/93606.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass: Sinners of the System Case.2 - First Guardian](https://myanimelist.net/anime/37441/Psycho-Pass__Sinners_of_the_System_Case2_-_First_Guardian)*
+🍂 *More information: [Kaguya-hime no Monogatari](https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari)*
     
