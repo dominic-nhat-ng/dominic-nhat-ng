@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But I think the most important thing those books gave me was a kind of faith. My books promised me that life wasn’t just made up of workaday tasks and prosaic things. The world is bigger and more colorful and more important than that.” - Laura Amy Schlitz
+“What are a friend's books for if not to be borrowed?” - Tom Stoppard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> InuYasha Movie 3: Tenka Hadou no Ken
+  <strong>🥭 <u>Title:</u></strong> Wakakusa Monogatari: Nan to Jo-sensei
 </h4>
 
-<h4>🌿 <u>English Title:</u> InuYasha the Movie 3: Swords of an Honorable Ruler</h4>
+<h4>🌿 <u>English Title:</u> Little Women II: Jo's Boys</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1658/95332.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3276.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Drama, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 40</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [InuYasha Movie 3: Tenka Hadou no Ken](https://myanimelist.net/anime/451/InuYasha_Movie_3__Tenka_Hadou_no_Ken)*
+🍂 *More information: [Wakakusa Monogatari: Nan to Jo-sensei](https://myanimelist.net/anime/2558/Wakakusa_Monogatari__Nan_to_Jo-sensei)*
     
