@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What are a friend's books for if not to be borrowed?” - Tom Stoppard
+“يظن الغمر أن الكتب تهدى ... ... أخاً فهم لإدراك العلوم - أبو حيان التوحيدي
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wakakusa Monogatari: Nan to Jo-sensei
+  <strong>🥭 <u>Title:</u></strong> Given: Uragawa no Sonzai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Little Women II: Jo's Boys</h4>
+<h4>🌿 <u>English Title:</u> given - on the other hand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3276.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1031/115154.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Slice of Life</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
-<h4>🥑 Episodes: 40</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Wakakusa Monogatari: Nan to Jo-sensei](https://myanimelist.net/anime/2558/Wakakusa_Monogatari__Nan_to_Jo-sensei)*
+🍂 *More information: [Given: Uragawa no Sonzai](https://myanimelist.net/anime/49053/Given__Uragawa_no_Sonzai)*
     
