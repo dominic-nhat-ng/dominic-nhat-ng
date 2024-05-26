@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“يظن الغمر أن الكتب تهدى ... ... أخاً فهم لإدراك العلوم - أبو حيان التوحيدي
+“A woman's destiny, they say, is not fulfilled until she holds in her arms her own little book.” - Caroline Mytinger
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given: Uragawa no Sonzai
+  <strong>🥭 <u>Title:</u></strong> Pokemon: Mezase Pokemon Master
 </h4>
 
-<h4>🌿 <u>English Title:</u> given - on the other hand</h4>
+<h4>🌿 <u>English Title:</u> Pokémon: To Be a Pokémon Master</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1031/115154.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1246/134209.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Given: Uragawa no Sonzai](https://myanimelist.net/anime/49053/Given__Uragawa_no_Sonzai)*
+🍂 *More information: [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874/Pokemon__Mezase_Pokemon_Master)*
     
