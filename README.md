@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Soon enough his head would be swimming with tales of derring-do and high adventure, tales of beautiful maidens kissed, of evildoers shot with pistols or fought with swords, of bags of gold, of diamonds as big as the tip of your thumb, of lost cities and of vast mountains, of steam-trains and clipper ships, of pampas, oceans, deserts, tundra.” - Neil Gaiman
+“...writers are a savage breed, Mr. Strike. If you want life-long friendship and selfless camaraderie, join the army and learn to kill. If you want a lifetime of temporary alliances with peers who will glory in your every failure, write novels.” - Robert Galbraith
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu
+  <strong>🥭 <u>Title:</u></strong> Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Hunter</h4>
+<h4>🌿 <u>English Title:</u> Modern Love Tokyo: He's Playing Our Song</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1785/136462.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1054/132584.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cang Yuan Tu](https://myanimelist.net/anime/55655/Cang_Yuan_Tu)*
+🍂 *More information: [Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe](https://myanimelist.net/anime/53585/Modern_Love_Tokyo__Kare_ga_Kanaderu_Futari_no_Shirabe)*
     
