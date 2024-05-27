@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A word to the unwise. - Ellen Hopkins
+“I have eavesdropped with impunity on the lives of people who do not exist. I have peeped shamelessly into hearts and bathroom closets. I have leant over shoulders to follow the movements of quills as they write love letters, wills and confessions. I have watched as lovers love, murderers murder and children play their make believe. Prisons and brothels have opened their doors to me; galleons and camel trains have transported me across sea and sand; centuries and continents have fallen away at my bidding. I have spied upon the misdeeds of the mighty and witnessed the nobility of the meek. I have bent so low over sleepers in their beds that they might have felt my breath on their faces. I have seen their dreams.” - Diane Setterfield
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> To LOVE-Ru Darkness OVA
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/41251.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Sci-Fi, Ecchi</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [To LOVE-Ru Darkness OVA](https://myanimelist.net/anime/13851/To_LOVE-Ru_Darkness_OVA)*
+🍂 *More information: [undefined](undefined)*
     
