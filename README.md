@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“...writers are a savage breed, Mr. Strike. If you want life-long friendship and selfless camaraderie, join the army and learn to kill. If you want a lifetime of temporary alliances with peers who will glory in your every failure, write novels.” - Robert Galbraith
+“A word to the unwise. - Ellen Hopkins
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
+  <strong>🥭 <u>Title:</u></strong> To LOVE-Ru Darkness OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Modern Love Tokyo: He's Playing Our Song</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1054/132584.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/41251.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Comedy, Romance, Sci-Fi, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe](https://myanimelist.net/anime/53585/Modern_Love_Tokyo__Kare_ga_Kanaderu_Futari_no_Shirabe)*
+🍂 *More information: [To LOVE-Ru Darkness OVA](https://myanimelist.net/anime/13851/To_LOVE-Ru_Darkness_OVA)*
     
