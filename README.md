@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Now, taking books, or anything else, from a little girl is like taking arms from an Arab, or candy from a baby...” - James Thurber
+“Without story books is like a person with no soul.” - Stephen King
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Naruto: Shippuuden
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Naruto Shippuden</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1565/111305.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Naruto: Shippuuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)*
+🍂 *More information: [undefined](undefined)*
     
