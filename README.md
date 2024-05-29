@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“بإمكانكَ أن تقرأ وأنتَ ترعى أغنامك، لا علاقة للثقافة بالقهوة.” - oussamamre
+“A great book increases my heartbeat as if I’m prey, melts my insides in anticipation of a first kiss, immerses me in its depths.” - Carmen DeSousa
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sasaki to Miyano
+  <strong>🥭 <u>Title:</u></strong> Patapata Hikousen no Bouken
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sasaki and Miyano</h4>
+<h4>🌿 <u>English Title:</u> Secret of Cerulean Sand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1182/119308.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1340/110804.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Boys Love</h4>
+<h4>🌵 Genres: Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sasaki to Miyano](https://myanimelist.net/anime/44055/Sasaki_to_Miyano)*
+🍂 *More information: [Patapata Hikousen no Bouken](https://myanimelist.net/anime/708/Patapata_Hikousen_no_Bouken)*
     
