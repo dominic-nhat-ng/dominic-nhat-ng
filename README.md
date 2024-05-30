@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If books could have more, give more, be more, show more, they would still need readers who bring to them sound and smell and light and all the rest that can’t be in books. - Gary Paulsen
+“He kissed me for a long moment, holding my shoulders, perhaps to keep me from pressing my whole body against his. Then he tried to lift my bag. - Laura Whitcomb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Part 2
+  <strong>🥭 <u>Title:</u></strong> Gintama.: Shirogane no Tamashii-hen - Kouhan-sen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Final Season Part 2</h4>
+<h4>🌿 <u>English Title:</u> Gintama.: Silver Soul Arc - Second Half War</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1948/120625.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1776/96566.jpg />
 
-<h4>🌱 Score: 8.76/10</h4>
+<h4>🌱 Score: 8.88/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 14</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season Part 2](https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2)*
+🍂 *More information: [Gintama.: Shirogane no Tamashii-hen - Kouhan-sen](https://myanimelist.net/anime/37491/Gintama__Shirogane_no_Tamashii-hen_-_Kouhan-sen)*
     
