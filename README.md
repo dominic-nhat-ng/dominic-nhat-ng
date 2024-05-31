@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Every night, I have to read a book, so that my mind will stop thinking about things that I stress about.” - Britney Spears
+“You are not always a reader, you are occasionally a human.” - Joshua Cohen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shin Kidou Senki Gundam Wing
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam Wing</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1884/114414.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Shin Kidou Senki Gundam Wing](https://myanimelist.net/anime/90/Shin_Kidou_Senki_Gundam_Wing)*
+🍂 *More information: [undefined](undefined)*
     
