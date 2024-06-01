@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Even a person like this makes mistakes, can't always hold on to everything they'd like to,can't always force the world to spin in the direction of their choosing. You'll hug him longer than necessary and tell him to keep in touch. And you'll know, finally, that it had nothing to do with you.” - Sloane Crosley
+“Het was een vergissing vanwege de juf, te denken dat alleen de dingen die in de boeken staan interessant zijn. Ook deze, die er nog niet in staan, zijn merkwaardig.” - Louis Paul Boon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fairy Tail (2014)
+  <strong>🥭 <u>Title:</u></strong> City Hunter 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fairy Tail Series 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/60551.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1272/138953.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 1988</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 63</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fairy Tail (2014)](https://myanimelist.net/anime/22043/Fairy_Tail_2014)*
+🍂 *More information: [City Hunter 2](https://myanimelist.net/anime/1471/City_Hunter_2)*
     
