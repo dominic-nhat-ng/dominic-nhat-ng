@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Sometimes I reread my favorite books from back to front. I start with the last chapter and read backward until I get to the beginning. When you read this way, characters go from hope to despair, from self-knowledge to doubt. In love stories, couples start out as lovers and end as strangers. Coming-of-age books become stories of losing your way. Your favorite characters come back to life.” - Nicola Yoon
+“I get so god damn lonely and sad and filled with regrets some days. It overwhelms me as I’m sitting on the bus; watching the golden leaves from a window; a sudden burst of realisation in the middle of the night. I can’t help it and I can’t stop it. I’m alone as I’ve always been and sometimes it hurts…. but I’m learning to breathe deep through it and keep walking. I’m learning to make things nice for myself. To comfort my own heart when I wake up sad. To find small bits of friendship in a crowd full of strangers. To find a small moment of joy in a blue sky, in a trip somewhere not so far away, a long walk an early morning in December, or a handwritten letter to an old friend simply saying ”I thought of you. I hope you’re well.” - Charlotte Eriksson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Utawarerumono
+  <strong>🥭 <u>Title:</u></strong> Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Utawarerumono</h4>
+<h4>🌿 <u>English Title:</u> The Garden of Sinners Chapter 7: A Study in Murder - Part 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1119/118609.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/56619.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 8.38/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Mystery, Romance, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Utawarerumono](https://myanimelist.net/anime/856/Utawarerumono)*
+🍂 *More information: [Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)](https://myanimelist.net/anime/5205/Kara_no_Kyoukai_Movie_7__Satsujin_Kousatsu_Go)*
     
