@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Some men borrow books; some men steal books; and others beg presentation copies from the author.” - James Jeffrey Roche
+“Who was it who said, "I hold the buying of more books than one can peradventure read, as nothing less than the soul's reaching towards infinity; which is the only thing that raises us above the beasts that perish?" Whoever it was, I agree with him.” - A. Edward Newton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaiba
+  <strong>🥭 <u>Title:</u></strong> Yojouhan Time Machine Blues
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaiba</h4>
+<h4>🌿 <u>English Title:</u> The Tatami Time Machine Blues</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/13193.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1583/126128.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Avant Garde, Award Winning, Mystery, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Mystery, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaiba](https://myanimelist.net/anime/3701/Kaiba)*
+🍂 *More information: [Yojouhan Time Machine Blues](https://myanimelist.net/anime/49590/Yojouhan_Time_Machine_Blues)*
     
