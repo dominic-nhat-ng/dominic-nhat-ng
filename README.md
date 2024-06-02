@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Who was it who said, "I hold the buying of more books than one can peradventure read, as nothing less than the soul's reaching towards infinity; which is the only thing that raises us above the beasts that perish?" Whoever it was, I agree with him.” - A. Edward Newton
+“Sometimes I reread my favorite books from back to front. I start with the last chapter and read backward until I get to the beginning. When you read this way, characters go from hope to despair, from self-knowledge to doubt. In love stories, couples start out as lovers and end as strangers. Coming-of-age books become stories of losing your way. Your favorite characters come back to life.” - Nicola Yoon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yojouhan Time Machine Blues
+  <strong>🥭 <u>Title:</u></strong> Utawarerumono
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tatami Time Machine Blues</h4>
+<h4>🌿 <u>English Title:</u> Utawarerumono</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1583/126128.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1119/118609.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Romance, Suspense</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yojouhan Time Machine Blues](https://myanimelist.net/anime/49590/Yojouhan_Time_Machine_Blues)*
+🍂 *More information: [Utawarerumono](https://myanimelist.net/anime/856/Utawarerumono)*
     
