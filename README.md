@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Who can say how many lives have been saved by books?” - Michelle Cliff
+“Without words, without writing and without books there would be no history, there could be no concept of humanity.” - Hermann Hesse
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War OVA</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1027/115055.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Comedy, Ecchi</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA](https://myanimelist.net/anime/43609/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen_OVA)*
+🍂 *More information: [undefined](undefined)*
     
