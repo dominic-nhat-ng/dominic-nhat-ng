@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She never managed to find herself in these books no matter how hard she tried, exhuming traits from between the pages and donning them for an hour, a day, a week. We think in some ways, we have all done this our whole lives, searching for the book that will give us the keys to ourselves, let us into a wholly formed personality as though it were a furnished room to let. As though we could walk in and look around and say to the gray-haired landlady behind us, "We'll take it.” - Eleanor Brown
+“It's a good idea to have your own books with you in a strange place” - Cornelia Funke
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
+  <strong>🥭 <u>Title:</u></strong> Barakamon
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Barakamon</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
 
-<h4>🌱 Score: 8.46/10</h4>
+<h4>🌱 Score: 8.37/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
+🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
     
