@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Imagine a very long time passing - and I find my way out, following someone who already knows how to leave Hell. And God says to me on Earth for the first time, "Xas!" in a tone of discovery, as if I'm a misplaced pair of spectacles or a stray dog. And he puts it to me that he wants me in Heaven. But Lucifer has doubled back - it was him I followed - to find me, where I am, in a forest, smitten, because the Lord has noticed me, and I'm overcome, as hopeless as your dog Josie whom you got rid of because she loved me.' Xas glared at Sobran. Then he drew a breath - all had been said on only three. He went on: 'Lucifer says to God the He can't have me. And at this I sit up and tell Lucifer that I didn't even think he knew my name, then say to God no thank you - very insolent this - and that Hell is endurable so long as the books keep appearing.” - Elizabeth Knox
+“She never managed to find herself in these books no matter how hard she tried, exhuming traits from between the pages and donning them for an hour, a day, a week. We think in some ways, we have all done this our whole lives, searching for the book that will give us the keys to ourselves, let us into a wholly formed personality as though it were a furnished room to let. As though we could walk in and look around and say to the gray-haired landlady behind us, "We'll take it.” - Eleanor Brown
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Date A Bullet: Nightmare or Queen
+  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1002/108424.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Date A Bullet: Nightmare or Queen](https://myanimelist.net/anime/42423/Date_A_Bullet__Nightmare_or_Queen)*
+🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
     
