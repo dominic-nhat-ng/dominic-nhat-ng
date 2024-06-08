@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Our experience is coloured through and through by books and plays and the cinema, and it takes patience and skill to disentangle the things we have really learned from life for ourselves.” - C.S. Lewis
+“Should I put it in my mouth?” - K.L. Thorne
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tennis no Oujisama: Zenkoku Taikai-hen
+  <strong>🥭 <u>Title:</u></strong> Macross F Movie 1: Itsuwari no Utahime
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Prince of Tennis: National Championship Chapter</h4>
+<h4>🌿 <u>English Title:</u> Macross Frontier: The False Songstress</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/10572.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/76397.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tennis no Oujisama: Zenkoku Taikai-hen](https://myanimelist.net/anime/995/Tennis_no_Oujisama__Zenkoku_Taikai-hen)*
+🍂 *More information: [Macross F Movie 1: Itsuwari no Utahime](https://myanimelist.net/anime/5310/Macross_F_Movie_1__Itsuwari_no_Utahime)*
     
