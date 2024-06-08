@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Each of those churches shows certain books, which they call revelation, or the Word of God. The Jews say that their Word of God was given by God to Moses face to face; the Christians say, that their Word of God came by divine inspiration; and the Turks say, that their Word of God (the Koran) was brought by an angel from heaven. Each of those churches accuses the other of unbelief; and, for my own part, I disbelieve them all.” - Thomas Paine
+“Every face, every shop, bedroom window, public-house, and dark square is a picture feverishly turned--in search of what? It is the same with books. What do we seek through millions of pages?” - Virginia Woolf
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Wotaku ni Koi wa Muzukashii
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Wotakoi: Love is Hard for Otaku</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1864/93518.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Wotaku ni Koi wa Muzukashii](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii)*
     
