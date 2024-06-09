@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In a book, even the real bastards can't hurt you. And you can never loose a friend you make in a book. When you get to a sad part, no one's there to see you cry. Or wonder why you don't cry when you should.” - Dean Koontz
+“Books hold no passports. There's only one true literary tradition: the human.” - Carlos Ruiz Zafón
 </i>
 </blockquote>
 
