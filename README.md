@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books hold no passports. There's only one true literary tradition: the human.” - Carlos Ruiz Zafón
+“Lengo la jina la kitabu ni kuishawishi hadhira kusoma dibaji, na lengo la dibaji ni kuishawishi hadhira kusoma salio la kitabu kizima.” - Enock Maregesi
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Serial Experiments Lain
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Serial Experiments Lain</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1718/91550.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Avant Garde, Award Winning, Drama, Mystery, Sci-Fi, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)*
     
