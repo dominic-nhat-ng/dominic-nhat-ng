@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It was also a room full of books and made of books. There was no actual furniture; this is to say, the desk and chairs were shaped out of books. It looked as though many of them were frequently referred to, because they lay open with other books used as bookmarks.” - Terry Pratchett
+“There are bars of Pear's soap and a thick book called Pear's Encyclopedia, which keeps me up day and night because it tells you everything about everything and that's all I want to know.” - Frank McCourt
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
     
