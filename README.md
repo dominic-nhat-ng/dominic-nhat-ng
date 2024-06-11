@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I have lots of favorites. That's the trouble with books. You can never choose your favorite. It changes depending on your mood.” - Veronica Henry
+“There are two novels that can change a bookish fourteen-year old’s life: - John Rogers
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akudama Drive
+  <strong>🥭 <u>Title:</u></strong> Top wo Nerae 2! Diebuster
 </h4>
 
-<h4>🌿 <u>English Title:</u> Akudama Drive</h4>
+<h4>🌿 <u>English Title:</u> Gunbuster 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1468/109172.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/50475.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Action, Award Winning, Comedy, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Akudama Drive](https://myanimelist.net/anime/41433/Akudama_Drive)*
+🍂 *More information: [Top wo Nerae 2! Diebuster](https://myanimelist.net/anime/1002/Top_wo_Nerae_2_Diebuster)*
     
