@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are bars of Pear's soap and a thick book called Pear's Encyclopedia, which keeps me up day and night because it tells you everything about everything and that's all I want to know.” - Frank McCourt
+“I have lots of favorites. That's the trouble with books. You can never choose your favorite. It changes depending on your mood.” - Veronica Henry
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
+  <strong>🥭 <u>Title:</u></strong> Akudama Drive
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
+<h4>🌿 <u>English Title:</u> Akudama Drive</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1468/109172.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
+🍂 *More information: [Akudama Drive](https://myanimelist.net/anime/41433/Akudama_Drive)*
     
