@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are two novels that can change a bookish fourteen-year old’s life: - John Rogers
+“For all the books in his possession, he still failed to read the stories written plain as day in the faces of the people around him.” - Emma Donoghue
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Top wo Nerae 2! Diebuster
+  <strong>🥭 <u>Title:</u></strong> Hellsing Ultimate
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gunbuster 2</h4>
+<h4>🌿 <u>English Title:</u> Hellsing Ultimate</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/50475.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/7333.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.35/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Comedy, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Horror, Supernatural</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Top wo Nerae 2! Diebuster](https://myanimelist.net/anime/1002/Top_wo_Nerae_2_Diebuster)*
+🍂 *More information: [Hellsing Ultimate](https://myanimelist.net/anime/777/Hellsing_Ultimate)*
     
