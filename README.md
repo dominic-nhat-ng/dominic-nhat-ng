@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For all the books in his possession, he still failed to read the stories written plain as day in the faces of the people around him.” - Emma Donoghue
+“Perhaps too much value is assigned to memory, not enough to thinking. Remembering is an ethical act, has ethical value in and of itself. Memory is, achingly, the only relation we can have with the dead.” - Susan Sontag
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hellsing Ultimate
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hellsing Ultimate</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/7333.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Action, Horror, Supernatural</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Hellsing Ultimate](https://myanimelist.net/anime/777/Hellsing_Ultimate)*
+🍂 *More information: [undefined](undefined)*
     
