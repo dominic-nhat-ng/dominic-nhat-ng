@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Never put off till tomorrow the book you can read today.” - Holbrook Jackson
+“To all my librarian friends, champions of books, true magicians in the House of Life. Without you, this writer would be lost in the Dust.” - Rick Riordan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seitokai Yakuindomo*
+  <strong>🥭 <u>Title:</u></strong> Dorohedoro
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/56941.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1740/104786.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Seitokai Yakuindomo*](https://myanimelist.net/anime/20847/Seitokai_Yakuindomo)*
+🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
     
