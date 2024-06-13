@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books were a safe place, a world apart from my own. No matter what had happened that day, that year, there was always a story in which someone overcame their darkest hour. I wasn't alone.” - Kiera Cass
+“A book is like a woman. She should leave your bed with her hair tangled and her clothes on backward. A book without creases is a book that has never known passion.” - Terri-Lynne DeFino
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan
+  <strong>🥭 <u>Title:</u></strong> Overlord
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed</h4>
+<h4>🌿 <u>English Title:</u> Overlord</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/75199.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/88019.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan](https://myanimelist.net/anime/235/Meitantei_Conan)*
+🍂 *More information: [Overlord](https://myanimelist.net/anime/29803/Overlord)*
     
