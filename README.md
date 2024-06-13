@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And when the firemen turned off the hose and were standing in the wet, smoky room, Jim's Aunt, Miss Prothero, came downstairs and peered in at them. Jim and I waited, very quietly, to hear what she would say to them. She said the right thing, always. She looked at the three tall firemen in their shining helmets, standing among the smoke and cinders and dissolving snowballs, and she said, "Would you like anything to read?” - Dylan Thomas
+“Books were a safe place, a world apart from my own. No matter what had happened that day, that year, there was always a story in which someone overcame their darkest hour. I wasn't alone.” - Kiera Cass
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Case Closed</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/75199.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Meitantei Conan](https://myanimelist.net/anime/235/Meitantei_Conan)*
     
