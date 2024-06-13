@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“To all my librarian friends, champions of books, true magicians in the House of Life. Without you, this writer would be lost in the Dust.” - Rick Riordan
+“And when the firemen turned off the hose and were standing in the wet, smoky room, Jim's Aunt, Miss Prothero, came downstairs and peered in at them. Jim and I waited, very quietly, to hear what she would say to them. She said the right thing, always. She looked at the three tall firemen in their shining helmets, standing among the smoke and cinders and dissolving snowballs, and she said, "Would you like anything to read?” - Dylan Thomas
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dorohedoro
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1740/104786.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
+🍂 *More information: [undefined](undefined)*
     
