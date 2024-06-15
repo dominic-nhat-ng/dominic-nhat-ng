@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I guess there are never enough books.” - John Steinbeck
+“Denn ich ohne Bücher bin nicht ich.” - Christa Wolf
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture
+  <strong>🥭 <u>Title:</u></strong> Flying Witch
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Overture to a New War</h4>
+<h4>🌿 <u>English Title:</u> Flying Witch</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/22498.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/80039.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture](https://myanimelist.net/anime/3016/Ginga_Eiyuu_Densetsu__Arata_naru_Tatakai_no_Overture)*
+🍂 *More information: [Flying Witch](https://myanimelist.net/anime/31376/Flying_Witch)*
     
