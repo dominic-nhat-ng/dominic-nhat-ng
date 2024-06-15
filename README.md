@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In reading he found solitude. In reading he could dispel the blare of the world.” - Christos Tsiolkas
+“The books I would like to print are the books I love to read and keep.” - William Morris
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yoru ni Kakeru
+  <strong>🥭 <u>Title:</u></strong> Special A
 </h4>
 
-<h4>🌿 <u>English Title:</u> Racing into the Night</h4>
+<h4>🌿 <u>English Title:</u> Special A (S.A)</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1548/124083.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/77363.jpg />
 
-<h4>🌱 Score: 8.33/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yoru ni Kakeru](https://myanimelist.net/anime/48653/Yoru_ni_Kakeru)*
+🍂 *More information: [Special A](https://myanimelist.net/anime/3470/Special_A)*
     
