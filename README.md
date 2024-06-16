@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The books I would like to print are the books I love to read and keep.” - William Morris
+“For a moment I was distracted. Books always did that to me... I liked the creamy pages, the smell of ink, all the secrets locked inside.” - Elizabeth C. Bunce
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Special A
+  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 3 - Mugen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Special A (S.A)</h4>
+<h4>🌿 <u>English Title:</u> Initial D Legend 3: Dream</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/77363.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/76759.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Special A](https://myanimelist.net/anime/3470/Special_A)*
+🍂 *More information: [New Initial D Movie: Legend 3 - Mugen](https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen)*
     
