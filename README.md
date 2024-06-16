@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For a moment I was distracted. Books always did that to me... I liked the creamy pages, the smell of ink, all the secrets locked inside.” - Elizabeth C. Bunce
+“Lanciò un'occhiata all'amico che leggeva la lettera e vide i libri sul tavolo. Nei suoi occhi apparvero nostalgia e avidità, come l'avidità appare negli occhi dell'affamato alla vista del cibo.” - Jack London
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 3 - Mugen
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Initial D Legend 3: Dream</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/76759.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [New Initial D Movie: Legend 3 - Mugen](https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen)*
+🍂 *More information: [undefined](undefined)*
     
