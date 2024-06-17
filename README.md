@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Some of us find our lives abridged even before the paperback comes out. ” - Berkeley Breathed
+“These are all novels, all about people that never existed, the people that read them it makes them unhappy with their own lives. Makes them want to live in other ways they can never really be.” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 06: Baker Street no Bourei
+  <strong>🥭 <u>Title:</u></strong> Zhu Xian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed Movie 06: The Phantom of Baker Street</h4>
+<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1400/94320.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Mystery</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 06: Baker Street no Bourei](https://myanimelist.net/anime/1365/Meitantei_Conan_Movie_06__Baker_Street_no_Bourei)*
+🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
     
