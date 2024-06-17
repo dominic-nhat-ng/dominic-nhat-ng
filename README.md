@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Back then I could not understand one word of what I read. - Peter Hoeg
+“Some of us find our lives abridged even before the paperback comes out. ” - Berkeley Breathed
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> School Rumble Ni Gakki
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 06: Baker Street no Bourei
 </h4>
 
-<h4>🌿 <u>English Title:</u> School Rumble: 2nd Semester</h4>
+<h4>🌿 <u>English Title:</u> Case Closed Movie 06: The Phantom of Baker Street</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75490.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1400/94320.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Adventure, Mystery</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [School Rumble Ni Gakki](https://myanimelist.net/anime/846/School_Rumble_Ni_Gakki)*
+🍂 *More information: [Meitantei Conan Movie 06: Baker Street no Bourei](https://myanimelist.net/anime/1365/Meitantei_Conan_Movie_06__Baker_Street_no_Bourei)*
     
