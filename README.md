@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years. To read is to voyage through time.” - Carl Sagan
+“Like flies in amber, like corpses frozen in ice, that which according to the laws of nature should pass away is, by the miracle of ink on paper, preserved. It is a kind of magic. As one tends the graves of the dead, so I tend the books. And every day I open a volume or two, read a few lines or pages, allow the voices of the forgotten dead to resonate inside my head.” - Diane Setterfield
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fanren Xiu Xian Chuan 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket Movie 4: Last Game
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Record of a Mortal's Journey to Immortality Season 2</h4>
+<h4>🌿 <u>English Title:</u> Kuroko's Basketball the Movie: Last Game</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1875/120145.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/83106.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fanren Xiu Xian Chuan 2nd Season](https://myanimelist.net/anime/50207/Fanren_Xiu_Xian_Chuan_2nd_Season)*
+🍂 *More information: [Kuroko no Basket Movie 4: Last Game](https://myanimelist.net/anime/31658/Kuroko_no_Basket_Movie_4__Last_Game)*
     
