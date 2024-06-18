@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“These are all novels, all about people that never existed, the people that read them it makes them unhappy with their own lives. Makes them want to live in other ways they can never really be.” - Ray Bradbury
+“One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years. To read is to voyage through time.” - Carl Sagan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhu Xian
+  <strong>🥭 <u>Title:</u></strong> Fanren Xiu Xian Chuan 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
+<h4>🌿 <u>English Title:</u> A Record of a Mortal's Journey to Immortality Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1875/120145.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 51</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
+🍂 *More information: [Fanren Xiu Xian Chuan 2nd Season](https://myanimelist.net/anime/50207/Fanren_Xiu_Xian_Chuan_2nd_Season)*
     
