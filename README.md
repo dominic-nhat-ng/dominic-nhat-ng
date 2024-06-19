@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The ART of happiness is finding your joy in the process, rather than in the end result.” - Jessica de la Davies
+“Leaving behind the babble of the plaza, I enter the Library. I feel, almost physically, the gravitation of the books, the enveloping serenity of order, time magically dessicated and preserved.” - Jorge Luis Borges
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece Film: Red
+  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece Film: Red</h4>
+<h4>🌿 <u>English Title:</u> Assassination Classroom</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1668/125323.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75639.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 22</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece Film: Red](https://myanimelist.net/anime/50410/One_Piece_Film__Red)*
+🍂 *More information: [Ansatsu Kyoushitsu](https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu)*
     
