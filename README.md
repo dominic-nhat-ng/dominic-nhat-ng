@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Leaving behind the babble of the plaza, I enter the Library. I feel, almost physically, the gravitation of the books, the enveloping serenity of order, time magically dessicated and preserved.” - Jorge Luis Borges
+“Is there an antidote to the perennial seductiveness of war? And is this a question a woman is more likely to pose than a man? (Probably yes.)” - Susan Sontag
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Second Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Assassination Classroom</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!! 2nd Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75639.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/76662.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 8.62/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 22</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ansatsu Kyoushitsu](https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu)*
+🍂 *More information: [Haikyuu!! Second Season](https://myanimelist.net/anime/28891/Haikyuu_Second_Season)*
     
