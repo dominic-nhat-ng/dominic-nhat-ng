@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Do you know where your breakthrough begins? Your breakthrough begins where your excuses ends.” - Patience Johnson
+“A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight.” - Robertson Davies
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaichou wa Maid-sama!
+  <strong>🥭 <u>Title:</u></strong> Shiroi Suna no Aquatope
 </h4>
 
-<h4>🌿 <u>English Title:</u> Maid Sama!</h4>
+<h4>🌿 <u>English Title:</u> The Aquatope on White Sand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/25254.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1932/114952.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaichou wa Maid-sama!](https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama)*
+🍂 *More information: [Shiroi Suna no Aquatope](https://myanimelist.net/anime/46093/Shiroi_Suna_no_Aquatope)*
     
