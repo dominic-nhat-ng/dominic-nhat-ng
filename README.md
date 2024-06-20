@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight.” - Robertson Davies
+“If you’re a writer, your first duty, a duty you owe to yourself and your readers, and to your writing itself, is to become wonderful. To become the best writer you can possibly be.” - Theodora Goss
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shiroi Suna no Aquatope
+  <strong>🥭 <u>Title:</u></strong> Jormungand: Perfect Order
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Aquatope on White Sand</h4>
+<h4>🌿 <u>English Title:</u> Jormungand Season 2: Perfect Order</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1932/114952.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/73278.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Shiroi Suna no Aquatope](https://myanimelist.net/anime/46093/Shiroi_Suna_no_Aquatope)*
+🍂 *More information: [Jormungand: Perfect Order](https://myanimelist.net/anime/13331/Jormungand__Perfect_Order)*
     
