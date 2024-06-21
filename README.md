@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Publication is a marathon, not a sprint. Writing the book is only the start.” - Jo Linsdell
+“Is there anywhere on earth exempt from these swarms of new books? Even if, taken out one at a time, they offered something worth knowing, the very mass of them would be an impediment to learning from satiety if nothing else” - Erasmus
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura
+  <strong>🥭 <u>Title:</u></strong> Overlord Movie 2: Shikkoku no Eiyuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cardcaptor Sakura</h4>
+<h4>🌿 <u>English Title:</u> Overlord: The Dark Hero</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/60781.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/87758.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 70</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Cardcaptor Sakura](https://myanimelist.net/anime/232/Cardcaptor_Sakura)*
+🍂 *More information: [Overlord Movie 2: Shikkoku no Eiyuu](https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu)*
     
