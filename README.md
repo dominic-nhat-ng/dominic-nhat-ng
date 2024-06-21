@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Is there anywhere on earth exempt from these swarms of new books? Even if, taken out one at a time, they offered something worth knowing, the very mass of them would be an impediment to learning from satiety if nothing else” - Erasmus
+“What these books and their like have done for me is tap into some roaming tendency of the mind; I know that I could never have done what these writers have done, been where they have been, pursued the interests they have pursued, but I want to know what it is like. We go to fiction to extend experience, to get beyond our own, For me, this kind of non-fiction writer is furnishing the same need--taking me out of my own comfortable expectations and showing me how it might be elsewhere. Armchair travel? Not quite. I have never believed that travel broadens the mind, having known some well-travelled minds that were nicely atrophied. Rather, these are books--experiences--that encourage a leap of the imagination.” - Penelope Lively
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Overlord Movie 2: Shikkoku no Eiyuu
+  <strong>🥭 <u>Title:</u></strong> Feng Ling Yu Xiu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Overlord: The Dark Hero</h4>
+<h4>🌿 <u>English Title:</u> Soulmate Adventure Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/87758.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1634/136523.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Overlord Movie 2: Shikkoku no Eiyuu](https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu)*
+🍂 *More information: [Feng Ling Yu Xiu 2nd Season](https://myanimelist.net/anime/55692/Feng_Ling_Yu_Xiu_2nd_Season)*
     
