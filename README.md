@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What these books and their like have done for me is tap into some roaming tendency of the mind; I know that I could never have done what these writers have done, been where they have been, pursued the interests they have pursued, but I want to know what it is like. We go to fiction to extend experience, to get beyond our own, For me, this kind of non-fiction writer is furnishing the same need--taking me out of my own comfortable expectations and showing me how it might be elsewhere. Armchair travel? Not quite. I have never believed that travel broadens the mind, having known some well-travelled minds that were nicely atrophied. Rather, these are books--experiences--that encourage a leap of the imagination.” - Penelope Lively
+“Better to keep it in the old heads, where no one can see it or suspect it. We are all bits and pieces of history and literature and international law. Byron, Tom Paine, Machiavelli, or Christ, it's here. And the hour's late. And the war's begun. And we are out here, and the city is there, all wrapped up in its own coat of a thousand colors... All we want to do is keep the knowledge we think we will need intact and safe. We're not out to incite or anger anyone yet. For if we are destroyed, the knowledge is dead, perhaps for good... Right now we have a horrible job; we're waiting for the war to begin and, as quickly, end. It's not pleasant, but then we're not in control, we're the odd minority crying in the wilderness. When the war's over, perhaps we can be of some use in the world.” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Feng Ling Yu Xiu 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Akira
 </h4>
 
-<h4>🌿 <u>English Title:</u> Soulmate Adventure Season 2</h4>
+<h4>🌿 <u>English Title:</u> Akira</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1634/136523.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1408/114012.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 8.16/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1988</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Adventure, Horror, Sci-Fi, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Feng Ling Yu Xiu 2nd Season](https://myanimelist.net/anime/55692/Feng_Ling_Yu_Xiu_2nd_Season)*
+🍂 *More information: [Akira](https://myanimelist.net/anime/47/Akira)*
     
