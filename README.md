@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Better to keep it in the old heads, where no one can see it or suspect it. We are all bits and pieces of history and literature and international law. Byron, Tom Paine, Machiavelli, or Christ, it's here. And the hour's late. And the war's begun. And we are out here, and the city is there, all wrapped up in its own coat of a thousand colors... All we want to do is keep the knowledge we think we will need intact and safe. We're not out to incite or anger anyone yet. For if we are destroyed, the knowledge is dead, perhaps for good... Right now we have a horrible job; we're waiting for the war to begin and, as quickly, end. It's not pleasant, but then we're not in control, we're the odd minority crying in the wilderness. When the war's over, perhaps we can be of some use in the world.” - Ray Bradbury
+“Without books, God is silent, justice dormant, natural science at a stand, philosophy lame, letters dumb, and all things involved in darkness.” - Thomas Bartholin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akira
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Akira</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1408/114012.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/76014.jpg />
 
-<h4>🌱 Score: 8.16/10</h4>
+<h4>🌱 Score: 8.44/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1988</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Horror, Sci-Fi, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Akira](https://myanimelist.net/anime/47/Akira)*
+🍂 *More information: [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)*
     
