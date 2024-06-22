@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Without books, God is silent, justice dormant, natural science at a stand, philosophy lame, letters dumb, and all things involved in darkness.” - Thomas Bartholin
+“Of course. You get everything from books.” - Gregory Maguire
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!!
+  <strong>🥭 <u>Title:</u></strong> Cowboy Bebop
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!!</h4>
+<h4>🌿 <u>English Title:</u> Cowboy Bebop</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/76014.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/19644.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 8.75/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Award Winning, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)*
+🍂 *More information: [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)*
     
