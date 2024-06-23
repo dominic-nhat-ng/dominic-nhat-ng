@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“O livro que espalma a flor nas suas págimas transforma-a em borboleta.” - Ramón Gómez de la Serna
+“The difference between the oldest and the most stupid job you do is that one is selling herself and the other is selling you.” - George G. Asztalos
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Black Clover
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Clover</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/88336.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Black Clover](https://myanimelist.net/anime/34572/Black_Clover)*
+🍂 *More information: [undefined](undefined)*
     
