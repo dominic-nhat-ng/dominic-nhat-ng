@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The difference between the oldest and the most stupid job you do is that one is selling herself and the other is selling you.” - George G. Asztalos
+“...la alegría infantil de sumergirse en una conversación inesperada con un completo desconocido para descubrirse, horas después -y bajo toneladas hipercalóricas de "¿leíste a tal?". "¡Sí! ¿Y leíste a tal?". "¡Sí! ¿Y leíste a tal?"-, pensando que ése, sí, es el comienzo de una gran amistad.” - Leila Guerriero
 </i>
 </blockquote>
 
