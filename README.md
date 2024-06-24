@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Life was not easy, nor was it happy, but she did not expect life to be easy, and, if it was not happy, that was woman's lot. It was a man's world, and she accepted it as such. The man owned the property, and the woman managed it. The man took credit for the management, and the woman praised his cleverness. The man roared like a bull when a splinter was in his finger, and the woman muffled the moans of childbirth, lest she disturb him. Men were rough of speech and often drunk. Women ignored the lapses of speech and put the drunkards to bed without bitter words. Men were rude and outspoken, women were always kind, gracious and forgiving.” - Margaret Mitchell
+“Do the children who prefer books set in the real, ordinary, workaday world ever read as obsessively as those who would much rather be transported into other worlds entirely?” - Laura Miller
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sand Land: The Series
+  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU TOO! OVA</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1004/142114.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/84052.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sand Land: The Series](https://myanimelist.net/anime/57160/Sand_Land__The_Series)*
+🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA](https://myanimelist.net/anime/33161/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku_OVA)*
     
