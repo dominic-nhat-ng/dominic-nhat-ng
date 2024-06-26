@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Suddenly the full long wail of a ship's horn surged through the open window and flooded the dim room - a cry of boundless, dark, demanding grief; pitch-black and glabrous as a whale's back and burdened with all the passions of the tides, the memory of voyages beyond counting, the joys, the humiliations: the sea was screaming. Full of the glitter and the frenzy of night, the horn thundered in, conveying from the distant offing, from the dead center of the sea, a thirst for the dark nectar in the little room.” - Yukio Mishima
+“The object we call a book is not the real book, but its potential, like a musical score or seed. It exists fully only in the act of being read; and its real home is inside the head of the reader, where the symphony resounds, the seed germinates. A book is a heart that only beats in the chest of another.” - Rebecca Solnit
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tales of Vesperia: The First Strike
+  <strong>🥭 <u>Title:</u></strong> undefined
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tales of Vesperia ~The First Strike~</h4>
+<h4>🌿 <u>English Title:</u> undefined</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/16680.jpg />
+<img align="right" width="165" src=undefined />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: undefined/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: undefined</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: undefined</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: undefined</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: undefined</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: undefined</h4>
 
 <br />
 
-🍂 *More information: [Tales of Vesperia: The First Strike](https://myanimelist.net/anime/6046/Tales_of_Vesperia__The_First_Strike)*
+🍂 *More information: [undefined](undefined)*
     
