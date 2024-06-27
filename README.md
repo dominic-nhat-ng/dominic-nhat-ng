@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The object we call a book is not the real book, but its potential, like a musical score or seed. It exists fully only in the act of being read; and its real home is inside the head of the reader, where the symphony resounds, the seed germinates. A book is a heart that only beats in the chest of another.” - Rebecca Solnit
+“It is the mess that readers love. The fact that sometimes the people who love us the most aren't people we're related to, but people who join our family later. The book acknowledges how difficult family relationship are, and this fuss just proves it.” - Kristine Grayson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Nisemonogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Nisemonogatari</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1044/103654.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 8.13/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Comedy, Mystery, Supernatural, Ecchi</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Nisemonogatari](https://myanimelist.net/anime/11597/Nisemonogatari)*
     
