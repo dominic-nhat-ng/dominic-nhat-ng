@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I am eternally grateful for my knack of finding in great books, some of them very funny books, reason enough to feel honored to be alive, no matter what else might be going on.” - Kurt Vonnegut
+“But preserve your mistrust of the page, for a book is a fortress, a place of weeping, the key to a desert, a river that has no bridge, a garden of spears.” - Sofia Samatar
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium 2
+  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Meikai-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium 2</h4>
+<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Inferno</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/81155.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/75732.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium 2](https://myanimelist.net/anime/31988/Hibike_Euphonium_2)*
+🍂 *More information: [Saint Seiya: Meiou Hades Meikai-hen](https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen)*
     
