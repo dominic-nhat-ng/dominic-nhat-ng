@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Tis the good reader that makes the good book; in every book he finds passages which seem confidences or asides hidden from all else and unmistakenly meant for his ear; the profit of books is according to the sensibility of the reader; the profoundest thought or passion sleeps as in a mine, until it is discovered by an equal mind and heart.” - Ralph Waldo Emerson
+“(My copy of Hall's 'Secret Teachings of All Ages' has a really neat picture of Shakespeare with an onionskin engraving of Bacon that you can lay over it to see what Shakespeare would have looked like in a fruity hat. I truly recommend this book.)” - Kenneth Hite
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch I - Koudou
+  <strong>🥭 <u>Title:</u></strong> Wan Sheng Jie 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion I - Initiation</h4>
+<h4>🌿 <u>English Title:</u> All Saints Street 3</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/87709.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1995/117071.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 8.01/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Code Geass: Hangyaku no Lelouch I - Koudou](https://myanimelist.net/anime/34438/Code_Geass__Hangyaku_no_Lelouch_I_-_Koudou)*
+🍂 *More information: [Wan Sheng Jie 3](https://myanimelist.net/anime/49587/Wan_Sheng_Jie_3)*
     
