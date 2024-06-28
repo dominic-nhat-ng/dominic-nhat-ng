@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But preserve your mistrust of the page, for a book is a fortress, a place of weeping, the key to a desert, a river that has no bridge, a garden of spears.” - Sofia Samatar
+“Tis the good reader that makes the good book; in every book he finds passages which seem confidences or asides hidden from all else and unmistakenly meant for his ear; the profit of books is according to the sensibility of the reader; the profoundest thought or passion sleeps as in a mine, until it is discovered by an equal mind and heart.” - Ralph Waldo Emerson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Meikai-hen
+  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch I - Koudou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Inferno</h4>
+<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion I - Initiation</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/75732.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/87709.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Saint Seiya: Meiou Hades Meikai-hen](https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen)*
+🍂 *More information: [Code Geass: Hangyaku no Lelouch I - Koudou](https://myanimelist.net/anime/34438/Code_Geass__Hangyaku_no_Lelouch_I_-_Koudou)*
     
