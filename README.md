@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It wasn't that time stopped in the library. It was as if it were captured, collected here, and in all libraries -- and not only my time, my life, but all human time as well. In the library, time is dammed up--not just stopped but saved.” - Susan Orlean
+“The story was so thoroughly believed that a Springfield, Massachusetts, missionary society resolved to send missionaries to the moon to convert and civilize the bat-men, apparently unaware that bat-men have lost all faith since they saw their parents gunned down in that alleyway.” - Cracked.com
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushishi: Hihamukage
+  <strong>🥭 <u>Title:</u></strong> Inazuma Eleven
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushi-shi: The Shadow that Devours the Sun</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/59315.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1854/94704.jpg />
 
-<h4>🌱 Score: 8.53/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Mushishi: Hihamukage](https://myanimelist.net/anime/21329/Mushishi__Hihamukage)*
+🍂 *More information: [Inazuma Eleven](https://myanimelist.net/anime/5231/Inazuma_Eleven)*
     
