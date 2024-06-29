@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Hugh Laurie (playing Mr. Palmer) felt the line 'Don't palm all your abuses [of language upon me]' was possibly too rude. 'It's in the book,' I said. He didn't hit me.” - Emma Thompson
+“Nobody can decide for himself whether he is going to be a human being. The only question open to him is whether he will be an ignorant undeveloped one or one who has sought to reach the highest point he is capable of attaining.” - Robert Maynard Hutchins
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Runway de Waratte
+  <strong>🥭 <u>Title:</u></strong> Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Smile Down the Runway</h4>
+<h4>🌿 <u>English Title:</u> Is It Wrong to Try to Pick Up Girls in a Dungeon? IV</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1544/104540.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1318/126474.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Runway de Waratte](https://myanimelist.net/anime/40392/Runway_de_Waratte)*
+🍂 *More information: [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime/47164/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_IV__Shin_Shou_-_Meikyuu-hen)*
     
