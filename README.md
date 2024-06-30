@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“i live on my books. on my writings, i live on my royalties: the percentage an author recieves on each sold copy. and i am proud of it. i am so even though such percentage is small or i should say irrelevant.” - Oriana Fallaci
+“The prefect evening...lying down on the couch beside the bookcase and reading himself sleepy...Jim lying opposite him at the other end of the couch, also reading; the two of them absorbed in their books yet so completely aware of each other's presence.” - Christopher Isherwood
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu
+  <strong>🥭 <u>Title:</u></strong> Kochira Katsushikaku Kameari Kouenmae Hashutsujo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These - Collision</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1859/118711.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/21196.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu](https://myanimelist.net/anime/42886/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Gekitotsu)*
+🍂 *More information: [Kochira Katsushikaku Kameari Kouenmae Hashutsujo](https://myanimelist.net/anime/3545/Kochira_Katsushikaku_Kameari_Kouenmae_Hashutsujo)*
     
