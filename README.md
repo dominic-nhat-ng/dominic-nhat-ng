@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Nobody can decide for himself whether he is going to be a human being. The only question open to him is whether he will be an ignorant undeveloped one or one who has sought to reach the highest point he is capable of attaining.” - Robert Maynard Hutchins
+“i live on my books. on my writings, i live on my royalties: the percentage an author recieves on each sold copy. and i am proud of it. i am so even though such percentage is small or i should say irrelevant.” - Oriana Fallaci
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen
+  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Is It Wrong to Try to Pick Up Girls in a Dungeon? IV</h4>
+<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These - Collision</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1318/126474.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1859/118711.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime/47164/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_IV__Shin_Shou_-_Meikyuu-hen)*
+🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu](https://myanimelist.net/anime/42886/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Gekitotsu)*
     
