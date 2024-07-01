@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A children's story that can only be enjoyed by children is not a good children's story in the slightest.” - C.S. Lewis
+“To achieve lasting literature, fictional or factual, a writer needs perceptive vision, absorptive capacity, and creative strength.” - Lawrence Clark Powell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 00 Special Edition
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fist of the North Star</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 00 Special Edition</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/18502.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/17217.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1984</h4>
+<h4>🌴 Aired: 2009</h4>
 
 <h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hokuto no Ken](https://myanimelist.net/anime/967/Hokuto_no_Ken)*
+🍂 *More information: [Kidou Senshi Gundam 00 Special Edition](https://myanimelist.net/anime/7270/Kidou_Senshi_Gundam_00_Special_Edition)*
     
