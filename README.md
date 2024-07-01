@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I love the way that each book—any book—is its own journey. You open it, and off you go….” - Sharon Creech
+“A children's story that can only be enjoyed by children is not a good children's story in the slightest.” - C.S. Lewis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tengen Toppa Gurren Lagann Movie 1: Gurren-hen
+  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gurren Lagann The Movie: Childhood's End</h4>
+<h4>🌿 <u>English Title:</u> Fist of the North Star</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1270/115752.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/18502.jpg />
 
-<h4>🌱 Score: 8.16/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 1984</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Tengen Toppa Gurren Lagann Movie 1: Gurren-hen](https://myanimelist.net/anime/4107/Tengen_Toppa_Gurren_Lagann_Movie_1__Gurren-hen)*
+🍂 *More information: [Hokuto no Ken](https://myanimelist.net/anime/967/Hokuto_no_Ken)*
     
