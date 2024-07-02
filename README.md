@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind.” - Miguel de Cervantes Saavedra
+“مهما كان توجهك في الحياة حاول في كل يوم أن تبذل القليل من الجهد لقراءة المقالات أو الكتب التي تخالفك الرأي وكل ما تفعله هو توسيع مدراكك وفتح قلبك أمام الجديد من الأفكار وسيقلل هذا الإنفتاح الجديد من التوتر الذي يسببه الإبتعاد عن وجهات النظر الأخرى وهذا التمرين بالإضافة إلى كونه شائقاً سوف يساعدك على رؤية البراءة في تصرفات الغير علاوة على مساعدتك في التحلي بالمزيد من الصبر كما سيزداد استرخاؤك وتصبح إنساناً أعمق فلسفة لأنك ستبدأ بإدراك المنطق وراء وجهات النظر الأخرى.” - ريتشارد كارلسون
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aggressive Retsuko (ONA) 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Persona 3 the Movie 4: Winter of Rebirth
 </h4>
 
-<h4>🌿 <u>English Title:</u> Aggretsuko (ONA) 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Persona 3 the Movie: #4 Winter of Rebirth</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1739/101117.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/77828.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 8.04/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Aggressive Retsuko (ONA) 2nd Season](https://myanimelist.net/anime/37985/Aggressive_Retsuko_ONA_2nd_Season)*
+🍂 *More information: [Persona 3 the Movie 4: Winter of Rebirth](https://myanimelist.net/anime/31149/Persona_3_the_Movie_4__Winter_of_Rebirth)*
     
