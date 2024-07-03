@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What's the book like?" - David Mitchell
+“I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.” - Margaret Drabble
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bakuman.
+  <strong>🥭 <u>Title:</u></strong> Urusei Yatsura 2: Beautiful Dreamer
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bakuman.</h4>
+<h4>🌿 <u>English Title:</u> Urusei Yatsura Movie 2: Beautiful Dreamer</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/26138.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1999/98665.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1984</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bakuman.](https://myanimelist.net/anime/7674/Bakuman)*
+🍂 *More information: [Urusei Yatsura 2: Beautiful Dreamer](https://myanimelist.net/anime/1921/Urusei_Yatsura_2__Beautiful_Dreamer)*
     
