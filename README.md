@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Hugh Laurie (playing Mr. Palmer) felt the line 'Don't palm all your abuses [of language upon me]' was possibly too rude. 'It's in the book,' I said. He didn't hit me.” - Emma Thompson
+“What's the book like?" - David Mitchell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gintama': Enchousen
+  <strong>🥭 <u>Title:</u></strong> Bakuman.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gintama: Enchousen</h4>
+<h4>🌿 <u>English Title:</u> Bakuman.</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1452/123686.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/26138.jpg />
 
-<h4>🌱 Score: 9.02/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gintama': Enchousen](https://myanimelist.net/anime/15417/Gintama__Enchousen)*
+🍂 *More information: [Bakuman.](https://myanimelist.net/anime/7674/Bakuman)*
     
