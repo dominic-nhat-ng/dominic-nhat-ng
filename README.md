@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For books are more than books, they are the life - Amy Lowell
+“Books are like flypaper, memories cling to the printed pages better than anything else.” - Cornelia Funke
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimitachi wa Dou Ikiru ka
+  <strong>🥭 <u>Title:</u></strong> Summer Wars
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Boy and the Heron</h4>
+<h4>🌿 <u>English Title:</u> Summer Wars</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1126/139654.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1593/116751.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime/36699/Kimitachi_wa_Dou_Ikiru_ka)*
+🍂 *More information: [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)*
     
