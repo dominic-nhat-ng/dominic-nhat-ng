@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“El libro es jardín que se puede llevar en el bolsillo, nave espacial que viaja en la mochila, arma para enfrentar las mejores batallas y afrentar a los peores enemigos, semilla de libertad, pañuelo para las lágrimas. El libro es cama mullida y cama de clavos, el libro te obliga a pensar, a sonreír, a llorar, a enojarte ante lo injusto y aplaudir la venganza de los justos. El libro es comida, techo, asiento, ropa que me arropa, boca que besa mi boca. Lugar que contiene el universo.” - Benito Taibo
+“For books are more than books, they are the life - Amy Lowell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yofukashi no Uta
+  <strong>🥭 <u>Title:</u></strong> Kimitachi wa Dou Ikiru ka
 </h4>
 
-<h4>🌿 <u>English Title:</u> Call of the Night</h4>
+<h4>🌿 <u>English Title:</u> The Boy and the Heron</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1045/123711.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1126/139654.jpg />
 
-<h4>🌱 Score: 7.97/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Romance, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yofukashi no Uta](https://myanimelist.net/anime/50346/Yofukashi_no_Uta)*
+🍂 *More information: [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime/36699/Kimitachi_wa_Dou_Ikiru_ka)*
     
