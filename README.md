@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are like flypaper, memories cling to the printed pages better than anything else.” - Cornelia Funke
+“What a glut of books! Who can read them?” - Robert Burton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Summer Wars
+  <strong>🥭 <u>Title:</u></strong> Zombieland Saga Revenge
 </h4>
 
-<h4>🌿 <u>English Title:</u> Summer Wars</h4>
+<h4>🌿 <u>English Title:</u> Zombie Land Saga Revenge</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1593/116751.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1118/115156.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)*
+🍂 *More information: [Zombieland Saga Revenge](https://myanimelist.net/anime/40174/Zombieland_Saga_Revenge)*
     
