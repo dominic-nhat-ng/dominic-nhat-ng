@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I believe war should be the last result, but I do believe that when we find ourselves at war, we should unite as a people and not do anything to aid or encourage the enemy. We should stay the course and remember that the people we are defending, though they may not always be Americans, are people dependent upon us to see the conflict through to an end.” - Lanny Starr
+“I do lend my books, but I have to be a bit selective because my marginalia are so incriminating.” --Alison Bechdel” - Leah Price
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Karigurashi no Arrietty
+  <strong>🥭 <u>Title:</u></strong> Suzume no Tojimari
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Secret World of Arrietty</h4>
+<h4>🌿 <u>English Title:</u> Suzume</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1974/116417.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1598/128450.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 8.3/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)*
+🍂 *More information: [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)*
     
