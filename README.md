@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book is the cheapest ticket you will ever hold.” - Stefanos Livos
+“Amanda took the torn page from Maniac. To her, it was the broken wing of a bird, a pet out in the rain.” - Jerry Spinelli
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: New OVA
+  <strong>🥭 <u>Title:</u></strong> Yuusha-Ou GaoGaiGar
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Police Patlabor: The New Files</h4>
+<h4>🌿 <u>English Title:</u> King of Braves GaoGaiGar</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1602/134832.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/21183.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1990</h4>
+<h4>🌴 Aired: 1997</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 49</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Keisatsu Patlabor: New OVA](https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA)*
+🍂 *More information: [Yuusha-Ou GaoGaiGar](https://myanimelist.net/anime/890/Yuusha-Ou_GaoGaiGar)*
     
