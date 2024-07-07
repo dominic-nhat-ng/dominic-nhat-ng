@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“পোকা নেতিবাচক, অন্যদিকে প্রেমী ইতিবাচক। তাই, যে মানুষটি বইপড়া উপভোগ করেন তাকে ‘বইপোকা’ না ডেকে ‘বইপ্রেমী’ ডাকা উচিত কারণ একটি পোকা বইকে ধ্বংস করে দেয়, কিন্তু একজন প্রেমী বইকে ভালোবাসেন, মূল্য দেন, লালন করেন এবং রক্ষা করেন!” - Md. Ziaul Haque
+“And what is the use of a book," thought Alice, "without pictures or conversation?” - Lewis Carroll
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Perrine Monogatari
+  <strong>🥭 <u>Title:</u></strong> Hourou Musuko Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Wandering Son Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1206/137104.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/30177.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1978</h4>
+<h4>🌴 Aired: 2011</h4>
 
 <h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 53</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Perrine Monogatari](https://myanimelist.net/anime/2549/Perrine_Monogatari)*
+🍂 *More information: [Hourou Musuko Specials](https://myanimelist.net/anime/10935/Hourou_Musuko_Specials)*
     
