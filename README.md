@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Amanda took the torn page from Maniac. To her, it was the broken wing of a bird, a pet out in the rain.” - Jerry Spinelli
+“পোকা নেতিবাচক, অন্যদিকে প্রেমী ইতিবাচক। তাই, যে মানুষটি বইপড়া উপভোগ করেন তাকে ‘বইপোকা’ না ডেকে ‘বইপ্রেমী’ ডাকা উচিত কারণ একটি পোকা বইকে ধ্বংস করে দেয়, কিন্তু একজন প্রেমী বইকে ভালোবাসেন, মূল্য দেন, লালন করেন এবং রক্ষা করেন!” - Md. Ziaul Haque
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuusha-Ou GaoGaiGar
+  <strong>🥭 <u>Title:</u></strong> Perrine Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> King of Braves GaoGaiGar</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/21183.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1206/137104.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1997</h4>
+<h4>🌴 Aired: 1978</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: 53</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Yuusha-Ou GaoGaiGar](https://myanimelist.net/anime/890/Yuusha-Ou_GaoGaiGar)*
+🍂 *More information: [Perrine Monogatari](https://myanimelist.net/anime/2549/Perrine_Monogatari)*
     
