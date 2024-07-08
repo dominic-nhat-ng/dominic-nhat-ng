@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Every book is a great action and every great action is a book!” - Martin Luther
+“God be thanked for books! they are the voices of the distant and the dead, and make us heirs of the spiritual life of past ages.” - W.E. Channing
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> undefined
+  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune
 </h4>
 
-<h4>🌿 <u>English Title:</u> undefined</h4>
+<h4>🌿 <u>English Title:</u> Space Battleship Yamato 2199: Odyssey of the Celestial Ark</h4>
 
-<img align="right" width="165" src=undefined />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/67623.jpg />
 
-<h4>🌱 Score: undefined/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: undefined</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: undefined</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: undefined</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: undefined</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: undefined</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [undefined](undefined)*
+🍂 *More information: [Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune](https://myanimelist.net/anime/23249/Uchuu_Senkan_Yamato_2199__Hoshimeguru_Hakobune)*
     
