@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Finding the book was like kissing a lightning bolt.” - Karen Miller
+“If you have read 6,000 books in your lifetime, or even 600, it's probably because at some level you find 'reality' a bit of a disappointment.” - Joe Queenan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sugar Sugar Rune
+  <strong>🥭 <u>Title:</u></strong> Fairy Tail: 100-nen Quest
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sugar Sugar Rune</h4>
+<h4>🌿 <u>English Title:</u> Fairy Tail: 100 Years Quest</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/74728.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1087/144083.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sugar Sugar Rune](https://myanimelist.net/anime/1642/Sugar_Sugar_Rune)*
+🍂 *More information: [Fairy Tail: 100-nen Quest](https://myanimelist.net/anime/49785/Fairy_Tail__100-nen_Quest)*
     
