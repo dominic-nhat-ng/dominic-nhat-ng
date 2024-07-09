@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are not seldom talismans and spells.” - William Cowper
+“Finding the book was like kissing a lightning bolt.” - Karen Miller
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Shan Wu Xing: Xichuan Huan Zi Lin
+  <strong>🥭 <u>Title:</u></strong> Sugar Sugar Rune
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fog Hill of Five Elements</h4>
+<h4>🌿 <u>English Title:</u> Sugar Sugar Rune</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1433/119529.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/74728.jpg />
 
-<h4>🌱 Score: 8.36/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 51</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Wu Shan Wu Xing: Xichuan Huan Zi Lin](https://myanimelist.net/anime/50407/Wu_Shan_Wu_Xing__Xichuan_Huan_Zi_Lin)*
+🍂 *More information: [Sugar Sugar Rune](https://myanimelist.net/anime/1642/Sugar_Sugar_Rune)*
     
