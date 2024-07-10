@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Nobody has the right to not be offended. That right doesn't exist in any declaration I have ever read. - Salman Rushdie
+“Books are like imprisoned souls till someone takes them down from a shelf and frees them.” - Samuel Butler
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hajime no Ippo: Champion Road
+  <strong>🥭 <u>Title:</u></strong> Date A Live IV
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fighting Spirit: Champion Road</h4>
+<h4>🌿 <u>English Title:</u> Date A Live IV</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1521/137978.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1368/121281.jpg />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Fantasy, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hajime no Ippo: Champion Road](https://myanimelist.net/anime/264/Hajime_no_Ippo__Champion_Road)*
+🍂 *More information: [Date A Live IV](https://myanimelist.net/anime/41461/Date_A_Live_IV)*
     
