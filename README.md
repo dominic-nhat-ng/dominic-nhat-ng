@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you have read 6,000 books in your lifetime, or even 600, it's probably because at some level you find 'reality' a bit of a disappointment.” - Joe Queenan
+“Nobody has the right to not be offended. That right doesn't exist in any declaration I have ever read. - Salman Rushdie
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fairy Tail: 100-nen Quest
+  <strong>🥭 <u>Title:</u></strong> Hajime no Ippo: Champion Road
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fairy Tail: 100 Years Quest</h4>
+<h4>🌿 <u>English Title:</u> Fighting Spirit: Champion Road</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1087/144083.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1521/137978.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fairy Tail: 100-nen Quest](https://myanimelist.net/anime/49785/Fairy_Tail__100-nen_Quest)*
+🍂 *More information: [Hajime no Ippo: Champion Road](https://myanimelist.net/anime/264/Hajime_no_Ippo__Champion_Road)*
     
