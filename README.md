@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Usually, I set one foot in a library and I feel my own internal volume lower. A library is a physical equivalent of a sigh. It’s the silence, sure, but it’s also the certainty of all those books, the way they stand side by side with their still, calm conviction. It’s the reassurance of knowledge in the face of confusion.” - Deb Caletti
+“He had no money and no home; he lived entirely on the road of the racing circuit, sleeping in empty stalls, carrying with him only a saddle, his rosary, and his books....The books were the closest thing he had to furniture, and he lived in them the way other men live in easy chairs.” - laura hillenbrand
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Little Busters! EX
+  <strong>🥭 <u>Title:</u></strong> Yamada-kun to 7-nin no Majo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Little Busters! EX</h4>
+<h4>🌿 <u>English Title:</u> Yamada-kun and the Seven Witches</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/59031.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/73700.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Mystery, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 8</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Little Busters! EX](https://myanimelist.net/anime/20517/Little_Busters_EX)*
+🍂 *More information: [Yamada-kun to 7-nin no Majo](https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo)*
     
