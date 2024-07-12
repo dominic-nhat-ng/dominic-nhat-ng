@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“When at last I came upon the right book, the feeling was violent: it blew open a hole in me that made life more dangerous because I couldn't control what came through it.” - Nicole Krauss
+“A book, - Pablo Neruda
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaze no Tani no Nausicaä
+  <strong>🥭 <u>Title:</u></strong> Zhu Xian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Nausicaä of the Valley of the Wind</h4>
+<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/75914.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1984</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaze no Tani no Nausicaä](https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausicaä)*
+🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
     
