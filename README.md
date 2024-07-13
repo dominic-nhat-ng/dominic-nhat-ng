@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And he loves to read. He loves the whisper of the pages and the way his fingertips catch on rough paper, the pour of the words up from the leaves, through soft light, into his eyes, the mute voice in his ears.” - Keith  Miller
+“Membaca itu kegiatan soliter tetapi sekaligus jauh dari kesepian. Kegiatan sederhana yang membuka pikiran kita ke kompleksitas dan kemungkinan tak terbatas; suatu keheningan yang membawa kita ke perjalanan-perjalanan di luar yang dapat kita bayangkan.” - Desi Anwar
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa
+  <strong>🥭 <u>Title:</u></strong> Major S1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Recaps</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/13518.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/73973.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa](https://myanimelist.net/anime/6154/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen_-_Yomigaerishi_Gold_Saint-tachi_no_Shinwa)*
+🍂 *More information: [Major S1](https://myanimelist.net/anime/627/Major_S1)*
     
