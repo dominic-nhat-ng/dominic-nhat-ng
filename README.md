@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He kissed me for a long moment, holding my shoulders, perhaps to keep me from pressing my whole body against his. Then he tried to lift my bag. - Laura Whitcomb
+“There are few sights sadder than a ruined book.” - Lemony Snicket
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin III: Episode 0 "First Contact"
+  <strong>🥭 <u>Title:</u></strong> Dorohedoro
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin III Episode 0: The First Contact</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/27778.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1740/104786.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Lupin III: Episode 0 "First Contact"](https://myanimelist.net/anime/1418/Lupin_III__Episode_0_First_Contact)*
+🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
     
