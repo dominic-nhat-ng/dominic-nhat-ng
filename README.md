@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But, how do you know if an ending is truly good for the characters unless you've traveled with them through every page?” - Shannon Hale
+“Dismissed like a dog. Damon groped for his jacket behind him, found it, and wished that his groping for his sense of humor could be as successful. The faces around him were all the same. They could have been carved in stone. - L.J. Smith (The Vampire Diaries: The Return Volume 1: Nightfall)
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuanshen: Hai Dengjie CM Duanpian - Ming Xiao Huanmeng
+  <strong>🥭 <u>Title:</u></strong> Shoujo Shuumatsu Ryokou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshin Impact: Lantern Rite PV - Dream Upon a Lantern</h4>
+<h4>🌿 <u>English Title:</u> Girls' Last Tour</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1336/132963.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/88321.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Adventure, Mystery, Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuanshen: Hai Dengjie CM Duanpian - Ming Xiao Huanmeng](https://myanimelist.net/anime/54312/Yuanshen__Hai_Dengjie_CM_Duanpian_-_Ming_Xiao_Huanmeng)*
+🍂 *More information: [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou)*
     
