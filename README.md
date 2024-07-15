@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are like people: fascinating, inspiring, thought-provoking, some laugh, some meditate, others ache with old age, but still have wisdom: some are disease-ridden, some deceitful; but others are a delight to behold, and many travel to foreign lands; some cry, some teach, others are lots of fun, they are excellent companions and all have individuality - Books are friends. What person has too many friends?” - Gladys Hunt
+“I remember the hours I had spent in Father's library, drugging myself with books so I could forget my doom for an hour..” - Rosamund Hodge
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fate/stay night Movie: Heaven's Feel - I. Presage Flower
+  <strong>🥭 <u>Title:</u></strong> Ushiro no Shoumen Daare
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fate/stay night: Heaven's Feel - I. Presage Flower</h4>
+<h4>🌿 <u>English Title:</u> Who's Left Behind?</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1274/102213.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1693/133896.jpg />
 
-<h4>🌱 Score: 8.16/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 1991</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Fate/stay night Movie: Heaven's Feel - I. Presage Flower](https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower)*
+🍂 *More information: [Ushiro no Shoumen Daare](https://myanimelist.net/anime/2753/Ushiro_no_Shoumen_Daare)*
     
