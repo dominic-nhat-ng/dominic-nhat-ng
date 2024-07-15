@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Surprise!-FitzChivalry” - Robin Hobb
+“In Literature it is only the wild that attracts us.” - Henry David Thoreau
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Yuri
+  <strong>🥭 <u>Title:</u></strong> Shion no Ou
 </h4>
 
-<h4>🌿 <u>English Title:</u> YuruYuri: Happy Go Lily</h4>
+<h4>🌿 <u>English Title:</u> The Flowers of Hard Blood</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/75173.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/74050.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Girls Love</h4>
+<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 22</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Yuri](https://myanimelist.net/anime/10495/Yuru_Yuri)*
+🍂 *More information: [Shion no Ou](https://myanimelist.net/anime/2562/Shion_no_Ou)*
     
