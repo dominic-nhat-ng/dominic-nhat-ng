@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I remember the hours I had spent in Father's library, drugging myself with books so I could forget my doom for an hour..” - Rosamund Hodge
+“Read a thousand books, and your words will flow like a river.” - Lisa See
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ushiro no Shoumen Daare
+  <strong>🥭 <u>Title:</u></strong> Pokemon: Mezase Pokemon Master
 </h4>
 
-<h4>🌿 <u>English Title:</u> Who's Left Behind?</h4>
+<h4>🌿 <u>English Title:</u> Pokémon: To Be a Pokémon Master</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1693/133896.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1246/134209.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1991</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Ushiro no Shoumen Daare](https://myanimelist.net/anime/2753/Ushiro_no_Shoumen_Daare)*
+🍂 *More information: [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874/Pokemon__Mezase_Pokemon_Master)*
     
