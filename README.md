@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“a true piece of writing is a dangerous thing. It can change your life.” - Tobias Wolff
+“How dare you call me ‘it’?” It was my turn to point the finger, as I glide over to where he is standing and gibbering. “‘It’ has a name,” I continue, scowling. “It’s Clara and, if you ever look at me like that or refer to me as a thing rather than a human being again, then I’ll find out where you live and I’ll haunt you for the rest of your puny life and that’s a PROMISE!” And that’s how you threaten someone…ghost style.” - Adele  Rose
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> No Game No Life
+  <strong>🥭 <u>Title:</u></strong> Digimon Adventure: Last Evolution Kizuna
 </h4>
 
-<h4>🌿 <u>English Title:</u> No Game, No Life</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1074/111944.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1654/104884.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy, Ecchi</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)*
+🍂 *More information: [Digimon Adventure: Last Evolution Kizuna](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)*
     
