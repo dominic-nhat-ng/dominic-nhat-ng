@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“How dare you call me ‘it’?” It was my turn to point the finger, as I glide over to where he is standing and gibbering. “‘It’ has a name,” I continue, scowling. “It’s Clara and, if you ever look at me like that or refer to me as a thing rather than a human being again, then I’ll find out where you live and I’ll haunt you for the rest of your puny life and that’s a PROMISE!” And that’s how you threaten someone…ghost style.” - Adele  Rose
+“A room without books is like a body without a soul.” - Marcus Tullius Cicero
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Digimon Adventure: Last Evolution Kizuna
+  <strong>🥭 <u>Title:</u></strong> Date A Bullet: Dead or Bullet
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1654/104884.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1984/108425.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Digimon Adventure: Last Evolution Kizuna](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)*
+🍂 *More information: [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime/40416/Date_A_Bullet__Dead_or_Bullet)*
     
