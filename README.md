@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A room without books is like a body without a soul.” - Marcus Tullius Cicero
+“Books, both read and written, are my way of understanding, communicating with and navigating the horrific world around me.” - Robbie Coburn
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Date A Bullet: Dead or Bullet
+  <strong>🥭 <u>Title:</u></strong> Kimagure Orange☆Road: Ano Hi ni Kaeritai
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Kimagure Orange Road: I Want to Return to That Day</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1984/108425.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1142/106021.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 1988</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime/40416/Date_A_Bullet__Dead_or_Bullet)*
+🍂 *More information: [Kimagure Orange☆Road: Ano Hi ni Kaeritai](https://myanimelist.net/anime/2454/Kimagure_Orange☆Road__Ano_Hi_ni_Kaeritai)*
     
