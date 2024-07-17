@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books, both read and written, are my way of understanding, communicating with and navigating the horrific world around me.” - Robbie Coburn
+“There was another reason [she] took her books whenever they went away. They were her home when she was somewhere strange. They were familiar voices, friends that never quarreled with her, clever, powerful friends -- daring and knowledgeable, tried and tested adventurers who had traveled far and wide. Her books cheered her up when she was sad and kept her from being bored.” - Cornelia Funke
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimagure Orange☆Road: Ano Hi ni Kaeritai
+  <strong>🥭 <u>Title:</u></strong> Ruru-chan no Jisatsu Haishin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kimagure Orange Road: I Want to Return to That Day</h4>
+<h4>🌿 <u>English Title:</u> Ruru's Suicide Show on a Livestream</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1142/106021.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1722/105731.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 1988</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: </h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimagure Orange☆Road: Ano Hi ni Kaeritai](https://myanimelist.net/anime/2454/Kimagure_Orange☆Road__Ano_Hi_ni_Kaeritai)*
+🍂 *More information: [Ruru-chan no Jisatsu Haishin](https://myanimelist.net/anime/41164/Ruru-chan_no_Jisatsu_Haishin)*
     
