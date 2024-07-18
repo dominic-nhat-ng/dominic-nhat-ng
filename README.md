@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.” - Margaret Drabble
+“A book no more contains reality than a clock contains time. A book may measure so-called reality as a clock measures so-called time; a book may create an illusion of reality as a clock creates an illusion of time; a book may be real, just as a clock is real (both more real, perhaps, than those ideas to which they allude); but let's not kid ourselves - all a clock contains is wheels and springs and all a book contains is sentences.” - Tom Robbins
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Genshiken
+  <strong>🥭 <u>Title:</u></strong> Beelzebub
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshiken</h4>
+<h4>🌿 <u>English Title:</u> Beelzebub</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1890/94707.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/28013.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 60</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Genshiken](https://myanimelist.net/anime/240/Genshiken)*
+🍂 *More information: [Beelzebub](https://myanimelist.net/anime/9513/Beelzebub)*
     
