@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There was another reason [she] took her books whenever they went away. They were her home when she was somewhere strange. They were familiar voices, friends that never quarreled with her, clever, powerful friends -- daring and knowledgeable, tried and tested adventurers who had traveled far and wide. Her books cheered her up when she was sad and kept her from being bored.” - Cornelia Funke
+“I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.” - Margaret Drabble
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ruru-chan no Jisatsu Haishin
+  <strong>🥭 <u>Title:</u></strong> Genshiken
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ruru's Suicide Show on a Livestream</h4>
+<h4>🌿 <u>English Title:</u> Genshiken</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1722/105731.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1890/94707.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ruru-chan no Jisatsu Haishin](https://myanimelist.net/anime/41164/Ruru-chan_no_Jisatsu_Haishin)*
+🍂 *More information: [Genshiken](https://myanimelist.net/anime/240/Genshiken)*
     
