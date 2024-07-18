@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book no more contains reality than a clock contains time. A book may measure so-called reality as a clock measures so-called time; a book may create an illusion of reality as a clock creates an illusion of time; a book may be real, just as a clock is real (both more real, perhaps, than those ideas to which they allude); but let's not kid ourselves - all a clock contains is wheels and springs and all a book contains is sentences.” - Tom Robbins
+“Fantasy is silver and scarlet, indigo and azure, obsidian veined with gold and lapis lazuli. Reality is plywood and plastic, done up in mud brown and olive drab. Fantasy tastes of habaneros and honey, cinnamon and cloves, rare red meat and wines as sweet as summer. Reality is beans and tofu, and ashes at the end.” - George R.R. Martin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Beelzebub
+  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Beelzebub</h4>
+<h4>🌿 <u>English Title:</u> Hell Girl</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/28013.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/86907.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 60</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Beelzebub](https://myanimelist.net/anime/9513/Beelzebub)*
+🍂 *More information: [Jigoku Shoujo](https://myanimelist.net/anime/228/Jigoku_Shoujo)*
     
