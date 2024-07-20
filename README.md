@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Dream up a book on Monday, publish it on Friday.” - Jill Novak
+“So many people enter and leave your life! Hundreds of thousands of people! You have to keep the door open so they can come in! But it also means you have to let them go!” - Jonathan Safran Foer
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Id:Invaded
+  <strong>🥭 <u>Title:</u></strong> Kidou Senkan Nadesico
 </h4>
 
-<h4>🌿 <u>English Title:</u> ID: INVADED</h4>
+<h4>🌿 <u>English Title:</u> Martian Successor Nadesico</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1889/105337.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/53955.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Mystery, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Action, Comedy, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Id:Invaded](https://myanimelist.net/anime/40046/Id_Invaded)*
+🍂 *More information: [Kidou Senkan Nadesico](https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico)*
     
