@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But you love books, then,” Aunt Queen was saying. I had to listen. - Anne Rice
+“The book is man's best invention so far.” - Carolina Maria de Jesus
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Colorful (Movie)
+  <strong>🥭 <u>Title:</u></strong> Given
 </h4>
 
-<h4>🌿 <u>English Title:</u> Colorful: The Motion Picture</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1839/103426.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1666/102238.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Supernatural</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Colorful (Movie)](https://myanimelist.net/anime/8142/Colorful_Movie)*
+🍂 *More information: [Given](https://myanimelist.net/anime/39533/Given)*
     
