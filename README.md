@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You forget everything. The hours slip by. You travel in your chair through centuries you seem seem to see before you, your thoughts are caught up in the story, dallying with the details or following the course of the plot, you enter into characters, so that it seems as if it were your own heart beating beneath their costumes.” - Gustave Flaubert
+“Ah college years, those were the days. Pure freedom ... leaving home for the first time…the parties…” - E.A. Bucchianeri
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mitsudomoe: Oppai Ippai Mama Genki
+  <strong>🥭 <u>Title:</u></strong> Sexy Commando Gaiden: Sugoi yo!! Masaru-san
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/26045.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/39595.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 48</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mitsudomoe: Oppai Ippai Mama Genki](https://myanimelist.net/anime/9396/Mitsudomoe__Oppai_Ippai_Mama_Genki)*
+🍂 *More information: [Sexy Commando Gaiden: Sugoi yo!! Masaru-san](https://myanimelist.net/anime/582/Sexy_Commando_Gaiden__Sugoi_yo_Masaru-san)*
     
