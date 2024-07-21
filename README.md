@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The book is man's best invention so far.” - Carolina Maria de Jesus
+“It wasn't that time stopped in the library. It was as if it were captured, collected here, and in all libraries -- and not only my time, my life, but all human time as well. In the library, time is dammed up--not just stopped but saved.” - Susan Orlean
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given
+  <strong>🥭 <u>Title:</u></strong> Mind Game
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1666/102238.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1861/112656.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Adventure, Avant Garde, Award Winning, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Given](https://myanimelist.net/anime/39533/Given)*
+🍂 *More information: [Mind Game](https://myanimelist.net/anime/875/Mind_Game)*
     
