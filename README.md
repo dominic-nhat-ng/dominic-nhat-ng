@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I wish we could sometimes love the characters in real life as we love the characters in romances. There are a great many human souls whom we should accept more kindly, and even appreciate more clearly, if we simply thought of them as people in a story.” - G.K. Chesterton
+“In other words, it's one of those books you thrust on your partner with an incredulous cry of "This is me!” - Nick Hornby
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kara no Kyoukai Movie 4: Garan no Dou
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Garden of Sinners Chapter 4: The Hollow Shrine</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/21736.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kara no Kyoukai Movie 4: Garan no Dou](https://myanimelist.net/anime/4280/Kara_no_Kyoukai_Movie_4__Garan_no_Dou)*
+🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
     
