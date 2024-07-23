@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The intention to act violently is accompanied by strong feelings of physical distress.” - Anthony Burgess
+“A library implies an act of faith which generations, still in darkness hid, sign in their night in witness of the dawn." - Victor Hugo
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Daa! Daa! Daa!
+  <strong>🥭 <u>Title:</u></strong> Lupin III: Part II
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/21166.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/34035.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 1977</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 78</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Daa! Daa! Daa!](https://myanimelist.net/anime/233/Daa_Daa_Daa)*
+🍂 *More information: [Lupin III: Part II](https://myanimelist.net/anime/1425/Lupin_III__Part_II)*
     
