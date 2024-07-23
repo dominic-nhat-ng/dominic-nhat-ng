@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A library implies an act of faith which generations, still in darkness hid, sign in their night in witness of the dawn." - Victor Hugo
+“I think the reason why I don't read so much, is because as I have observed, whole books all boil down to a drop of essence. You can read a book full of ten thousand words and at the end, sum it up in one sentence; I am more for the one sentence. I am more for the essence. It's like how you need a truckload of roses to extract one drop of rose oil; I don't want to bother with the truckload of roses because I would rather walk away with the drop of rose oil. So in my mind, I have written two hundred books. Why? Because I have with me two hundred vials with one drop of essence in each!” - C. JoyBell C.
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin III: Part II
+  <strong>🥭 <u>Title:</u></strong> Diamond no Ace
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Ace of Diamond</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/34035.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/54235.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.11/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1977</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 75</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Lupin III: Part II](https://myanimelist.net/anime/1425/Lupin_III__Part_II)*
+🍂 *More information: [Diamond no Ace](https://myanimelist.net/anime/18689/Diamond_no_Ace)*
     
