@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In other words, it's one of those books you thrust on your partner with an incredulous cry of "This is me!” - Nick Hornby
+“The intention to act violently is accompanied by strong feelings of physical distress.” - Anthony Burgess
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
+  <strong>🥭 <u>Title:</u></strong> Daa! Daa! Daa!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/21166.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 78</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
+🍂 *More information: [Daa! Daa! Daa!](https://myanimelist.net/anime/233/Daa_Daa_Daa)*
     
