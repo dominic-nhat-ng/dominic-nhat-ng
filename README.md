@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Inconveniently, books are all the pages in them, not just the ones you choose to read.” - Don Paterson
+“Archbishop. Why do I never read the lesson?” - Alan Bennett
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Free! Movie 5: The Final Stroke - Kouhen
+  <strong>🥭 <u>Title:</u></strong> Heppoko Jikken Animation Excel♥Saga
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Excel Saga</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1417/124151.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/11744.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Free! Movie 5: The Final Stroke - Kouhen](https://myanimelist.net/anime/48830/Free_Movie_5__The_Final_Stroke_-_Kouhen)*
+🍂 *More information: [Heppoko Jikken Animation Excel♥Saga](https://myanimelist.net/anime/379/Heppoko_Jikken_Animation_Excel♥Saga)*
     
