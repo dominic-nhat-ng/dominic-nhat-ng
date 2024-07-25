@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Archbishop. Why do I never read the lesson?” - Alan Bennett
+“Never underestimate a bookworm” - Louisa Klein
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Heppoko Jikken Animation Excel♥Saga
+  <strong>🥭 <u>Title:</u></strong> Manga de Wakaru! Fate/Grand Order
 </h4>
 
-<h4>🌿 <u>English Title:</u> Excel Saga</h4>
+<h4>🌿 <u>English Title:</u> Learning with Manga! Fate/Grand Order</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/11744.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/98102.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Heppoko Jikken Animation Excel♥Saga](https://myanimelist.net/anime/379/Heppoko_Jikken_Animation_Excel♥Saga)*
+🍂 *More information: [Manga de Wakaru! Fate/Grand Order](https://myanimelist.net/anime/38958/Manga_de_Wakaru_Fate_Grand_Order)*
     
