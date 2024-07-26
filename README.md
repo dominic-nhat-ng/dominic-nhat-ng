@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Never underestimate a bookworm” - Louisa Klein
+“Most of us who turn to any subject with love remember some morning or evening hour when we got on a high stool to reach down an untried volume, or sat with parted lips listening to a new talker, or for very lack of books began to listen to the voices within, as the first traceable beginning of our love.” - George Eliot
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Manga de Wakaru! Fate/Grand Order
+  <strong>🥭 <u>Title:</u></strong> Da Wang Rao Ming 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Learning with Manga! Fate/Grand Order</h4>
+<h4>🌿 <u>English Title:</u> Spare Me, Great Lord! 2nd Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/98102.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1749/126734.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Manga de Wakaru! Fate/Grand Order](https://myanimelist.net/anime/38958/Manga_de_Wakaru_Fate_Grand_Order)*
+🍂 *More information: [Da Wang Rao Ming 2](https://myanimelist.net/anime/51898/Da_Wang_Rao_Ming_2)*
     
