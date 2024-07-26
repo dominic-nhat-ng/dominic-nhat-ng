@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Most of us who turn to any subject with love remember some morning or evening hour when we got on a high stool to reach down an untried volume, or sat with parted lips listening to a new talker, or for very lack of books began to listen to the voices within, as the first traceable beginning of our love.” - George Eliot
+“A book is like a woman. She should leave your bed with her hair tangled and her clothes on backward. A book without creases is a book that has never known passion.” - Terri-Lynne DeFino
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Da Wang Rao Ming 2
+  <strong>🥭 <u>Title:</u></strong> Saiyuuki Reload: Burial
 </h4>
 
-<h4>🌿 <u>English Title:</u> Spare Me, Great Lord! 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1749/126734.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1890/94055.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Da Wang Rao Ming 2](https://myanimelist.net/anime/51898/Da_Wang_Rao_Ming_2)*
+🍂 *More information: [Saiyuuki Reload: Burial](https://myanimelist.net/anime/2143/Saiyuuki_Reload__Burial)*
     
