@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book is like a woman. She should leave your bed with her hair tangled and her clothes on backward. A book without creases is a book that has never known passion.” - Terri-Lynne DeFino
+“I could recognise his soul in mine as much as he could find me in his. Our sole existences seemed to have been for this very moment when nothing else mattered.” - X. Williamson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saiyuuki Reload: Burial
+  <strong>🥭 <u>Title:</u></strong> Durarara!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Durarara!!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1890/94055.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/71772.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.1/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Saiyuuki Reload: Burial](https://myanimelist.net/anime/2143/Saiyuuki_Reload__Burial)*
+🍂 *More information: [Durarara!!](https://myanimelist.net/anime/6746/Durarara)*
     
