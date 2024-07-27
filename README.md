@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die.” - Anne Lamott
+“Personally, I believe "if it ain't broke, don't fix it". I'd rather use film cameras and vinyl records and cathode ray tubes than any sort of the digital technology available. Look around! The streets are full of people who would rather have their eyes on their cell phones than on the world around them! Scientists are researching technology to erase specific memories from people! Our thrown-away digital technology is showing up overseas in huge piles of toxic heavy metals and plastic! - Rebecca McNutt
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Macross Plus
+  <strong>🥭 <u>Title:</u></strong> Fate/Grand Order: Zettai Majuu Sensen Babylonia
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Fate/Grand Order: Absolute Demonic Front - Babylonia</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/22779.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1194/103420.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1994</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 21</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Macross Plus](https://myanimelist.net/anime/474/Macross_Plus)*
+🍂 *More information: [Fate/Grand Order: Zettai Majuu Sensen Babylonia](https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia)*
     
