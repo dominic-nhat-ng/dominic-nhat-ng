@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I could recognise his soul in mine as much as he could find me in his. Our sole existences seemed to have been for this very moment when nothing else mattered.” - X. Williamson
+“I have a passion for teaching kids to become readers, to become comfortable with a book, not daunted. Books shouldn't be daunting, they should be funny, exciting and wonderful; and learning to be a reader gives a terrific advantage.” - Roald Dahl
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Durarara!!
+  <strong>🥭 <u>Title:</u></strong> Tonari no Totoro
 </h4>
 
-<h4>🌿 <u>English Title:</u> Durarara!!</h4>
+<h4>🌿 <u>English Title:</u> My Neighbor Totoro</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/71772.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/75923.jpg />
 
-<h4>🌱 Score: 8.1/10</h4>
+<h4>🌱 Score: 8.25/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1988</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Durarara!!](https://myanimelist.net/anime/6746/Durarara)*
+🍂 *More information: [Tonari no Totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)*
     
