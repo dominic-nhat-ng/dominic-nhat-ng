@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I have a passion for teaching kids to become readers, to become comfortable with a book, not daunted. Books shouldn't be daunting, they should be funny, exciting and wonderful; and learning to be a reader gives a terrific advantage.” - Roald Dahl
+“For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die.” - Anne Lamott
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonari no Totoro
+  <strong>🥭 <u>Title:</u></strong> Macross Plus
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Neighbor Totoro</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/75923.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/22779.jpg />
 
-<h4>🌱 Score: 8.25/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1988</h4>
+<h4>🌴 Aired: 1994</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tonari no Totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)*
+🍂 *More information: [Macross Plus](https://myanimelist.net/anime/474/Macross_Plus)*
     
