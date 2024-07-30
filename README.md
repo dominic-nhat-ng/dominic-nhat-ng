@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I wanted a library like this...[] A cave of words that I'd made myself.” - Maggie Stiefvater
+“If you really want to be a writer, nobody can stop you -- and if you don't, nobody can help you.” - Alma Alexander
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saraiya Goyou
+  <strong>🥭 <u>Title:</u></strong> Hybrid Child
 </h4>
 
-<h4>🌿 <u>English Title:</u> House of Five Leaves</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/75203.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/65605.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Boys Love, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 4</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saraiya Goyou](https://myanimelist.net/anime/7588/Saraiya_Goyou)*
+🍂 *More information: [Hybrid Child](https://myanimelist.net/anime/11135/Hybrid_Child)*
     
