@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you really want to be a writer, nobody can stop you -- and if you don't, nobody can help you.” - Alma Alexander
+“At one magical instant in your early childhood, the page of a book—that string of confused, alien ciphers—shivered into meaning. Words spoke to you, gave up their secrets; at that moment, whole universes opened. You became, irrevocably, a reader.” - Alberto Manguel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hybrid Child
+  <strong>🥭 <u>Title:</u></strong> Snow Halation
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/65605.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/60873.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Boys Love, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hybrid Child](https://myanimelist.net/anime/11135/Hybrid_Child)*
+🍂 *More information: [Snow Halation](https://myanimelist.net/anime/9930/Snow_Halation)*
     
