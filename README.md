@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Khalil, I'll never forget. - Angie Thomas
+“It was like walking into a treasure trove of books, hoarded by pirate librarians.” - Pseudonymous Bosch
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka?
+  <strong>🥭 <u>Title:</u></strong> Zhen Hun Jie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Is the Order a Rabbit?</h4>
+<h4>🌿 <u>English Title:</u> Rakshasa Street</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/79600.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/81969.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gochuumon wa Usagi desu ka?](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka)*
+🍂 *More information: [Zhen Hun Jie](https://myanimelist.net/anime/33350/Zhen_Hun_Jie)*
     
