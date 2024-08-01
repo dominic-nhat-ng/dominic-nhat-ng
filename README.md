@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Many books can inform you, but my book will transform you...” - Ved Nishad
+“Aryami Bose's home had been closed up for years, inhabited only by books and paintings, but the spectre of thousands of memories imprisoned between its walls still permeated the house.” - Carlos Ruiz Zafón
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 14: Tenkuu no Lost Ship
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam SEED Freedom
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 14: The Lost Ship in the Sky</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam SEED Freedom</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/22312.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1999/139748.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Mystery</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 14: Tenkuu no Lost Ship](https://myanimelist.net/anime/6467/Meitantei_Conan_Movie_14__Tenkuu_no_Lost_Ship)*
+🍂 *More information: [Kidou Senshi Gundam SEED Freedom](https://myanimelist.net/anime/49073/Kidou_Senshi_Gundam_SEED_Freedom)*
     
