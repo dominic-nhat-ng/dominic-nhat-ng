@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Aryami Bose's home had been closed up for years, inhabited only by books and paintings, but the spectre of thousands of memories imprisoned between its walls still permeated the house.” - Carlos Ruiz Zafón
+“Khalil, I'll never forget. - Angie Thomas
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam SEED Freedom
+  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka?
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam SEED Freedom</h4>
+<h4>🌿 <u>English Title:</u> Is the Order a Rabbit?</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1999/139748.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/79600.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam SEED Freedom](https://myanimelist.net/anime/49073/Kidou_Senshi_Gundam_SEED_Freedom)*
+🍂 *More information: [Gochuumon wa Usagi desu ka?](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka)*
     
