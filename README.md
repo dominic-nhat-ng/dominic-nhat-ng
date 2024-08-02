@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I am a machine condemned to devour books.” - Karl Marx
+“No man and woman know what will be born in the darkness of their intermingling; so much besides children, so many invisible births, exchanges of soul and character, blossoming of unknown selves, liberation of hidden treasures, buried fantasies...” - Anaïs Nin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 3: Sainou to Sense
+  <strong>🥭 <u>Title:</u></strong> Major S1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!! The Movie: Talent and Sense</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/86069.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/73973.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2004</h4>
 
 <h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!! Movie 3: Sainou to Sense](https://myanimelist.net/anime/35110/Haikyuu_Movie_3__Sainou_to_Sense)*
+🍂 *More information: [Major S1](https://myanimelist.net/anime/627/Major_S1)*
     
