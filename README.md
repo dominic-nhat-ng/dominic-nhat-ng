@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“No man and woman know what will be born in the darkness of their intermingling; so much besides children, so many invisible births, exchanges of soul and character, blossoming of unknown selves, liberation of hidden treasures, buried fantasies...” - Anaïs Nin
+“Only if the third necessary thing could be given us. Number one, as I said: quality of information. Number two: leisure to digest it. And number three: the right to carry out actions based on what we learn from the interaction of the first two.” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Major S1
+  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/73973.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/83188.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 8.25/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Major S1](https://myanimelist.net/anime/627/Major_S1)*
+🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! 2](https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2)*
     
