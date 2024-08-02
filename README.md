@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It was like walking into a treasure trove of books, hoarded by pirate librarians.” - Pseudonymous Bosch
+“I am a machine condemned to devour books.” - Karl Marx
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhen Hun Jie
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 3: Sainou to Sense
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rakshasa Street</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!! The Movie: Talent and Sense</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/81969.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/86069.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zhen Hun Jie](https://myanimelist.net/anime/33350/Zhen_Hun_Jie)*
+🍂 *More information: [Haikyuu!! Movie 3: Sainou to Sense](https://myanimelist.net/anime/35110/Haikyuu_Movie_3__Sainou_to_Sense)*
     
