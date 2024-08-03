@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Give me books, French wine, fruit, fine weather and a little music played out of doors by somebody I do not know.” - John Keats
+“Book lust forever!” - Nancy Pearl
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan
+  <strong>🥭 <u>Title:</u></strong> Cike Wu Liuqi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed</h4>
+<h4>🌿 <u>English Title:</u> Scissor Seven</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/75199.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1620/94968.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Comedy, Drama, Mystery, Romance</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan](https://myanimelist.net/anime/235/Meitantei_Conan)*
+🍂 *More information: [Cike Wu Liuqi](https://myanimelist.net/anime/38409/Cike_Wu_Liuqi)*
     
