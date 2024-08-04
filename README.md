@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I’ll read my books and I’ll drink coffee and I’ll listen to music, and I’ll bolt the door." - J.D. Salinger
+“Tell me I didn't imagine it, Leo. Tell me that even though our bodies were in seperate states, our star selves shared an enchanted place. Tell me that right around noon today (eastern time) you had the strangest sensation: a tiny chill on your shoulder...a flutter in the heart...a shadow of strawberry-banana crossing your tongue...tell me you whispered my name.” - Jerry Spinelli
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mitsudomoe: Oppai Ippai Mama Genki
+  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Cardcaptor Sakura The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/26045.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1733/90336.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Mitsudomoe: Oppai Ippai Mama Genki](https://myanimelist.net/anime/9396/Mitsudomoe__Oppai_Ippai_Mama_Genki)*
+🍂 *More information: [Cardcaptor Sakura Movie 1](https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1)*
     
