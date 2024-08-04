@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[Kieran]his head propped on a stack of poetry books he’d brought from the library. Almost all of them had been inscribed on the inside cover by a James Herondale, who had neatly written out his favorite lines.” - Cassandra Clare
+“What is more natural than that a solidity, a complicity, a bond should be established between Reader and Reader, thanks to the book? - Italo Calvino
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Make Heroine ga Oosugiru!
+  <strong>🥭 <u>Title:</u></strong> Kekkai Sensen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Makeine: Too Many Losing Heroines!</h4>
+<h4>🌿 <u>English Title:</u> Blood Blockade Battlefront</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1332/143513.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1449/142053.jpg />
 
-<h4>🌱 Score: 8.19/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru)*
+🍂 *More information: [Kekkai Sensen](https://myanimelist.net/anime/24439/Kekkai_Sensen)*
     
