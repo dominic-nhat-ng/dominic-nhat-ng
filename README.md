@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What is more natural than that a solidity, a complicity, a bond should be established between Reader and Reader, thanks to the book? - Italo Calvino
+“I’ll read my books and I’ll drink coffee and I’ll listen to music, and I’ll bolt the door." - J.D. Salinger
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kekkai Sensen
+  <strong>🥭 <u>Title:</u></strong> Mitsudomoe: Oppai Ippai Mama Genki
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blood Blockade Battlefront</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1449/142053.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/26045.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kekkai Sensen](https://myanimelist.net/anime/24439/Kekkai_Sensen)*
+🍂 *More information: [Mitsudomoe: Oppai Ippai Mama Genki](https://myanimelist.net/anime/9396/Mitsudomoe__Oppai_Ippai_Mama_Genki)*
     
