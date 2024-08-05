@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“My behavior is nonetheless, deplorable. Unfortunately, I'm quite prone to such bouts of deplorability--take for instance, my fondness for reading books at the dinner table.” - Brandon Sanderson
+“But I can now understand why people read, why they like to get lost in somebody else's life. Sometimes I'll read a sentence and it will make me sit up, jolt me, because it is something that I have recently felt but never said out loud. I want to reach into the page and tell the characters that I understand them, that they're not alone, that I'm not alone, that it's ok to feel like this. And then the lunch bell rings, the book closes, and I'm plunged back into reality.” - Cecelia Ahern
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Death Parade
+  <strong>🥭 <u>Title:</u></strong> Hollowness
 </h4>
 
-<h4>🌿 <u>English Title:</u> Death Parade</h4>
+<h4>🌿 <u>English Title:</u> Hollowness</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71553.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1656/98599.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Drama, Supernatural, Suspense</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Death Parade](https://myanimelist.net/anime/28223/Death_Parade)*
+🍂 *More information: [Hollowness](https://myanimelist.net/anime/39114/Hollowness)*
     
