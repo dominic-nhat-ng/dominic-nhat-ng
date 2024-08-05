@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I don't understand your book. Isn't every book a book of words?” - Kristin Cashore
+“My behavior is nonetheless, deplorable. Unfortunately, I'm quite prone to such bouts of deplorability--take for instance, my fondness for reading books at the dinner table.” - Brandon Sanderson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin: Meiji Kenkaku Romantan
+  <strong>🥭 <u>Title:</u></strong> Death Parade
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rurouni Kenshin</h4>
+<h4>🌿 <u>English Title:</u> Death Parade</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1346/119505.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71553.jpg />
 
-<h4>🌱 Score: 8.28/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Comedy, Romance</h4>
+<h4>🌵 Genres: Drama, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 94</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Rurouni Kenshin: Meiji Kenkaku Romantan](https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan)*
+🍂 *More information: [Death Parade](https://myanimelist.net/anime/28223/Death_Parade)*
     
