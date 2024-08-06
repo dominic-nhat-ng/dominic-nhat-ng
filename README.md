@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Perhaps they were looking for passion; perhaps they delved into this book as into a mysterious parcel - a gift box at the bottom of which, hidden in layers of rustling tissue paper, lay something they'd always longed for but couldn't ever grasp.” - Margaret Atwood
+“That's the whole point of good propaganda. You want to create a slogan that nobody's going to be against, and everybody's going to be for. Nobody knows what it means, because it doesn't mean anything.” - Noam Chomsky
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bokura no
+  <strong>🥭 <u>Title:</u></strong> Trigun: Badlands Rumble
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bokurano</h4>
+<h4>🌿 <u>English Title:</u> Trigun: Badlands Rumble</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1690/97048.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1930/116400.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bokura no](https://myanimelist.net/anime/1690/Bokura_no)*
+🍂 *More information: [Trigun: Badlands Rumble](https://myanimelist.net/anime/4106/Trigun__Badlands_Rumble)*
     
