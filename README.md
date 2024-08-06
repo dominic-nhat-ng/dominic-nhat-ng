@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But I can now understand why people read, why they like to get lost in somebody else's life. Sometimes I'll read a sentence and it will make me sit up, jolt me, because it is something that I have recently felt but never said out loud. I want to reach into the page and tell the characters that I understand them, that they're not alone, that I'm not alone, that it's ok to feel like this. And then the lunch bell rings, the book closes, and I'm plunged back into reality.” - Cecelia Ahern
+“فإني قرأت كتاباً في تعريف الجمال كثيرة، فلم اجد احد من تعريف طاغور: "إن الجمال هو الاخلاص” - علي الطنطاوي
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hollowness
+  <strong>🥭 <u>Title:</u></strong> Tunshi Xingkong 4th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hollowness</h4>
+<h4>🌿 <u>English Title:</u> Swallowed Star 4th Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1656/98599.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1212/138218.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 52</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hollowness](https://myanimelist.net/anime/39114/Hollowness)*
+🍂 *More information: [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season)*
     
