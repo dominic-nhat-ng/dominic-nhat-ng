@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You could write a book about things that you can't find on-line.” - Maggie Stiefvater
+“I believe that today more than ever a book should be sought after even if it has only one great page in it. We must search for fragments, splinters, toenails, anything that has ore in it, anything that is capable of resuscitating the body and the soul.” - Henry Miller
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season
+  <strong>🥭 <u>Title:</u></strong> Aa! Megami-sama! Sorezore no Tsubasa
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Final Season</h4>
+<h4>🌿 <u>English Title:</u> Ah! My Goddess: Flights of Fancy</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1000/110531.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/78931.jpg />
 
-<h4>🌱 Score: 8.78/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 22</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season)*
+🍂 *More information: [Aa! Megami-sama! Sorezore no Tsubasa](https://myanimelist.net/anime/880/Aa_Megami-sama_Sorezore_no_Tsubasa)*
     
