@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He had appointed her not only guardian angel, but a member of his ideals.” - Anaïs Nin
+“You could write a book about things that you can't find on-line.” - Maggie Stiefvater
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 7th Season
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia Season 7</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: Final Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1529/140306.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1000/110531.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 8.78/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 16</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Boku no Hero Academia 7th Season](https://myanimelist.net/anime/54789/Boku_no_Hero_Academia_7th_Season)*
+🍂 *More information: [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season)*
     
