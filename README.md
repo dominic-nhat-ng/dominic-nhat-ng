@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The first time I read an excellent book, it is to me just as if I had gained a new friend. When I read a book over I have perused before, it resembles the meeting with an old one.” - Oliver Goldsmith
+“What proof have we that inorganic objects can feel no pain? Who knows if a book may not yearn for other books, its companions of many years, in some way strange to us and therefore never yet perceived?” - Elias Canetti
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan: Episode One - Chiisaku Natta Meitantei
+  <strong>🥭 <u>Title:</u></strong> ReLIFE: Kanketsu-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan: Episode One - The Great Detective Turned Small</h4>
+<h4>🌿 <u>English Title:</u> ReLIFE: Final Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/81968.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1566/91061.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan: Episode One - Chiisaku Natta Meitantei](https://myanimelist.net/anime/34036/Meitantei_Conan__Episode_One_-_Chiisaku_Natta_Meitantei)*
+🍂 *More information: [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466/ReLIFE__Kanketsu-hen)*
     
