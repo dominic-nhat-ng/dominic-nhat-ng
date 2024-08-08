@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books should go where they will be most appreciated, and not sit unread, gathering dust on a forgotten shelf, don't you agree?” - Christopher Paolini
+“The first time I read an excellent book, it is to me just as if I had gained a new friend. When I read a book over I have perused before, it resembles the meeting with an old one.” - Oliver Goldsmith
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Vanitas no Karte Part 2
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan: Episode One - Chiisaku Natta Meitantei
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Case Study of Vanitas Part 2</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan: Episode One - The Great Detective Turned Small</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1247/120579.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/81968.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Vanitas no Karte Part 2](https://myanimelist.net/anime/49114/Vanitas_no_Karte_Part_2)*
+🍂 *More information: [Meitantei Conan: Episode One - Chiisaku Natta Meitantei](https://myanimelist.net/anime/34036/Meitantei_Conan__Episode_One_-_Chiisaku_Natta_Meitantei)*
     
