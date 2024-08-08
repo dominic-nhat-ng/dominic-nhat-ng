@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I believe that today more than ever a book should be sought after even if it has only one great page in it. We must search for fragments, splinters, toenails, anything that has ore in it, anything that is capable of resuscitating the body and the soul.” - Henry Miller
+“Books should go where they will be most appreciated, and not sit unread, gathering dust on a forgotten shelf, don't you agree?” - Christopher Paolini
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aa! Megami-sama! Sorezore no Tsubasa
+  <strong>🥭 <u>Title:</u></strong> Vanitas no Karte Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ah! My Goddess: Flights of Fancy</h4>
+<h4>🌿 <u>English Title:</u> The Case Study of Vanitas Part 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/78931.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1247/120579.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 22</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Aa! Megami-sama! Sorezore no Tsubasa](https://myanimelist.net/anime/880/Aa_Megami-sama_Sorezore_no_Tsubasa)*
+🍂 *More information: [Vanitas no Karte Part 2](https://myanimelist.net/anime/49114/Vanitas_no_Karte_Part_2)*
     
