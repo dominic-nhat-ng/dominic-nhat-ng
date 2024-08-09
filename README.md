@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Old books that we have known but not possessed cross our path and invite themselves over. New books try to seduce us daily with tempting titles and tantalizing covers. ” - Alberto Manguel
+“Historical novels are, without question, the best way of teaching history, for they offer the human stories behind the events and leave the reader with a desire to know more.” - Louis L'Amour
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shiki Specials
+  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2199
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shiki Specials</h4>
+<h4>🌿 <u>English Title:</u> Star Blazers: Space Battleship Yamato 2199</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1041/133313.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/36607.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.32/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shiki Specials](https://myanimelist.net/anime/10083/Shiki_Specials)*
+🍂 *More information: [Uchuu Senkan Yamato 2199](https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199)*
     
