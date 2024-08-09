@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What proof have we that inorganic objects can feel no pain? Who knows if a book may not yearn for other books, its companions of many years, in some way strange to us and therefore never yet perceived?” - Elias Canetti
+“Old books that we have known but not possessed cross our path and invite themselves over. New books try to seduce us daily with tempting titles and tantalizing covers. ” - Alberto Manguel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> ReLIFE: Kanketsu-hen
+  <strong>🥭 <u>Title:</u></strong> Shiki Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> ReLIFE: Final Arc</h4>
+<h4>🌿 <u>English Title:</u> Shiki Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1566/91061.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1041/133313.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Horror, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466/ReLIFE__Kanketsu-hen)*
+🍂 *More information: [Shiki Specials](https://myanimelist.net/anime/10083/Shiki_Specials)*
     
