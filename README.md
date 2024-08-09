@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Historical novels are, without question, the best way of teaching history, for they offer the human stories behind the events and leave the reader with a desire to know more.” - Louis L'Amour
+“A literary academic can no more pass a bookstore than an alcoholic can pass a bar.” - Amanda Cross
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2199
+  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
 </h4>
 
-<h4>🌿 <u>English Title:</u> Star Blazers: Space Battleship Yamato 2199</h4>
+<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/36607.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 8.36/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Uchuu Senkan Yamato 2199](https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199)*
+🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
     
