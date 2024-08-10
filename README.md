@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Some books are to be tasted, others are to be swallowed, and some few to be chewed and digested.” - Francis Bacon
+“[…] marginile unei cărţi nu sunt niciodată clar şi riguros trasate: dincolo de titlu, de primele rânduri şi de punctul final, mai presus de configuraţia sa internă şi de forma care îi conferă autonomie, ea se află prinsă într-un sistem de trimiteri la alte cărţi, la alte texte, la alte fraze: este un nod într-o reţea.” - Michel Foucault
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
+  <strong>🥭 <u>Title:</u></strong> Muumindani no Suisei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3984.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
+🍂 *More information: [Muumindani no Suisei](https://myanimelist.net/anime/2313/Muumindani_no_Suisei)*
     
