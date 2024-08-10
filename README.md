@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Read not to contradict and confute, nor to believe and take for granted ...but to weigh and consider.” - Francis Bacon
+“Some books are to be tasted, others are to be swallowed, and some few to be chewed and digested.” - Francis Bacon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100 III
+  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mob Psycho 100 III</h4>
+<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1228/125011.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
 
-<h4>🌱 Score: 8.71/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mob Psycho 100 III](https://myanimelist.net/anime/50172/Mob_Psycho_100_III)*
+🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
     
