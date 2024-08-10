@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A literary academic can no more pass a bookstore than an alcoholic can pass a bar.” - Amanda Cross
+“Read not to contradict and confute, nor to believe and take for granted ...but to weigh and consider.” - Francis Bacon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
+  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100 III
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
+<h4>🌿 <u>English Title:</u> Mob Psycho 100 III</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1228/125011.jpg />
 
-<h4>🌱 Score: 8.36/10</h4>
+<h4>🌱 Score: 8.71/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
+🍂 *More information: [Mob Psycho 100 III](https://myanimelist.net/anime/50172/Mob_Psycho_100_III)*
     
