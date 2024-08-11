@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“My books are water; those of the great geniuses is wine. Everybody drinks water.” - Mark Twain
+“Reading's not a luxury, art's not a luxury. It's about your soul, and it's about yourself. And if reading is a luxury, being human is a luxury” - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Colorful (Movie)
+  <strong>🥭 <u>Title:</u></strong> Somali to Mori no Kamisama
 </h4>
 
-<h4>🌿 <u>English Title:</u> Colorful: The Motion Picture</h4>
+<h4>🌿 <u>English Title:</u> Somali and the Forest Spirit</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1839/103426.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1938/102796.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Colorful (Movie)](https://myanimelist.net/anime/8142/Colorful_Movie)*
+🍂 *More information: [Somali to Mori no Kamisama](https://myanimelist.net/anime/39575/Somali_to_Mori_no_Kamisama)*
     
