@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[…] marginile unei cărţi nu sunt niciodată clar şi riguros trasate: dincolo de titlu, de primele rânduri şi de punctul final, mai presus de configuraţia sa internă şi de forma care îi conferă autonomie, ea se află prinsă într-un sistem de trimiteri la alte cărţi, la alte texte, la alte fraze: este un nod într-o reţea.” - Michel Foucault
+“You don't learn what life is from movies or books, you learn what life is from living it.” - Marty Rubin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Muumindani no Suisei
+  <strong>🥭 <u>Title:</u></strong> Yowamushi Pedal Movie
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3984.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/74402.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Slice of Life</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Muumindani no Suisei](https://myanimelist.net/anime/2313/Muumindani_no_Suisei)*
+🍂 *More information: [Yowamushi Pedal Movie](https://myanimelist.net/anime/30413/Yowamushi_Pedal_Movie)*
     
