@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You don't learn what life is from movies or books, you learn what life is from living it.” - Marty Rubin
+“My books are water; those of the great geniuses is wine. Everybody drinks water.” - Mark Twain
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yowamushi Pedal Movie
+  <strong>🥭 <u>Title:</u></strong> Colorful (Movie)
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Colorful: The Motion Picture</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/74402.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1839/103426.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Award Winning, Drama, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Yowamushi Pedal Movie](https://myanimelist.net/anime/30413/Yowamushi_Pedal_Movie)*
+🍂 *More information: [Colorful (Movie)](https://myanimelist.net/anime/8142/Colorful_Movie)*
     
