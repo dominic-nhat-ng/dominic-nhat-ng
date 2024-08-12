@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading's not a luxury, art's not a luxury. It's about your soul, and it's about yourself. And if reading is a luxury, being human is a luxury” - Jeanette Winterson
+“Vanity's contribution to Fiction in general was an abundance of cheap labour and the occasional blockbuster, which was accepted into Fiction with an apologetic 'gosh, don't know how that happened'.” - Jasper Fforde
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Somali to Mori no Kamisama
+  <strong>🥭 <u>Title:</u></strong> Machikado Mazoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Somali and the Forest Spirit</h4>
+<h4>🌿 <u>English Title:</u> The Demon Girl Next Door</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1938/102796.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1633/111518.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Somali to Mori no Kamisama](https://myanimelist.net/anime/39575/Somali_to_Mori_no_Kamisama)*
+🍂 *More information: [Machikado Mazoku](https://myanimelist.net/anime/39071/Machikado_Mazoku)*
     
