@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“From fire, water, the passage of time, neglectful readers, and the hand of the censor, each of my books has escaped to tell me its story.” - Alberto Manguel
+“It is only a novel... or, in short, only some work in which the greatest powers of the mind are displayed, in which the most thorough knowledge of human nature, the happiest delineation of its varieties, the liveliest effusions of wit and humour, are conveyed to the world in the best-chosen language” - Jane Austen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Heroic Age
+  <strong>🥭 <u>Title:</u></strong> Bobobo-bo Bo-bobo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Heroic Age</h4>
+<h4>🌿 <u>English Title:</u> Bobobo-bo Bo-bobo</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/50435.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1293/136965.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 76</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Heroic Age](https://myanimelist.net/anime/2002/Heroic_Age)*
+🍂 *More information: [Bobobo-bo Bo-bobo](https://myanimelist.net/anime/1050/Bobobo-bo_Bo-bobo)*
     
