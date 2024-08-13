@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It is only a novel... or, in short, only some work in which the greatest powers of the mind are displayed, in which the most thorough knowledge of human nature, the happiest delineation of its varieties, the liveliest effusions of wit and humour, are conveyed to the world in the best-chosen language” - Jane Austen
+“I think of my pile of old paperbacks, their pages gone wobbly, like they'd once belonged to the sea.” - Kazuo Ishiguro
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bobobo-bo Bo-bobo
+  <strong>🥭 <u>Title:</u></strong> Gankutsuou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bobobo-bo Bo-bobo</h4>
+<h4>🌿 <u>English Title:</u> Gankutsuou: The Count of Monte Cristo</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1293/136965.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1910/138560.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Drama, Mystery, Sci-Fi, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 76</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Bobobo-bo Bo-bobo](https://myanimelist.net/anime/1050/Bobobo-bo_Bo-bobo)*
+🍂 *More information: [Gankutsuou](https://myanimelist.net/anime/239/Gankutsuou)*
     
