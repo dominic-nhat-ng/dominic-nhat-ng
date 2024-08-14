@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The gods weave misfortunes for men, so that the generations to come will have something to sing about.” Mallarmé repeats, less beautifully, what Homer said; “tout aboutit en un livre,” everything ends up in a book. The Greeks speak of generations that will sing; Mallarmé speaks of an object, of a thing among things, a book. But the idea is the same; the idea that we are made for art, we are made for memory, we are made for poetry, or perhaps we are made for oblivion. But something remains, and that something is history or poetry, which are not essentially different.” - Jorge Luis Borges
+“...that once were urgent and necessary for an orderly world and now were buried away, gathering dust and of no use to anyone.” - Patricia A. McKillip
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tianbao Fuyao Lu
+  <strong>🥭 <u>Title:</u></strong> Shelter (Music)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of Exorcism</h4>
+<h4>🌿 <u>English Title:</u> Shelter</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1432/105225.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/82388.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Tianbao Fuyao Lu](https://myanimelist.net/anime/40735/Tianbao_Fuyao_Lu)*
+🍂 *More information: [Shelter (Music)](https://myanimelist.net/anime/34240/Shelter_Music)*
     
