@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Though my appetite for food grew frail, my hunger for books was constant.” - Diane Setterfield
+“It would be curious to discover who it is to whom one writes in a diary. Possibly to some mysterious personification of one's own identity.” - Beatrice Webb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin III: Episode 0 "First Contact"
+  <strong>🥭 <u>Title:</u></strong> Yojouhan Shinwa Taikei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin III Episode 0: The First Contact</h4>
+<h4>🌿 <u>English Title:</u> The Tatami Galaxy</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/27778.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1633/123689.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Mystery, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Lupin III: Episode 0 "First Contact"](https://myanimelist.net/anime/1418/Lupin_III__Episode_0_First_Contact)*
+🍂 *More information: [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)*
     
