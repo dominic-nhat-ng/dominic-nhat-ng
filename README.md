@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It would be curious to discover who it is to whom one writes in a diary. Possibly to some mysterious personification of one's own identity.” - Beatrice Webb
+“I read the fuck out of every book I can get my hands on.” - Nick Hornby
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yojouhan Shinwa Taikei
+  <strong>🥭 <u>Title:</u></strong> Shoujo☆Kageki Revue Starlight
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tatami Galaxy</h4>
+<h4>🌿 <u>English Title:</u> Revue Starlight</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1633/123689.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1165/93552.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Mystery, Romance, Suspense</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)*
+🍂 *More information: [Shoujo☆Kageki Revue Starlight](https://myanimelist.net/anime/35503/Shoujo☆Kageki_Revue_Starlight)*
     
