@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“...that once were urgent and necessary for an orderly world and now were buried away, gathering dust and of no use to anyone.” - Patricia A. McKillip
+“Though my appetite for food grew frail, my hunger for books was constant.” - Diane Setterfield
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shelter (Music)
+  <strong>🥭 <u>Title:</u></strong> Lupin III: Episode 0 "First Contact"
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shelter</h4>
+<h4>🌿 <u>English Title:</u> Lupin III Episode 0: The First Contact</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/82388.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/27778.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shelter (Music)](https://myanimelist.net/anime/34240/Shelter_Music)*
+🍂 *More information: [Lupin III: Episode 0 "First Contact"](https://myanimelist.net/anime/1418/Lupin_III__Episode_0_First_Contact)*
     
