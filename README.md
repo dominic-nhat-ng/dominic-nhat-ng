@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She reads a lot of books. Good things, books.” - Thorne Smith
+“I believe in the magic of books. I believe that during certain periods in our lives we are drawn to particular books--whether it's strolling down the aisles of a bookshop with no idea whatsoever of what it is that we want to read and suddenly finding the most perfect, most wonderfully suitable book staring us right in the face. Unblinking. Or a chance meeting with a stranger or friend who recommends a book we would never ordinarily reach for. Books have the ability to find their own way into our lives.” - Cecelia Ahern
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-hime no Monogatari
+  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou San
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tale of the Princess Kaguya</h4>
+<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Season 3</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1935/93606.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/82394.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 8.57/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-hime no Monogatari](https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari)*
+🍂 *More information: [Natsume Yuujinchou San](https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San)*
     
