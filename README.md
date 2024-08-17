@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are not about passing the time. They're about other lives. Other worlds.” - Alan Bennett
+“A book is like a woman. She should leave your bed with her hair tangled and her clothes on backward. A book without creases is a book that has never known passion.” - Terri-Lynne DeFino
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Sono Shitsuji, Kougyou
+  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: New OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler Special</h4>
+<h4>🌿 <u>English Title:</u> Mobile Police Patlabor: The New Files</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/21336.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1602/134832.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 16</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji: Sono Shitsuji, Kougyou](https://myanimelist.net/anime/6793/Kuroshitsuji__Sono_Shitsuji_Kougyou)*
+🍂 *More information: [Kidou Keisatsu Patlabor: New OVA](https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA)*
     
