@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book is like a woman. She should leave your bed with her hair tangled and her clothes on backward. A book without creases is a book that has never known passion.” - Terri-Lynne DeFino
+“I don't know why anyone has a living room when they could have a library instead.” - Megan Lindholm
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: New OVA
+  <strong>🥭 <u>Title:</u></strong> Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Police Patlabor: The New Files</h4>
+<h4>🌿 <u>English Title:</u> Steins;Gate: Open the Missing Link - Divide By Zero</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1602/134832.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/77324.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1990</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Keisatsu Patlabor: New OVA](https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA)*
+🍂 *More information: [Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero](https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero)*
     
