@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Kiss me hot,heavy,wet & angry with that attitude like you do when your mouth yells it hates me but your tongue screams it can’t wait for me. Hug me, touch me, submit to me with that insatiable passion like you do when you thought you could leave but the sight of my throbbing rock hard love muscle made you too weak in the knees. Your mind is melting fast, your soul is whispering trust, your eyes are begging please and your anger has turned to lust. Let me undress your body, caress your skin and wetly massage your mind back into making love to me again. I’d rather say I’m sorry and keep my best friend than have this come to an end. Be encouraged but more importantly…be lethal with your make up love.” - Kerry E. Wagner
+“I always thought the joy of reading a book is not knowing what happens next. (Leonard Shelby, Memento)” - Christopher  Nolan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile
+  <strong>🥭 <u>Title:</u></strong> Yondemasu yo, Azazel-san. Z
 </h4>
 
-<h4>🌿 <u>English Title:</u> Nodame Cantabile</h4>
+<h4>🌿 <u>English Title:</u> You're Being Summoned, Azazel Z</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/11986.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/48957.jpg />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile](https://myanimelist.net/anime/1698/Nodame_Cantabile)*
+🍂 *More information: [Yondemasu yo, Azazel-san. Z](https://myanimelist.net/anime/16241/Yondemasu_yo_Azazel-san_Z)*
     
