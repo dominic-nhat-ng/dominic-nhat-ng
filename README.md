@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It is uphill work writing books” - Charles Darwin
+“Bill Gates (and his successor at Microsoft, Ray Ozzie) are famous for taking annual reading vacations. During the year they deliberately cultivate a stack of reading material—much of it unrelated to their day-to-day focus at Microsoft—and then they take off for a week or two and do a deep dive into the words they’ve stockpiled. By compressing their intake into a matter of days, they give new ideas additional opportunities to network among themselves, for the simple reason that it’s easier to remember something that you read yesterday than it is to remember something you read six months ago.” - Steven Johnson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Black Lagoon: The Second Barrage
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 23: Konjou no Fist
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Lagoon: The Second Barrage</h4>
+<h4>🌿 <u>English Title:</u> Case Closed Movie 23: The Fist of Blue Sapphire</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/83748.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1010/98309.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Comedy, Drama, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Black Lagoon: The Second Barrage](https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage)*
+🍂 *More information: [Meitantei Conan Movie 23: Konjou no Fist](https://myanimelist.net/anime/38770/Meitantei_Conan_Movie_23__Konjou_no_Fist)*
     
