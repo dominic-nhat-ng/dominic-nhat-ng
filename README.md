@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A quiet secluded life in the country, with the possibility of being useful to people to whom it is easy to do good, and who are not accustomed to have it done to them; then work which one hopes may be of some use; then rest, nature, books, music, love for one's neighbor — such is my idea of happiness.” - Leo Tolstoy
+“... And the only way to find that honesty is to not overthink it. - Elizabeth Sims
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhu Xian
+  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
+<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1630/103417.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
+🍂 *More information: [Sword Art Online: Alicization - War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)*
     
