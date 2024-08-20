@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I may not find the meaning of life in books, art and movies but I do find the meaning of my life in them.” - Carl R White
+“A children's story that can only be enjoyed by children is not a good children's story in the slightest.” - C.S. Lewis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist Movie
+  <strong>🥭 <u>Title:</u></strong> Flying Witch
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Exorcist: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Flying Witch</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/42005.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/80039.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ao no Exorcist Movie](https://myanimelist.net/anime/11737/Ao_no_Exorcist_Movie)*
+🍂 *More information: [Flying Witch](https://myanimelist.net/anime/31376/Flying_Witch)*
     
