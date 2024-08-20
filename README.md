@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A children's story that can only be enjoyed by children is not a good children's story in the slightest.” - C.S. Lewis
+“A quiet secluded life in the country, with the possibility of being useful to people to whom it is easy to do good, and who are not accustomed to have it done to them; then work which one hopes may be of some use; then rest, nature, books, music, love for one's neighbor — such is my idea of happiness.” - Leo Tolstoy
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Flying Witch
+  <strong>🥭 <u>Title:</u></strong> Zhu Xian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Flying Witch</h4>
+<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/80039.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Flying Witch](https://myanimelist.net/anime/31376/Flying_Witch)*
+🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
     
