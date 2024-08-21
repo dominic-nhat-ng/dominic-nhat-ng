@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“... And the only way to find that honesty is to not overthink it. - Elizabeth Sims
+“The book smelled dusty and old but also carried a sweet tang, a hint of something inviting. She opened to the first page and started to read, pronouncing the words in a reverent whisper.” - Shannon Hale
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld
+  <strong>🥭 <u>Title:</u></strong> Initial D Third Stage
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1630/103417.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/40397.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sword Art Online: Alicization - War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)*
+🍂 *More information: [Initial D Third Stage](https://myanimelist.net/anime/187/Initial_D_Third_Stage)*
     
