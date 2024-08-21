@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It may be whispered to those uninitiated people who are anxious to know the habits and make the acquaintance of men of letters, that there are no race of people who talk about books, or, perhaps, who read books, so little as literary men.” - William Makepeace Thackeray
+“Its appearance was greeted with cries of rapture, and following a brief struggle over possesion of the volume, William rescued it before it should be torn to pieces, but allowed himself to be induced to read some of the passages aloud, his dramatic rendering being greeted by wolflike howls of enthusiasim and hails of live pits.” - Diana Gabaldon
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Love Live! Nijigasaki Gakuen School Idol Doukoukai
+  <strong>🥭 <u>Title:</u></strong> City Hunter 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Love Live! Nijigasaki High School Idol Club</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1393/109203.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1147/94393.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 1989</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Comedy, Mystery</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Love Live! Nijigasaki Gakuen School Idol Doukoukai](https://myanimelist.net/anime/40879/Love_Live_Nijigasaki_Gakuen_School_Idol_Doukoukai)*
+🍂 *More information: [City Hunter 3](https://myanimelist.net/anime/1472/City_Hunter_3)*
     
