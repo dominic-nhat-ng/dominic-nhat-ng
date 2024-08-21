@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The book smelled dusty and old but also carried a sweet tang, a hint of something inviting. She opened to the first page and started to read, pronouncing the words in a reverent whisper.” - Shannon Hale
+“It may be whispered to those uninitiated people who are anxious to know the habits and make the acquaintance of men of letters, that there are no race of people who talk about books, or, perhaps, who read books, so little as literary men.” - William Makepeace Thackeray
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Third Stage
+  <strong>🥭 <u>Title:</u></strong> Love Live! Nijigasaki Gakuen School Idol Doukoukai
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Love Live! Nijigasaki High School Idol Club</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/40397.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1393/109203.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Drama, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Initial D Third Stage](https://myanimelist.net/anime/187/Initial_D_Third_Stage)*
+🍂 *More information: [Love Live! Nijigasaki Gakuen School Idol Doukoukai](https://myanimelist.net/anime/40879/Love_Live_Nijigasaki_Gakuen_School_Idol_Doukoukai)*
     
