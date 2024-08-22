@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[I]f a book is well written, I always find it too short.” - Jane Austen
+“When you handle books all day long, every new one is a friend and a temptation.” - Elizabeth Kostovia
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken
+  <strong>🥭 <u>Title:</u></strong> Bakemonogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure</h4>
+<h4>🌿 <u>English Title:</u> Bakemonogatari</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1171/106036.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/75274.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.32/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Supernatural</h4>
+<h4>🌵 Genres: Mystery, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 15</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [JoJo no Kimyou na Bouken](https://myanimelist.net/anime/666/JoJo_no_Kimyou_na_Bouken)*
+🍂 *More information: [Bakemonogatari](https://myanimelist.net/anime/5081/Bakemonogatari)*
     
