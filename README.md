@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Its appearance was greeted with cries of rapture, and following a brief struggle over possesion of the volume, William rescued it before it should be torn to pieces, but allowed himself to be induced to read some of the passages aloud, his dramatic rendering being greeted by wolflike howls of enthusiasim and hails of live pits.” - Diana Gabaldon
+“Remind me not to piss you off Red. You might aim for the heart and shoot me in the balls.” - Nora Roberts
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> City Hunter 3
+  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 07: Nobita to Tetsujin Heidan
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Doraemon the Movie: Nobita and the Steel Troops</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1147/94393.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/72412.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1989</h4>
+<h4>🌴 Aired: 1986</h4>
 
-<h4>🌵 Genres: Action, Comedy, Mystery</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [City Hunter 3](https://myanimelist.net/anime/1472/City_Hunter_3)*
+🍂 *More information: [Doraemon Movie 07: Nobita to Tetsujin Heidan](https://myanimelist.net/anime/2665/Doraemon_Movie_07__Nobita_to_Tetsujin_Heidan)*
     
