@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books were her salvation. As a child, she’d had a shelf of childhood favorites that she loved enough to read over and over again. But after, during the hospital stay and the long voyage and the cold days in Idlewild’s dreary hallways, books became more than mere stories. They were her lifeline, the pages as essential to her as breathing.” - Simone St. James
+“Insensibly he formed the most delightful habit in the world, the habit of reading: he did not know that thus he was providing himself with a refuge from all the distress of life; he did not know either that he was creating for himself an unreal world which would make the real world of every day a source of bitter disappointment.” - W. Somerset Maugham
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
+  <strong>🥭 <u>Title:</u></strong> Ore dake Level Up na Ken
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Solo Leveling</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1801/142390.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
+🍂 *More information: [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)*
     
