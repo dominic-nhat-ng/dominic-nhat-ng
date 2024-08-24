@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“God, he thought, her eyes are so bright, flashing, deep, full of promise, all those things eyes are in books but never are in life, and she was his.” - John Crowley
+“It's important to read a book, but also to hold the book, to smell the book... it's perfume, it's incense, it's the dust of Egypt...” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Little Witch Academia (TV)
+  <strong>🥭 <u>Title:</u></strong> Ginga Tetsudou 999 (Movie)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Little Witch Academia</h4>
+<h4>🌿 <u>English Title:</u> Galaxy Express 999</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/83934.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/50505.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 1979</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Little Witch Academia (TV)](https://myanimelist.net/anime/33489/Little_Witch_Academia_TV)*
+🍂 *More information: [Ginga Tetsudou 999 (Movie)](https://myanimelist.net/anime/1301/Ginga_Tetsudou_999_Movie)*
     
