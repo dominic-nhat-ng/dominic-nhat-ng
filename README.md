@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“They grew; they did not talk about growing.” - Dejan Stojanovic
+“The covers of this book are too far apart.” - Ambrose Bierce
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Major S5
+  <strong>🥭 <u>Title:</u></strong> Slayers Next
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Slayers Next</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/75218.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1165/92536.jpg />
 
-<h4>🌱 Score: 8.39/10</h4>
+<h4>🌱 Score: 8.01/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Major S5](https://myanimelist.net/anime/5028/Major_S5)*
+🍂 *More information: [Slayers Next](https://myanimelist.net/anime/535/Slayers_Next)*
     
