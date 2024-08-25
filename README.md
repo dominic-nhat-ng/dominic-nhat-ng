@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I mean, most people want to escape. Get out of their heads. Out of their lives. Stories are the easiest way to do that.” - Victoria Schwab
+“They grew; they did not talk about growing.” - Dejan Stojanovic
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ima, Soko ni Iru Boku
+  <strong>🥭 <u>Title:</u></strong> Major S5
 </h4>
 
-<h4>🌿 <u>English Title:</u> Now and Then, Here and There</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1094/109008.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/75218.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 8.39/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ima, Soko ni Iru Boku](https://myanimelist.net/anime/160/Ima_Soko_ni_Iru_Boku)*
+🍂 *More information: [Major S5](https://myanimelist.net/anime/5028/Major_S5)*
     
