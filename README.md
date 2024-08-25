@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The covers of this book are too far apart.” - Ambrose Bierce
+“ثمة صنفان من الكتب: كتب تكتسب أهميتها من طبيعة موضوعها، وكتب تتوقف أهميتها على مؤلفها وطبيعة نظرته الفريدة إلى الموضوع الذي تناوله مهما كان هذا الموضوع” - حسين أحمد أمين
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Slayers Next
+  <strong>🥭 <u>Title:</u></strong> Ueki no Housoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Slayers Next</h4>
+<h4>🌿 <u>English Title:</u> The Law of Ueki</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1165/92536.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/20596.jpg />
 
-<h4>🌱 Score: 8.01/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 51</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Slayers Next](https://myanimelist.net/anime/535/Slayers_Next)*
+🍂 *More information: [Ueki no Housoku](https://myanimelist.net/anime/479/Ueki_no_Housoku)*
     
