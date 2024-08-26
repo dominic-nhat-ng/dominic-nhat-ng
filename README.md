@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“ثمة صنفان من الكتب: كتب تكتسب أهميتها من طبيعة موضوعها، وكتب تتوقف أهميتها على مؤلفها وطبيعة نظرته الفريدة إلى الموضوع الذي تناوله مهما كان هذا الموضوع” - حسين أحمد أمين
+“Take no heed of her.... She reads a lot of books.” - Jasper Fforde
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ueki no Housoku
+  <strong>🥭 <u>Title:</u></strong> Danshi Koukousei no Nichijou Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Law of Ueki</h4>
+<h4>🌿 <u>English Title:</u> Daily Lives of High School Boys Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/20596.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/38527.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 6</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ueki no Housoku](https://myanimelist.net/anime/479/Ueki_no_Housoku)*
+🍂 *More information: [Danshi Koukousei no Nichijou Specials](https://myanimelist.net/anime/12893/Danshi_Koukousei_no_Nichijou_Specials)*
     
