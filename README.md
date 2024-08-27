@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“My plan is to continue teaching many more years than the 32 years I've already enjoyed and continue writing, and promoting my books and websites if it's God will.” - Ana Monnar
+“You could never be certain what you would find in a book that had spent time with someone else.” - Erica Bauermeister
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ghost (Music)
+  <strong>🥭 <u>Title:</u></strong> Tenkuu no Escaflowne
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Vision of Escaflowne</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1220/118565.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/30689.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ghost (Music)](https://myanimelist.net/anime/50030/Ghost_Music)*
+🍂 *More information: [Tenkuu no Escaflowne](https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne)*
     
