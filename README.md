@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Remember, when you don’t know what to do, it never hurts to play Scrabble. It’s like reading the I Ching or tea leaves.” - Kelly Link
+“Surprise!-FitzChivalry” - Robin Hobb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hidamari Sketch x Honeycomb
+  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/50501.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1630/103417.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hidamari Sketch x Honeycomb](https://myanimelist.net/anime/11239/Hidamari_Sketch_x_Honeycomb)*
+🍂 *More information: [Sword Art Online: Alicization - War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)*
     
