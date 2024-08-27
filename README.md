@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You could never be certain what you would find in a book that had spent time with someone else.” - Erica Bauermeister
+“Remember, when you don’t know what to do, it never hurts to play Scrabble. It’s like reading the I Ching or tea leaves.” - Kelly Link
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenkuu no Escaflowne
+  <strong>🥭 <u>Title:</u></strong> Hidamari Sketch x Honeycomb
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Vision of Escaflowne</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/30689.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/50501.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance, Suspense</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tenkuu no Escaflowne](https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne)*
+🍂 *More information: [Hidamari Sketch x Honeycomb](https://myanimelist.net/anime/11239/Hidamari_Sketch_x_Honeycomb)*
     
