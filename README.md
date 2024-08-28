@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Surprise!-FitzChivalry” - Robin Hobb
+“She turned to look at him, and he was already looking at her. “I’m going to miss you when I wake up,” she whispered, because she realized that she must have fallen asleep under the sun. Arin was too real for her imagination. He was a dream. - Marie Rutkoski
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld
+  <strong>🥭 <u>Title:</u></strong> Steins;Gate: Oukoubakko no Poriomania
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld</h4>
+<h4>🌿 <u>English Title:</u> Steins;Gate: Egoistic Poriomania</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1630/103417.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1805/123188.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sword Art Online: Alicization - War of Underworld](https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld)*
+🍂 *More information: [Steins;Gate: Oukoubakko no Poriomania](https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania)*
     
