@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature is the real life of imaginary people.” - Stefanos Livos
+“Apa gunanya banyak baca buku - Wiji Thukul
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> D.Gray-man
+  <strong>🥭 <u>Title:</u></strong> Kui Cheng Shoufu Cong Youxi Kaishi
 </h4>
 
-<h4>🌿 <u>English Title:</u> D.Gray-man</h4>
+<h4>🌿 <u>English Title:</u> Losing Money to Be a Tycoon</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/75194.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1635/140669.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 16</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [D.Gray-man](https://myanimelist.net/anime/1482/DGray-man)*
+🍂 *More information: [Kui Cheng Shoufu Cong Youxi Kaishi](https://myanimelist.net/anime/57663/Kui_Cheng_Shoufu_Cong_Youxi_Kaishi)*
     
