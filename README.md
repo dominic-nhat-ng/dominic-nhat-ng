@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Apa gunanya banyak baca buku - Wiji Thukul
+“Real lives have no end. Real books have no end.” - J.M.G. Le Clézio
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kui Cheng Shoufu Cong Youxi Kaishi
+  <strong>🥭 <u>Title:</u></strong> Tentai Senshi Sunred
 </h4>
 
-<h4>🌿 <u>English Title:</u> Losing Money to Be a Tycoon</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1635/140669.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/11740.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kui Cheng Shoufu Cong Youxi Kaishi](https://myanimelist.net/anime/57663/Kui_Cheng_Shoufu_Cong_Youxi_Kaishi)*
+🍂 *More information: [Tentai Senshi Sunred](https://myanimelist.net/anime/5005/Tentai_Senshi_Sunred)*
     
