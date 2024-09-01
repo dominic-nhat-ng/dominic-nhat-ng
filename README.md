@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In the shop window you have promptly identified the cover with the title you were looking for. Following this visual trail, you have forced your way through the shop past the thick barricade of Books You Haven't Read, which are frowning at you from the tables and shelves, trying to cow you...And thus you pass the outer girdle of ramparts, but then you are attacked by the infantry of Books That If You Had More Than One Life You Would Certainly Also Read But Unfortunately Your Days Are Numbered. With a rapid maneuver you bypass them and move into the phalanxes of the Books You Mean To Read But There Are Others You Must Read First, the Books Too Expensive Now And You'll Wait Till They're Remaindered, the Books ditto When They Come Out in Paperback, Books You Can Borrow From Somebody, Books That Everybody's Read So It's As If You Had Read Them, Too. ” - Italo Calvino
+“Everybody deserves a story to read.” - Jill Telford
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia the Movie 2: Heroes:Rising
+  <strong>🥭 <u>Title:</u></strong> COLORs
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia: Heroes Rising</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1019/103292.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1241/132103.jpg />
 
-<h4>🌱 Score: 7.94/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Boku no Hero Academia the Movie 2: Heroes:Rising](https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising)*
+🍂 *More information: [COLORs](https://myanimelist.net/anime/54005/COLORs)*
     
