@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“No matter how busy life becomes, - Jessica de la Davies
+“I've never understood the desire for books with matched bindings. You don't go through life looking for sets of matched people, and books are just as individual.” - Susan Lendroth
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Turn A Gundam
+  <strong>🥭 <u>Title:</u></strong> Hunter x Hunter (2011)
 </h4>
 
-<h4>🌿 <u>English Title:</u> ∀ Gundam</h4>
+<h4>🌿 <u>English Title:</u> Hunter x Hunter</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/78330.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1337/99013.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 9.03/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Turn A Gundam](https://myanimelist.net/anime/95/Turn_A_Gundam)*
+🍂 *More information: [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)*
     
