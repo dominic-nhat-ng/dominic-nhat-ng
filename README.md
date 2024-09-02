@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“И кога палат книги, тие не ги уништуваат мислите, туку само хартијата на кои тие мисли се запишани.” - Venko Andonovski
+“No matter how busy life becomes, - Jessica de la Davies
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Vampire Hunter D (2000)
+  <strong>🥭 <u>Title:</u></strong> Turn A Gundam
 </h4>
 
-<h4>🌿 <u>English Title:</u> Vampire Hunter D: Bloodlust</h4>
+<h4>🌿 <u>English Title:</u> ∀ Gundam</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1571/135153.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/78330.jpg />
 
-<h4>🌱 Score: 7.94/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy, Horror, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Vampire Hunter D (2000)](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000)*
+🍂 *More information: [Turn A Gundam](https://myanimelist.net/anime/95/Turn_A_Gundam)*
     
