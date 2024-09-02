@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There has always been, for me, this other world, this second world to fall back on--a more reliable world in so far as it does not hide that its premise is illusion.” - Graham Swift
+“И кога палат книги, тие не ги уништуваат мислите, туку само хартијата на кои тие мисли се запишани.” - Venko Andonovski
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yojouhan Shinwa Taikei
+  <strong>🥭 <u>Title:</u></strong> Vampire Hunter D (2000)
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tatami Galaxy</h4>
+<h4>🌿 <u>English Title:</u> Vampire Hunter D: Bloodlust</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1633/123689.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1571/135153.jpg />
 
-<h4>🌱 Score: 8.56/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Mystery, Romance, Suspense</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Horror, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)*
+🍂 *More information: [Vampire Hunter D (2000)](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000)*
     
