@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Lest soviel ihr könnt! Lest Straßenschilder und Speisekarten, lest die Anschläge im Bürgermeisteramt, lest von mir aus Schundliteratur - aber lest! Lest! Sonst seid ihr verloren!” - Walter Moers
+“I could not resist the - Frank Conroy
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rainbow: Nisha Rokubou no Shichinin
+  <strong>🥭 <u>Title:</u></strong> Muumindani no Suisei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rainbow</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/72697.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3984.jpg />
 
-<h4>🌱 Score: 8.47/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Drama, Suspense</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Rainbow: Nisha Rokubou no Shichinin](https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin)*
+🍂 *More information: [Muumindani no Suisei](https://myanimelist.net/anime/2313/Muumindani_no_Suisei)*
     
