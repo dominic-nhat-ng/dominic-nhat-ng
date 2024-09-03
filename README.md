@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I've never understood the desire for books with matched bindings. You don't go through life looking for sets of matched people, and books are just as individual.” - Susan Lendroth
+“Lest soviel ihr könnt! Lest Straßenschilder und Speisekarten, lest die Anschläge im Bürgermeisteramt, lest von mir aus Schundliteratur - aber lest! Lest! Sonst seid ihr verloren!” - Walter Moers
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hunter x Hunter (2011)
+  <strong>🥭 <u>Title:</u></strong> Rainbow: Nisha Rokubou no Shichinin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hunter x Hunter</h4>
+<h4>🌿 <u>English Title:</u> Rainbow</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1337/99013.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/72697.jpg />
 
-<h4>🌱 Score: 9.03/10</h4>
+<h4>🌱 Score: 8.47/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Suspense</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)*
+🍂 *More information: [Rainbow: Nisha Rokubou no Shichinin](https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin)*
     
