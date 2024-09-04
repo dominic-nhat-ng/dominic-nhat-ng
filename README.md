@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If your library is not "unsafe," it probably isn't doing its job.” - John Berry
+“When a day goes by and I haven't written anything, I better have been doing something worth writing about.” - P.S. Bartlett
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tate no Yuusha no Nariagari
+  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Rising of the Shield Hero</h4>
+<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion R2 Special Edition - Zero Requiem</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1490/101365.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/15968.jpg />
 
-<h4>🌱 Score: 7.94/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)*
+🍂 *More information: [Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem](https://myanimelist.net/anime/6768/Code_Geass__Hangyaku_no_Lelouch_R2_Special_Edition_-_Zero_Requiem)*
     
