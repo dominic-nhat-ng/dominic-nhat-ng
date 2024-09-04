@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Only through reading various books and gaining a variety of knowledge, our intellect can find a path to develop itself properly!” - Mehmet Murat ildan
+“Het was een vergissing vanwege de juf, te denken dat alleen de dingen die in de boeken staan interessant zijn. Ook deze, die er nog niet in staan, zijn merkwaardig.” - Louis Paul Boon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gintama.: Shirogane no Tamashii-hen - Kouhan-sen
+  <strong>🥭 <u>Title:</u></strong> Yuri!!! on Ice
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gintama.: Silver Soul Arc - Second Half War</h4>
+<h4>🌿 <u>English Title:</u> Yuri!!! On Ice</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1776/96566.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/81149.jpg />
 
-<h4>🌱 Score: 8.88/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Sports</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gintama.: Shirogane no Tamashii-hen - Kouhan-sen](https://myanimelist.net/anime/37491/Gintama__Shirogane_no_Tamashii-hen_-_Kouhan-sen)*
+🍂 *More information: [Yuri!!! on Ice](https://myanimelist.net/anime/32995/Yuri_on_Ice)*
     
