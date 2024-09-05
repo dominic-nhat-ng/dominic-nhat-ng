@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books were faithful and reliable. You could pack them up and put them in a box, run your hands over the spines, flip through their pages full of memories. They always came with you, wherever you went.” - Karen Piper
+“One great thing you can do today that you also did yesterday and likely to do tomorrow is purchase books by female authors.” - Fuad Alakbarov
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist Movie
+  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata Fine
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Exorcist: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Saekano the Movie: Finale</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/42005.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1671/111411.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.42/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Ao no Exorcist Movie](https://myanimelist.net/anime/11737/Ao_no_Exorcist_Movie)*
+🍂 *More information: [Saenai Heroine no Sodatekata Fine](https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine)*
     
