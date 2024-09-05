@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Uno se hace lector para completar lo inacabado. Para completarse” - Antonio Santa Ana
+“Books were faithful and reliable. You could pack them up and put them in a box, run your hands over the spines, flip through their pages full of memories. They always came with you, wherever you went.” - Karen Piper
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket: Baka ja Katenai no yo!
+  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kuroko's Basketball OVA</h4>
+<h4>🌿 <u>English Title:</u> Blue Exorcist: The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1148/96321.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/42005.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Kuroko no Basket: Baka ja Katenai no yo!](https://myanimelist.net/anime/19669/Kuroko_no_Basket__Baka_ja_Katenai_no_yo)*
+🍂 *More information: [Ao no Exorcist Movie](https://myanimelist.net/anime/11737/Ao_no_Exorcist_Movie)*
     
