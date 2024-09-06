@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“One great thing you can do today that you also did yesterday and likely to do tomorrow is purchase books by female authors.” - Fuad Alakbarov
+“The contents of someone's bookcase are part of his history, like an ancestral portrait." - Anatole Broyard
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata Fine
+  <strong>🥭 <u>Title:</u></strong> Hajime no Ippo: Mashiba vs. Kimura
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saekano the Movie: Finale</h4>
+<h4>🌿 <u>English Title:</u> Fighting Spirit: Mashiba vs. Kimura</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1671/111411.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/64737.jpg />
 
-<h4>🌱 Score: 8.42/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Saenai Heroine no Sodatekata Fine](https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine)*
+🍂 *More information: [Hajime no Ippo: Mashiba vs. Kimura](https://myanimelist.net/anime/265/Hajime_no_Ippo__Mashiba_vs_Kimura)*
     
