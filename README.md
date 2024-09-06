@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books were another form of fog, dipping down to infiltrate and insidiously undermine the authoritative, official version, showing it up for the sham it was. He knew the stories were all made up, the characters puppets, the outcome predetermined, so why did they seem more real than reality? And why was no one else shocked by this gleeful scandal?” - Michael Dibdin
+“I'm afraid I've degenerated into a bibliophile.” - Christopher Paolini
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Trigun: Badlands Rumble
+  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny Movie 2: The Rising
 </h4>
 
-<h4>🌿 <u>English Title:</u> Trigun: Badlands Rumble</h4>
+<h4>🌿 <u>English Title:</u> Tiger & Bunny: The Rising</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1930/116400.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/56915.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Comedy, Mystery, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Trigun: Badlands Rumble](https://myanimelist.net/anime/4106/Trigun__Badlands_Rumble)*
+🍂 *More information: [Tiger & Bunny Movie 2: The Rising](https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising)*
     
