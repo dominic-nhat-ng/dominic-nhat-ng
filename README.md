@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are like seeds. They can lie dormant for centuries and then flower in the most unpromising soil.” - Carl Sagan
+“If you've ever read one of those articles that asks notable people to list their favorite books, you may have been impressed or daunted to see them pick Proust or Thomas Mann or James Joyce. You might even feel sheepish about the fact that you reread Pride and Prejudice or The Lord of the Rings, or The Catcher in the Rye or Gone With the Wind every couple of years with some much pleasure. Perhaps, like me, you're even a little suspicious of their claims, because we all know that the books we've loved best are seldom the ones we esteem the most highly - or the ones we'd most like other people to think we read over and over again.” - Laura Miller
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Youkoso! Sukebe Elf no Mori e
+  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1406/91062.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Fantasy, Supernatural, Hentai</h4>
+<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Youkoso! Sukebe Elf no Mori e](https://myanimelist.net/anime/36720/Youkoso_Sukebe_Elf_no_Mori_e)*
+🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
     
