@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We can ignore reality, but we cannot ignore the consequences of ignoring reality.” - Ayn Rand
+“Books are like seeds. They can lie dormant for centuries and then flower in the most unpromising soil.” - Carl Sagan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji
+  <strong>🥭 <u>Title:</u></strong> Youkoso! Sukebe Elf no Mori e
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1467/137783.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1406/91062.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Fantasy, Supernatural, Hentai</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji)*
+🍂 *More information: [Youkoso! Sukebe Elf no Mori e](https://myanimelist.net/anime/36720/Youkoso_Sukebe_Elf_no_Mori_e)*
     
