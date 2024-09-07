@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I'm afraid I've degenerated into a bibliophile.” - Christopher Paolini
+“We can ignore reality, but we cannot ignore the consequences of ignoring reality.” - Ayn Rand
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny Movie 2: The Rising
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tiger & Bunny: The Rising</h4>
+<h4>🌿 <u>English Title:</u> Black Butler</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/56915.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1467/137783.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Comedy, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tiger & Bunny Movie 2: The Rising](https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising)*
+🍂 *More information: [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji)*
     
