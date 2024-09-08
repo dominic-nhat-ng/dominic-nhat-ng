@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you've ever read one of those articles that asks notable people to list their favorite books, you may have been impressed or daunted to see them pick Proust or Thomas Mann or James Joyce. You might even feel sheepish about the fact that you reread Pride and Prejudice or The Lord of the Rings, or The Catcher in the Rye or Gone With the Wind every couple of years with some much pleasure. Perhaps, like me, you're even a little suspicious of their claims, because we all know that the books we've loved best are seldom the ones we esteem the most highly - or the ones we'd most like other people to think we read over and over again.” - Laura Miller
+“What I saw next stopped me dead in my tracks. Books. Not just one or two dozen, but hundreds of them. In crates. In piles on the floor. In bookcases that stretched from floor to ceiling and lined the entire room. I turned around and around in a slow circle, feeling as if I'd just stumbled into Ali Baba's cave. I was breathless, close to tears, and positively dizzy with greed.” - Jennifer Donnelly
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 02: 14-banme no Target
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
+<h4>🌿 <u>English Title:</u> Case Closed Movie 02: The Fourteenth Target</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1900/94316.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
+🍂 *More information: [Meitantei Conan Movie 02: 14-banme no Target](https://myanimelist.net/anime/780/Meitantei_Conan_Movie_02__14-banme_no_Target)*
     
