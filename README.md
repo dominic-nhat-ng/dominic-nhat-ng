@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What I saw next stopped me dead in my tracks. Books. Not just one or two dozen, but hundreds of them. In crates. In piles on the floor. In bookcases that stretched from floor to ceiling and lined the entire room. I turned around and around in a slow circle, feeling as if I'd just stumbled into Ali Baba's cave. I was breathless, close to tears, and positively dizzy with greed.” - Jennifer Donnelly
+“Bisogna amare i propri personaggi. Altrimenti, sconsiglio a chiunque di prendere la penna in mano: saranno guai grossi, sappiatelo.” - Michail Bulgakov
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 02: 14-banme no Target
+  <strong>🥭 <u>Title:</u></strong> Lupin the Third: Mine Fujiko to Iu Onna
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed Movie 02: The Fourteenth Target</h4>
+<h4>🌿 <u>English Title:</u> Lupin the Third: The Woman Called Fujiko Mine</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1900/94316.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1482/133813.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 02: 14-banme no Target](https://myanimelist.net/anime/780/Meitantei_Conan_Movie_02__14-banme_no_Target)*
+🍂 *More information: [Lupin the Third: Mine Fujiko to Iu Onna](https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna)*
     
