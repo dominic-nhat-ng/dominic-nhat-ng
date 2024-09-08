@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Bisogna amare i propri personaggi. Altrimenti, sconsiglio a chiunque di prendere la penna in mano: saranno guai grossi, sappiatelo.” - Michail Bulgakov
+“You're either reading a book or you're not.” - Jonathan Franzen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin the Third: Mine Fujiko to Iu Onna
+  <strong>🥭 <u>Title:</u></strong> Black Lagoon
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin the Third: The Woman Called Fujiko Mine</h4>
+<h4>🌿 <u>English Title:</u> Black Lagoon</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1482/133813.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1906/121592.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Ecchi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Lupin the Third: Mine Fujiko to Iu Onna](https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna)*
+🍂 *More information: [Black Lagoon](https://myanimelist.net/anime/889/Black_Lagoon)*
     
