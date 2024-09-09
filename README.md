@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Never lend books, for no one ever returns them; the only books I have in my library are books that other folks have lent me.” - Anatole France
+“Good characters make you feel like you have new friends, don’t they? You have to re-read the books just to visit with them again. Grace Awakening. Book one: Awakening Dreams” - Shawn L. Bird
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set
+  <strong>🥭 <u>Title:</u></strong> Ashita no Joe
 </h4>
 
-<h4>🌿 <u>English Title:</u> ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game</h4>
+<h4>🌿 <u>English Title:</u> Tomorrow's Joe</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1155/106799.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/64671.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 1970</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 79</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set](https://myanimelist.net/anime/40936/Ore_wo_Suki_nano_wa_Omae_dake_ka_yo__Oretachi_no_Game_Set)*
+🍂 *More information: [Ashita no Joe](https://myanimelist.net/anime/2402/Ashita_no_Joe)*
     
