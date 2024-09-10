@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Good characters make you feel like you have new friends, don’t they? You have to re-read the books just to visit with them again. Grace Awakening. Book one: Awakening Dreams” - Shawn L. Bird
+“The summer passed quietly. I busied myself as best I could, reading a good deal.” - Michael Cox
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ashita no Joe
+  <strong>🥭 <u>Title:</u></strong> Majo Minarai wo Sagashite
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tomorrow's Joe</h4>
+<h4>🌿 <u>English Title:</u> Looking for Magical Doremi</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/64671.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1937/110713.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1970</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 79</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ashita no Joe](https://myanimelist.net/anime/2402/Ashita_no_Joe)*
+🍂 *More information: [Majo Minarai wo Sagashite](https://myanimelist.net/anime/39585/Majo_Minarai_wo_Sagashite)*
     
