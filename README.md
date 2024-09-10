@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It is time to browse through the precious books that have meant the most to you that you may rediscover illuminating phrases and sentences to light your pathway to the future...” - Wilferd Peterson
+“The flickering candlelight conspired with the silence, and we only interrupted each other’s reading to share a casual delight.” - Keith Donohue
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Karasu wa Aruji wo Erabanai
+  <strong>🥭 <u>Title:</u></strong> Arakawa Under the Bridge
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yatagarasu: The Raven Does Not Choose Its Master</h4>
+<h4>🌿 <u>English Title:</u> Arakawa Under the Bridge</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1084/142685.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1019/98620.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Drama, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 20</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Karasu wa Aruji wo Erabanai](https://myanimelist.net/anime/56980/Karasu_wa_Aruji_wo_Erabanai)*
+🍂 *More information: [Arakawa Under the Bridge](https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge)*
     
