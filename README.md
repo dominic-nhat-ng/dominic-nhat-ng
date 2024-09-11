@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“a true piece of writing is a dangerous thing. It can change your life.” - Tobias Wolff
+“I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.” - Groucho Marx
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu
+  <strong>🥭 <u>Title:</u></strong> Tsubasa: Shunraiki
 </h4>
 
-<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World-</h4>
+<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1522/128039.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/33841.jpg />
 
-<h4>🌱 Score: 8.23/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu](https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)*
+🍂 *More information: [Tsubasa: Shunraiki](https://myanimelist.net/anime/4938/Tsubasa__Shunraiki)*
     
