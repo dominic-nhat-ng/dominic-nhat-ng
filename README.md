@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.” - Groucho Marx
+“In my view, nineteen pounds of old books are at least nineteen times as delicious as one pound of fresh caviar.” - Anne Fadiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsubasa: Shunraiki
+  <strong>🥭 <u>Title:</u></strong> Maoujou de Oyasumi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle</h4>
+<h4>🌿 <u>English Title:</u> Sleepy Princess in the Demon Castle</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/33841.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1448/108514.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tsubasa: Shunraiki](https://myanimelist.net/anime/4938/Tsubasa__Shunraiki)*
+🍂 *More information: [Maoujou de Oyasumi](https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi)*
     
