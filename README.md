@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books were safer than other people anyway.” - Neil Gaiman
+“The love of books is among the choicest gifts of the gods.” - Sir Arthur Conan Doyle
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jiisan Baasan Wakagaeru
+  <strong>🥭 <u>Title:</u></strong> Terra e... (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Grandpa and Grandma Turn Young Again</h4>
+<h4>🌿 <u>English Title:</u> Toward the Terra (TV)</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1676/141714.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1013/117558.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jiisan Baasan Wakagaeru](https://myanimelist.net/anime/56230/Jiisan_Baasan_Wakagaeru)*
+🍂 *More information: [Terra e... (TV)](https://myanimelist.net/anime/2158/Terra_e_TV)*
     
