@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The love of books is among the choicest gifts of the gods.” - Sir Arthur Conan Doyle
+“لقد غيرت القراءة مجرى حياتي تغييراً جذرياً ولم أكن أهدف من ورائها الى كسب أية شهادات لتحسين مركزي وانما كنت اريد ان احيا فكريا.” - Malcolm X
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Terra e... (TV)
+  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
 </h4>
 
-<h4>🌿 <u>English Title:</u> Toward the Terra (TV)</h4>
+<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1013/117558.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Terra e... (TV)](https://myanimelist.net/anime/2158/Terra_e_TV)*
+🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
     
