@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The e-reading revolution may have reached our shores this year but it has yet to reckon with Australia's summer holidays. Intense sunlight plays havoc with screens and the sand invades every nook and cranny, so as convenient and sexy as your new iPad may be, the battered paperback, its pages pocked and swollen from contact with briny hands, will likely remain the beach format of choice for a few years yet.” - Geordie Williamson
+“I understood books. I did not understand boys—especially alien boys.” - Jennifer L. Armentrout
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> The Big O
+  <strong>🥭 <u>Title:</u></strong> Tsubasa: Tokyo Revelations
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Big O</h4>
+<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE: Tokyo Revelations</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1220/142476.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/49129.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [The Big O](https://myanimelist.net/anime/567/The_Big_O)*
+🍂 *More information: [Tsubasa: Tokyo Revelations](https://myanimelist.net/anime/2685/Tsubasa__Tokyo_Revelations)*
     
