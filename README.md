@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“لقد غيرت القراءة مجرى حياتي تغييراً جذرياً ولم أكن أهدف من ورائها الى كسب أية شهادات لتحسين مركزي وانما كنت اريد ان احيا فكريا.” - Malcolm X
+“The e-reading revolution may have reached our shores this year but it has yet to reckon with Australia's summer holidays. Intense sunlight plays havoc with screens and the sand invades every nook and cranny, so as convenient and sexy as your new iPad may be, the battered paperback, its pages pocked and swollen from contact with briny hands, will likely remain the beach format of choice for a few years yet.” - Geordie Williamson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
+  <strong>🥭 <u>Title:</u></strong> The Big O
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
+<h4>🌿 <u>English Title:</u> The Big O</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1220/142476.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
+🍂 *More information: [The Big O](https://myanimelist.net/anime/567/The_Big_O)*
     
