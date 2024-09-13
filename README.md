@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I understood books. I did not understand boys—especially alien boys.” - Jennifer L. Armentrout
+“Paradise will be a kind of library” - Jorge Luis Borges
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsubasa: Tokyo Revelations
+  <strong>🥭 <u>Title:</u></strong> Hakuouki Movie 1: Kyoto Ranbu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE: Tokyo Revelations</h4>
+<h4>🌿 <u>English Title:</u> Hakuoki ~Demon of the Fleeting Blossom~ Wild Dance of Kyoto</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/49129.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/49399.jpg />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tsubasa: Tokyo Revelations](https://myanimelist.net/anime/2685/Tsubasa__Tokyo_Revelations)*
+🍂 *More information: [Hakuouki Movie 1: Kyoto Ranbu](https://myanimelist.net/anime/13117/Hakuouki_Movie_1__Kyoto_Ranbu)*
     
