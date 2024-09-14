@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are worse crimes than burning books. One of them is not reading them.” - Joseph Brodsky
+“Wahrscheinlich werde ich jede Nacht von dir träumen", sagte er. "Und wenn ich aufwache, weiß ich, dass der beste Teil des Tages schon vorbei ist." - Kai Meyer
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> InuYasha Movie 1: Toki wo Koeru Omoi
+  <strong>🥭 <u>Title:</u></strong> I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.
 </h4>
 
-<h4>🌿 <u>English Title:</u> InuYasha the Movie: Affections Touching Across Time</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1683/94370.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1012/126441.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Ecchi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [InuYasha Movie 1: Toki wo Koeru Omoi](https://myanimelist.net/anime/452/InuYasha_Movie_1__Toki_wo_Koeru_Omoi)*
+🍂 *More information: [I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.](https://myanimelist.net/anime/52575/Im_Your_Treasure_Box__Anata_wa_Marine_Senchou_wo_Takarabako_kara_Mitsuketa)*
     
