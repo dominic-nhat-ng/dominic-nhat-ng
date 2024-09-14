@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Paradise will be a kind of library” - Jorge Luis Borges
+“There are books for when you’re bored. Plenty of them. There are books for when you’re calm. The best kind, in my opinion. There are also books for when you’re sad. And there are books for when you’re happy. There are books for when you’re thirsty for knowledge. And there are books for when you’re desperate. The latter are the kind of books Ulises Lima and Belano wanted to write.” - Roberto Bolaño
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hakuouki Movie 1: Kyoto Ranbu
+  <strong>🥭 <u>Title:</u></strong> Space☆Dandy 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hakuoki ~Demon of the Fleeting Blossom~ Wild Dance of Kyoto</h4>
+<h4>🌿 <u>English Title:</u> Space Dandy 2nd Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/49399.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/64451.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Drama, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hakuouki Movie 1: Kyoto Ranbu](https://myanimelist.net/anime/13117/Hakuouki_Movie_1__Kyoto_Ranbu)*
+🍂 *More information: [Space☆Dandy 2nd Season](https://myanimelist.net/anime/23327/Space☆Dandy_2nd_Season)*
     
