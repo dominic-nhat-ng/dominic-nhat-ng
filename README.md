@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Wahrscheinlich werde ich jede Nacht von dir träumen", sagte er. "Und wenn ich aufwache, weiß ich, dass der beste Teil des Tages schon vorbei ist." - Kai Meyer
+“Cemeteries are like a giant library of stories.” - A.L. Mengel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.
+  <strong>🥭 <u>Title:</u></strong> Capeta
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1012/126441.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/17667.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Ecchi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 52</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.](https://myanimelist.net/anime/52575/Im_Your_Treasure_Box__Anata_wa_Marine_Senchou_wo_Takarabako_kara_Mitsuketa)*
+🍂 *More information: [Capeta](https://myanimelist.net/anime/388/Capeta)*
     
