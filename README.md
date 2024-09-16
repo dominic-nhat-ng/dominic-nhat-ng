@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Fire is a speed reader, which is why the ignorant burn books: fire races through pages, takes care of all the knowledge, and never bores you with a summary.” - Elizabeth McCracken
+“Literature, real literature, must not be gulped down like some potion which may be good for the heart or good for the brain — the brain, that stomach of the soul. Literature must be taken and broken to bits, pulled apart, squashed — then its lovely reek will be smelt in the hollow of the palm, it will be munched and rolled upon the tongue with relish; then, and only then, its rare flavor will be appreciated at its true worth and the broken and crushed parts will again come together in your mind and disclose the beauty of a unity to which you have contributed something of your own blood.” - Vladimir Nabokov
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 4: Sanka no Chi
+  <strong>🥭 <u>Title:</u></strong> Ushiro no Shoumen Daare
 </h4>
 
-<h4>🌿 <u>English Title:</u> Broken Blade 4</h4>
+<h4>🌿 <u>English Title:</u> Who's Left Behind?</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/68085.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1693/133896.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1991</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Break Blade Movie 4: Sanka no Chi](https://myanimelist.net/anime/9465/Break_Blade_Movie_4__Sanka_no_Chi)*
+🍂 *More information: [Ushiro no Shoumen Daare](https://myanimelist.net/anime/2753/Ushiro_no_Shoumen_Daare)*
     
