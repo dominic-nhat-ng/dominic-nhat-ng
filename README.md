@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Writing a book is a job, like any other. It requires research, analysis, testing, and entire days in front of a laptop, typing, reading, editing, proofreading, etc. If books were free, writers wouldn't have time to write, because they would be too busy, working on something else. It is hard to sacrifice your social life and weekends to write books when you need to keep a job or more at the same time. In this sense, when an author offers a book, he is disrespecting himself, insulting his past efforts to get him where he is now, and devaluing his own work. The idea that ebooks shouldn't cost more than a few dollars is actually already an underestimation of the value offered. And the idea that a person should get a book for free is contradictory to the purpose of obtaining value from the reading. That is why writers should never offer books and readers should always be willing to pay anything for what they want to read.” - Robin Sacredfire
+“Fire is a speed reader, which is why the ignorant burn books: fire races through pages, takes care of all the knowledge, and never bores you with a summary.” - Elizabeth McCracken
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Durarara!!
+  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 4: Sanka no Chi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Durarara!!</h4>
+<h4>🌿 <u>English Title:</u> Broken Blade 4</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/71772.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/68085.jpg />
 
-<h4>🌱 Score: 8.1/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Durarara!!](https://myanimelist.net/anime/6746/Durarara)*
+🍂 *More information: [Break Blade Movie 4: Sanka no Chi](https://myanimelist.net/anime/9465/Break_Blade_Movie_4__Sanka_no_Chi)*
     
