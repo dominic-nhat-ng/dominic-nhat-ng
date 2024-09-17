@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I hate it that Americans are taught to fear some books and some ideas as though they were diseases.” - Kurt Vonnegut
+“Writers are not here to conform. We are here to challenge. We're not here to be comfortable—we're here, really, to shake things up. That's our job.” - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong Specials
+  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere Specials</h4>
+<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World-</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/88360.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1522/128039.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 8.23/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong Specials](https://myanimelist.net/anime/36561/Doupo_Cangqiong_Specials)*
+🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu](https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)*
     
