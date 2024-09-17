@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If a book is well written, I always find it too short.” - Jane Austen
+“I hate it that Americans are taught to fear some books and some ideas as though they were diseases.” - Kurt Vonnegut
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
+  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
+<h4>🌿 <u>English Title:</u> Fights Break Sphere Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/88360.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 2</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
+🍂 *More information: [Doupo Cangqiong Specials](https://myanimelist.net/anime/36561/Doupo_Cangqiong_Specials)*
     
