@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature, real literature, must not be gulped down like some potion which may be good for the heart or good for the brain — the brain, that stomach of the soul. Literature must be taken and broken to bits, pulled apart, squashed — then its lovely reek will be smelt in the hollow of the palm, it will be munched and rolled upon the tongue with relish; then, and only then, its rare flavor will be appreciated at its true worth and the broken and crushed parts will again come together in your mind and disclose the beauty of a unity to which you have contributed something of your own blood.” - Vladimir Nabokov
+“If a book is well written, I always find it too short.” - Jane Austen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ushiro no Shoumen Daare
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
 </h4>
 
-<h4>🌿 <u>English Title:</u> Who's Left Behind?</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1693/133896.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1991</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ushiro no Shoumen Daare](https://myanimelist.net/anime/2753/Ushiro_no_Shoumen_Daare)*
+🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
     
