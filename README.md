@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You could never be certain what you would find in a book that had spent time with someone else.” - Erica Bauermeister
+“Should I put it in my mouth?” - K.L. Thorne
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Final Fantasy VII: Advent Children Complete
+  <strong>🥭 <u>Title:</u></strong> Denpa-teki na Kanojo
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Electromagnetic Girlfriend</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1065/94641.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1722/111810.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
 <h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Final Fantasy VII: Advent Children Complete](https://myanimelist.net/anime/2952/Final_Fantasy_VII__Advent_Children_Complete)*
+🍂 *More information: [Denpa-teki na Kanojo](https://myanimelist.net/anime/5177/Denpa-teki_na_Kanojo)*
     
