@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Should I put it in my mouth?” - K.L. Thorne
+“That afternoon he told me that the difference between human beings and animals was that human beings were able to dream while awake. He said the purpose of books was to permit us to exercise that faculty. Art, he said, was a controlled madness… He said books weren't made of themes, which you could write essays about, but of images that inserted themselves into your brain and replaced what you were seeing with your eyes.” - Steven Millhauser
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Denpa-teki na Kanojo
+  <strong>🥭 <u>Title:</u></strong> Death Billiards
 </h4>
 
-<h4>🌿 <u>English Title:</u> Electromagnetic Girlfriend</h4>
+<h4>🌿 <u>English Title:</u> Death Billiards</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1722/111810.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/48721.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Mystery, Suspense</h4>
+<h4>🌵 Genres: Drama, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Denpa-teki na Kanojo](https://myanimelist.net/anime/5177/Denpa-teki_na_Kanojo)*
+🍂 *More information: [Death Billiards](https://myanimelist.net/anime/14353/Death_Billiards)*
     
