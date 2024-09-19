@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The approach to digital culture I abhor would indeed turn all the world's books into one book, just as Kevin (Kelly) suggested. It might start to happen in the next decade or so. Google and other companies are scanning library books into the cloud in a massive Manhattan Project of cultural digitization. What happens next is what's important. If the books in the cloud are accessed via user interfaces that encourage mashups of fragments that obscure the context and authorship of each fragment, there will be only one book. This is what happens today with a lot of content; often you don't know where a quoted fragment from a news story came from, who wrote a comment, or who shot a video. A continuation of the present trend will make us like various medieval religious empires, or like North Korea, a society with a single book. - Jaron Lanier
+“To care about words, to have a stake in what is written, to believe in the power of books - this overwhelms the rest, and beside it one's life becomes very small.” - Paul Auster
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akagami no Shirayuki-hime
+  <strong>🥭 <u>Title:</u></strong> Tsuritama
 </h4>
 
-<h4>🌿 <u>English Title:</u> Snow White with the Red Hair</h4>
+<h4>🌿 <u>English Title:</u> Tsuritama</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/75764.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/69909.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Akagami no Shirayuki-hime](https://myanimelist.net/anime/30123/Akagami_no_Shirayuki-hime)*
+🍂 *More information: [Tsuritama](https://myanimelist.net/anime/12883/Tsuritama)*
     
