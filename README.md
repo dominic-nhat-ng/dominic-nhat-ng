@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“To care about words, to have a stake in what is written, to believe in the power of books - this overwhelms the rest, and beside it one's life becomes very small.” - Paul Auster
+“Don't you ever mind," she asked suddenly, "not being rich enough to buy all the books you want?” - Edith Wharton
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsuritama
+  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka?
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsuritama</h4>
+<h4>🌿 <u>English Title:</u> Is the Order a Rabbit?</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/69909.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/79600.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Tsuritama](https://myanimelist.net/anime/12883/Tsuritama)*
+🍂 *More information: [Gochuumon wa Usagi desu ka?](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka)*
     
