@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If anything attacked us, we could just panic at it until it went away.” - Seanan McGuire
+“It takes a great reader to make a great book.” - Orna Ross
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoubushi Densetsu Tetsuya
+  <strong>🥭 <u>Title:</u></strong> Initial D Final Stage
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1165/145095.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1404/101364.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2014</h4>
 
 <h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 20</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoubushi Densetsu Tetsuya](https://myanimelist.net/anime/3369/Shoubushi_Densetsu_Tetsuya)*
+🍂 *More information: [Initial D Final Stage](https://myanimelist.net/anime/22507/Initial_D_Final_Stage)*
     
