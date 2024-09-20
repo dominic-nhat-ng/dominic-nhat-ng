@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Don't you ever mind," she asked suddenly, "not being rich enough to buy all the books you want?” - Edith Wharton
+“If anything attacked us, we could just panic at it until it went away.” - Seanan McGuire
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka?
+  <strong>🥭 <u>Title:</u></strong> Shoubushi Densetsu Tetsuya
 </h4>
 
-<h4>🌿 <u>English Title:</u> Is the Order a Rabbit?</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/79600.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1165/145095.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 20</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Gochuumon wa Usagi desu ka?](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka)*
+🍂 *More information: [Shoubushi Densetsu Tetsuya](https://myanimelist.net/anime/3369/Shoubushi_Densetsu_Tetsuya)*
     
