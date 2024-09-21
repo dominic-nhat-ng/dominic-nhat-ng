@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are worse crimes than burning books. One of them is not reading them.” - Joseph Brodsky
+“How dare you call me ‘it’?” It was my turn to point the finger, as I glide over to where he is standing and gibbering. “‘It’ has a name,” I continue, scowling. “It’s Clara and, if you ever look at me like that or refer to me as a thing rather than a human being again, then I’ll find out where you live and I’ll haunt you for the rest of your puny life and that’s a PROMISE!” And that’s how you threaten someone…ghost style.” - Adele  Rose
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Skip to Loafer
+  <strong>🥭 <u>Title:</u></strong> Kamisama Hajimemashita: Kako-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Skip and Loafer</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1518/138730.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/81250.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 8.4/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 4</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Skip to Loafer](https://myanimelist.net/anime/50416/Skip_to_Loafer)*
+🍂 *More information: [Kamisama Hajimemashita: Kako-hen](https://myanimelist.net/anime/30709/Kamisama_Hajimemashita__Kako-hen)*
     
