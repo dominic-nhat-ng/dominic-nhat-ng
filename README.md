@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It takes a great reader to make a great book.” - Orna Ross
+“There are worse crimes than burning books. One of them is not reading them.” - Joseph Brodsky
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Final Stage
+  <strong>🥭 <u>Title:</u></strong> Skip to Loafer
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Skip and Loafer</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1404/101364.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1518/138730.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Initial D Final Stage](https://myanimelist.net/anime/22507/Initial_D_Final_Stage)*
+🍂 *More information: [Skip to Loafer](https://myanimelist.net/anime/50416/Skip_to_Loafer)*
     
