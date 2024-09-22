@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She was a ray of sunshine, a warm summer rain, a bright fire on a cold winter’s day, and now she could be dead because she had tried to save the man she loved.” - Grace Willows
+“Literature cannot be imposed; it must be discovered.” - Amy Joy
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Eve no Jikan (Movie)
+  <strong>🥭 <u>Title:</u></strong> Hidamari Sketch x 365 Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Time of Eve</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/27711.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/17727.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Eve no Jikan (Movie)](https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie)*
+🍂 *More information: [Hidamari Sketch x 365 Specials](https://myanimelist.net/anime/6984/Hidamari_Sketch_x_365_Specials)*
     
