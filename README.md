@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature cannot be imposed; it must be discovered.” - Amy Joy
+“A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight.” - Robertson Davies
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hidamari Sketch x 365 Specials
+  <strong>🥭 <u>Title:</u></strong> Innocence
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell 2: Innocence</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/17727.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/75628.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Award Winning, Mystery, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hidamari Sketch x 365 Specials](https://myanimelist.net/anime/6984/Hidamari_Sketch_x_365_Specials)*
+🍂 *More information: [Innocence](https://myanimelist.net/anime/468/Innocence)*
     
