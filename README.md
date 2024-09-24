@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I was thinking, "So, I’m Emperor, am I? What nonsense! But at least I'll be able to make people read my books now.” - Robert Graves
+“Only through reading various books and gaining a variety of knowledge, our intellect can find a path to develop itself properly!” - Mehmet Murat ildan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Osomatsu-san 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Aa! Megami-sama! Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mr. Osomatsu 2</h4>
+<h4>🌿 <u>English Title:</u> Ah! My Goddess: The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/88328.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71211.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Osomatsu-san 2nd Season](https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season)*
+🍂 *More information: [Aa! Megami-sama! Movie](https://myanimelist.net/anime/304/Aa_Megami-sama_Movie)*
     
