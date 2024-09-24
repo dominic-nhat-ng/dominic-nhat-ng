@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Music and books stir up emotions. They make feelings rise and clatter and wreck, and sometimes that's dangerous. But music can make you rise up and clatter and destroy when you need to, too.” - Deb Caletti
+“I was thinking, "So, I’m Emperor, am I? What nonsense! But at least I'll be able to make people read my books now.” - Robert Graves
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenchi Muyou! Ryououki
+  <strong>🥭 <u>Title:</u></strong> Osomatsu-san 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tenchi Muyo! Ryo-Ohki</h4>
+<h4>🌿 <u>English Title:</u> Mr. Osomatsu 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1224/95301.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/88328.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tenchi Muyou! Ryououki](https://myanimelist.net/anime/539/Tenchi_Muyou_Ryououki)*
+🍂 *More information: [Osomatsu-san 2nd Season](https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season)*
     
