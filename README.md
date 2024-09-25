@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Only through reading various books and gaining a variety of knowledge, our intellect can find a path to develop itself properly!” - Mehmet Murat ildan
+“If you know haw a book is going to end, would you read it in the first place?" Kit asked herself later, as she stood in the bathroom, an electric toothbrush winding its way around her mouth. "Do you stop reading a book because you don't want to watch the characters you like turn out to be unlikable, or the ones with which you identify denied the happy ending you believe they deserve?” - Sue Halpern
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aa! Megami-sama! Movie
+  <strong>🥭 <u>Title:</u></strong> Mushishi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ah! My Goddess: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Mushi-Shi</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71211.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/73862.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.65/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Aa! Megami-sama! Movie](https://myanimelist.net/anime/304/Aa_Megami-sama_Movie)*
+🍂 *More information: [Mushishi](https://myanimelist.net/anime/457/Mushishi)*
     
