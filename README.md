@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reality doesn’t always give us the life that we desire, but we can always find what we desire between the pages of books.” - Adelise M. Cullens
+“Tell me I didn't imagine it, Leo. Tell me that even though our bodies were in seperate states, our star selves shared an enchanted place. Tell me that right around noon today (eastern time) you had the strangest sensation: a tiny chill on your shoulder...a flutter in the heart...a shadow of strawberry-banana crossing your tongue...tell me you whispered my name.” - Jerry Spinelli
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki II
+  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars II</h4>
+<h4>🌿 <u>English Title:</u> Hanasaku Iroha: Blossoms for Tomorrow</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/61109.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1491/117229.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Seikai no Senki II](https://myanimelist.net/anime/397/Seikai_no_Senki_II)*
+🍂 *More information: [Hanasaku Iroha](https://myanimelist.net/anime/9289/Hanasaku_Iroha)*
     
