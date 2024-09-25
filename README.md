@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you know haw a book is going to end, would you read it in the first place?" Kit asked herself later, as she stood in the bathroom, an electric toothbrush winding its way around her mouth. "Do you stop reading a book because you don't want to watch the characters you like turn out to be unlikable, or the ones with which you identify denied the happy ending you believe they deserve?” - Sue Halpern
+“Reality doesn’t always give us the life that we desire, but we can always find what we desire between the pages of books.” - Adelise M. Cullens
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushishi
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki II
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushi-Shi</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars II</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/73862.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/61109.jpg />
 
-<h4>🌱 Score: 8.65/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mushishi](https://myanimelist.net/anime/457/Mushishi)*
+🍂 *More information: [Seikai no Senki II](https://myanimelist.net/anime/397/Seikai_no_Senki_II)*
     
