@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Read him slowly, dear girl, you must read Kipling slowly. Watch carefully where the commas fall so you can discover the natural pauses. He is a writer who used pen and ink. He looked up from the page a lot, I believe, stared through his window and listened to birds, as most writers who are alone do. Some do not know the names of birds, though he did. Your eye is too quick and North American. Think about the speed of his pen. What an appalling, barnacled old first paragraph it is otherwise.” - Michael Ondaatje
+“Libraries will get you through times of no money better than money will get you through times of no libraries.” - Anne Herbert
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shixiong A Shixiong
+  <strong>🥭 <u>Title:</u></strong> Magic Kaito
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Senior Brother Is Too Steady</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1209/132496.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/46095.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shixiong A Shixiong](https://myanimelist.net/anime/54123/Shixiong_A_Shixiong)*
+🍂 *More information: [Magic Kaito](https://myanimelist.net/anime/8310/Magic_Kaito)*
     
