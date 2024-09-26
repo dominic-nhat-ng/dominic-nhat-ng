@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Libraries will get you through times of no money better than money will get you through times of no libraries.” - Anne Herbert
+“Perhaps they were looking for passion; perhaps they delved into this book as into a mysterious parcel - a gift box at the bottom of which, hidden in layers of rustling tissue paper, lay something they'd always longed for but couldn't ever grasp.” - Margaret Atwood
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Magic Kaito
+  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Tiger & Bunny</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/46095.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/29466.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Magic Kaito](https://myanimelist.net/anime/8310/Magic_Kaito)*
+🍂 *More information: [Tiger & Bunny](https://myanimelist.net/anime/9941/Tiger___Bunny)*
     
