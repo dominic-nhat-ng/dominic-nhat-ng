@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Teddy bears are best because they understand it's nice to be alone.” - Sloane Crosley
+“Have you ever looked at, say, a picture or a great building or read a paragraph in a book and felt the world suddenly expand and, in the same instant, contract and harden into a kernel of perfect purity? Do you know what I mean? Everything suddenly fits, everything's in its place.” - Carol Shields
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tada-kun wa Koi wo Shinai
+  <strong>🥭 <u>Title:</u></strong> Shixiong A Shixiong
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tada Never Falls in Love</h4>
+<h4>🌿 <u>English Title:</u> My Senior Brother Is Too Steady</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1446/91841.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1209/132496.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Tada-kun wa Koi wo Shinai](https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai)*
+🍂 *More information: [Shixiong A Shixiong](https://myanimelist.net/anime/54123/Shixiong_A_Shixiong)*
     
