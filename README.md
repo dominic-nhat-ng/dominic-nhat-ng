@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Perhaps they were looking for passion; perhaps they delved into this book as into a mysterious parcel - a gift box at the bottom of which, hidden in layers of rustling tissue paper, lay something they'd always longed for but couldn't ever grasp.” - Margaret Atwood
+“I hate most people. And I don’t want to, it’s an awful way to be. But the human race gives me no comfort. I find myself turning to books and films for comfort still. It’s repulsive, because one’s life consists of people, not things.” - Morrissey
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny
+  <strong>🥭 <u>Title:</u></strong> Jujutsu Kaisen Official PVs
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tiger & Bunny</h4>
+<h4>🌿 <u>English Title:</u> Jujutsu Kaisen Official PVs</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/29466.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1792/96959.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: PV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Comedy, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Tiger & Bunny](https://myanimelist.net/anime/9941/Tiger___Bunny)*
+🍂 *More information: [Jujutsu Kaisen Official PVs](https://myanimelist.net/anime/38777/Jujutsu_Kaisen_Official_PVs)*
     
