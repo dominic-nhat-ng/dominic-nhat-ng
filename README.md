@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I hate most people. And I don’t want to, it’s an awful way to be. But the human race gives me no comfort. I find myself turning to books and films for comfort still. It’s repulsive, because one’s life consists of people, not things.” - Morrissey
+“Teddy bears are best because they understand it's nice to be alone.” - Sloane Crosley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jujutsu Kaisen Official PVs
+  <strong>🥭 <u>Title:</u></strong> Tada-kun wa Koi wo Shinai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jujutsu Kaisen Official PVs</h4>
+<h4>🌿 <u>English Title:</u> Tada Never Falls in Love</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1792/96959.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1446/91841.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jujutsu Kaisen Official PVs](https://myanimelist.net/anime/38777/Jujutsu_Kaisen_Official_PVs)*
+🍂 *More information: [Tada-kun wa Koi wo Shinai](https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai)*
     
