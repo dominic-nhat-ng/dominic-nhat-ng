@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Have you ever looked at, say, a picture or a great building or read a paragraph in a book and felt the world suddenly expand and, in the same instant, contract and harden into a kernel of perfect purity? Do you know what I mean? Everything suddenly fits, everything's in its place.” - Carol Shields
+“People who say literature doesn't matter, there are three books from the Middle East that are still shaping the world many centuries later.” - Fuad Alakbarov
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shixiong A Shixiong
+  <strong>🥭 <u>Title:</u></strong> Little Busters! Refrain
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Senior Brother Is Too Steady</h4>
+<h4>🌿 <u>English Title:</u> Little Busters! ~Refrain~</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1209/132496.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/55049.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance, Supernatural</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Shixiong A Shixiong](https://myanimelist.net/anime/54123/Shixiong_A_Shixiong)*
+🍂 *More information: [Little Busters! Refrain](https://myanimelist.net/anime/18195/Little_Busters_Refrain)*
     
