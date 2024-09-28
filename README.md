@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“People who say literature doesn't matter, there are three books from the Middle East that are still shaping the world many centuries later.” - Fuad Alakbarov
+“It would be unfair to say that I prefer the back of a book to its contents, but it is true that the sight of a lot of books gives me the hope that I may some day read them, which sometimes develops into the belief that I have read them.” - Kenneth Clark
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Little Busters! Refrain
+  <strong>🥭 <u>Title:</u></strong> Jin-Rou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Little Busters! ~Refrain~</h4>
+<h4>🌿 <u>English Title:</u> Jin-Roh: The Wolf Brigade</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/55049.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1323/103343.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Little Busters! Refrain](https://myanimelist.net/anime/18195/Little_Busters_Refrain)*
+🍂 *More information: [Jin-Rou](https://myanimelist.net/anime/570/Jin-Rou)*
     
