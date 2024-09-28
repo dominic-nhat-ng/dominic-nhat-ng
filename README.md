@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It would be unfair to say that I prefer the back of a book to its contents, but it is true that the sight of a lot of books gives me the hope that I may some day read them, which sometimes develops into the belief that I have read them.” - Kenneth Clark
+“I am a machine condemned to devour books.” - Karl Marx
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jin-Rou
+  <strong>🥭 <u>Title:</u></strong> Basilisk: Kouga Ninpou Chou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jin-Roh: The Wolf Brigade</h4>
+<h4>🌿 <u>English Title:</u> Basilisk</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1323/103343.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1103/133549.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Drama, Romance, Suspense</h4>
+<h4>🌵 Genres: Action, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Jin-Rou](https://myanimelist.net/anime/570/Jin-Rou)*
+🍂 *More information: [Basilisk: Kouga Ninpou Chou](https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou)*
     
