@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I am a machine condemned to devour books.” - Karl Marx
+“من هرگز در حسرت بال پرندگان نخواهم بود. جذبه های جانم، از کتابی به کتاب دیگر و از صفحه ای به صفحه ی دیگر مرا به جاهای بسیار دورتر می برند.” - Johann Wolfgang von Goethe
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Basilisk: Kouga Ninpou Chou
+  <strong>🥭 <u>Title:</u></strong> Da Wang Rao Ming
 </h4>
 
-<h4>🌿 <u>English Title:</u> Basilisk</h4>
+<h4>🌿 <u>English Title:</u> Spare Me, Great Lord!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1103/133549.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1442/116999.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Basilisk: Kouga Ninpou Chou](https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou)*
+🍂 *More information: [Da Wang Rao Ming](https://myanimelist.net/anime/44406/Da_Wang_Rao_Ming)*
     
