@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Librarians are your very best friend. And don't ever think otherwise.” - Rett MacPherson
+“Every book in a bookstore is a fresh beginning. Every book is the next iteration of a very old story. Every bookstore, therefore, is like a safe-deposit box for civilization.” - Liam Callanan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 91 Days
+  <strong>🥭 <u>Title:</u></strong> Hachimitsu to Clover
 </h4>
 
-<h4>🌿 <u>English Title:</u> 91 Days</h4>
+<h4>🌿 <u>English Title:</u> Honey and Clover</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/80515.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1301/133577.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [91 Days](https://myanimelist.net/anime/32998/91_Days)*
+🍂 *More information: [Hachimitsu to Clover](https://myanimelist.net/anime/16/Hachimitsu_to_Clover)*
     
