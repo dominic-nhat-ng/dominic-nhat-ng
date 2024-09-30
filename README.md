@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“book collecting is only meaningful if it’s personal,” Oscar clarified. “If it’s just another way of accumulating wealth instead of for the books themselves it isn’t right. Collectors are trying to protect themselves. To separate themselves. It’s a hierarchy.” - Sheridan Hay
+“Great writers, I discovered, were not to be bowed down before and worshipped, but embraced and befriended. Their names resounded through history not because they had massive brows and thought deep incomprehensible thoughts, but because they opened windows in the mind, they put their arms round you and showed you things you always knew but never dared to believe. Even if their names were terrifyingly foreign and intellectual sounding, Dostoevsky, Baudelaire or Cavafy, they turned out to be charming and wonderful and quite unalarming after all.” - Stephen Fry
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!
+  <strong>🥭 <u>Title:</u></strong> Densetsu no Yuusha no Densetsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!</h4>
+<h4>🌿 <u>English Title:</u> The Legend of the Legendary Heroes</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1115/98517.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/73651.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!](https://myanimelist.net/anime/34626/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2__Kono_Subarashii_Geijutsu_ni_Shukufuku_wo)*
+🍂 *More information: [Densetsu no Yuusha no Densetsu](https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu)*
     
