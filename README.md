@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Great writers, I discovered, were not to be bowed down before and worshipped, but embraced and befriended. Their names resounded through history not because they had massive brows and thought deep incomprehensible thoughts, but because they opened windows in the mind, they put their arms round you and showed you things you always knew but never dared to believe. Even if their names were terrifyingly foreign and intellectual sounding, Dostoevsky, Baudelaire or Cavafy, they turned out to be charming and wonderful and quite unalarming after all.” - Stephen Fry
+“October knew, of course, that the action of turning a page, of ending a chapter or of shutting a book, did not end a tale. Having admitted that, he would also avow that happy endings were never difficult to find: "It is simply a matter," he explained to April, "of finding a sunny place in a garden, where the light is golden and the grass is soft; somewhere to rest, to stop reading, and to be content.” - Neil Gaiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Densetsu no Yuusha no Densetsu
+  <strong>🥭 <u>Title:</u></strong> Heike Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Legend of the Legendary Heroes</h4>
+<h4>🌿 <u>English Title:</u> The Heike Story</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/73651.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1282/119979.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Densetsu no Yuusha no Densetsu](https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu)*
+🍂 *More information: [Heike Monogatari](https://myanimelist.net/anime/49738/Heike_Monogatari)*
     
