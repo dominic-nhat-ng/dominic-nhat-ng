@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If one million of you give assent to the one thousand who participate in the murder of a child, then one million of you are a million times guilty.” - Compton Gage
+“She talked like a woman who knew more books than people.” - Melissa Albert
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Danshi Koukousei no Nichijou Specials
+  <strong>🥭 <u>Title:</u></strong> Slam Dunk
 </h4>
 
-<h4>🌿 <u>English Title:</u> Daily Lives of High School Boys Specials</h4>
+<h4>🌿 <u>English Title:</u> Slam Dunk</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/38527.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/86890.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Danshi Koukousei no Nichijou Specials](https://myanimelist.net/anime/12893/Danshi_Koukousei_no_Nichijou_Specials)*
+🍂 *More information: [Slam Dunk](https://myanimelist.net/anime/170/Slam_Dunk)*
     
