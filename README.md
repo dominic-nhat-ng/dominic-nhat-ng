@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Imagination is what you do with your inspiration.” - Violet Haberdasher
+“Read not to contradict and confute, nor to believe and take for granted ...but to weigh and consider.” - Francis Bacon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Eternal Movie 1
+  <strong>🥭 <u>Title:</u></strong> Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Eternal The Movie Part 1</h4>
+<h4>🌿 <u>English Title:</u> As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1312/110461.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1280/143705.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Fantasy, Romance</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon Eternal Movie 1](https://myanimelist.net/anime/40024/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_1)*
+🍂 *More information: [Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season](https://myanimelist.net/anime/59131/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_2nd_Season)*
     
