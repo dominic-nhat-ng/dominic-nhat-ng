@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book was like a drawer: one opened it and notions flew out.” - Sheridan Hay
+“Choose thy friends like thy books, few but choice” - James Howell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Eikoku Koi Monogatari Emma
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! (OVA)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Emma: A Victorian Romance</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/80117.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1618/102929.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Eikoku Koi Monogatari Emma](https://myanimelist.net/anime/345/Eikoku_Koi_Monogatari_Emma)*
+🍂 *More information: [Haikyuu!! (OVA)](https://myanimelist.net/anime/40372/Haikyuu_OVA)*
     
