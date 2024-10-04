@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Zealots in the Land of Israel shriek that we ought to do unto Germany as it has done to us-- that, just as Germany has issued a ban on Jewish books, so should we ban all German books, without recognizing or realizing that whoever deprives himself of intellectual discourse jeopardizes his own soul.” - S.Y. Agnon
+“If you can name five Kardashians but can't name five countries in Africa, it's time to turn off the TV and pick up a book.” - Fuad Alakbarov
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dragon Quest: Dai no Daibouken (TV)
+  <strong>🥭 <u>Title:</u></strong> Baka to Test to Shoukanjuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Baka & Test - Summon the Beasts</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1963/108416.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/50389.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1991</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 46</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dragon Quest: Dai no Daibouken (TV)](https://myanimelist.net/anime/2229/Dragon_Quest__Dai_no_Daibouken_TV)*
+🍂 *More information: [Baka to Test to Shoukanjuu](https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu)*
     
