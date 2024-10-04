@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you can name five Kardashians but can't name five countries in Africa, it's time to turn off the TV and pick up a book.” - Fuad Alakbarov
+“Of course. You get everything from books.” - Gregory Maguire
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Baka to Test to Shoukanjuu
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Dai 08 MS Shoutai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baka & Test - Summon the Beasts</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The 08th MS Team</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/50389.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/75618.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Baka to Test to Shoukanjuu](https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu)*
+🍂 *More information: [Kidou Senshi Gundam: Dai 08 MS Shoutai](https://myanimelist.net/anime/81/Kidou_Senshi_Gundam__Dai_08_MS_Shoutai)*
     
