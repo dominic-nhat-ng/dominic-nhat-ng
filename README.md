@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I can't stand snobs with impeccable taste. These people say: "I'd rather a good book than a shallow person". They could cry over the plight of a fictitious character but they shamelessly insult real people because real people are "shallow" and according to snobs these "shallow people" don't deserve to live.” - Bryanna Reid
+“Ali Baba protects the lovers! Gives them the luck of bandits, and no guilt, for love fills certain people and expands them beyond all laws; there is no time, no place for regrets, hesitations, cowardices. Love runs free and reckless, and all the gentle trickeries perpetrated to protect others from its burns-those who are not the lovers but who might be the victims of this love's expansion.” - Anaïs Nin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo
+  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 6th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Girl</h4>
+<h4>🌿 <u>English Title:</u> My Hero Academia Season 6</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/86907.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1483/126005.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Shoujo](https://myanimelist.net/anime/228/Jigoku_Shoujo)*
+🍂 *More information: [Boku no Hero Academia 6th Season](https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season)*
     
