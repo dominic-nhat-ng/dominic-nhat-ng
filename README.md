@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Ali Baba protects the lovers! Gives them the luck of bandits, and no guilt, for love fills certain people and expands them beyond all laws; there is no time, no place for regrets, hesitations, cowardices. Love runs free and reckless, and all the gentle trickeries perpetrated to protect others from its burns-those who are not the lovers but who might be the victims of this love's expansion.” - Anaïs Nin
+“The glory of a good tale is that it is limitless and fluid; a good tale belongs to each reader in its own particular way.” - Stephen King
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 6th Season
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 2: Shousha to Haisha
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia Season 6</h4>
+<h4>🌿 <u>English Title:</u> Haikyuu!! the Movie: The Winner and the Loser</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1483/126005.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/74813.jpg />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Boku no Hero Academia 6th Season](https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season)*
+🍂 *More information: [Haikyuu!! Movie 2: Shousha to Haisha](https://myanimelist.net/anime/30364/Haikyuu_Movie_2__Shousha_to_Haisha)*
     
