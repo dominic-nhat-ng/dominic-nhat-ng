@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Of course. You get everything from books.” - Gregory Maguire
+“I can't stand snobs with impeccable taste. These people say: "I'd rather a good book than a shallow person". They could cry over the plight of a fictitious character but they shamelessly insult real people because real people are "shallow" and according to snobs these "shallow people" don't deserve to live.” - Bryanna Reid
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Dai 08 MS Shoutai
+  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The 08th MS Team</h4>
+<h4>🌿 <u>English Title:</u> Hell Girl</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/75618.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/86907.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: Dai 08 MS Shoutai](https://myanimelist.net/anime/81/Kidou_Senshi_Gundam__Dai_08_MS_Shoutai)*
+🍂 *More information: [Jigoku Shoujo](https://myanimelist.net/anime/228/Jigoku_Shoujo)*
     
