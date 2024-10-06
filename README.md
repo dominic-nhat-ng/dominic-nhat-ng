@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“That afternoon he told me that the difference between human beings and animals was that human beings were able to dream while awake. He said the purpose of books was to permit us to exercise that faculty. Art, he said, was a controlled madness… He said books weren't made of themes, which you could write essays about, but of images that inserted themselves into your brain and replaced what you were seeing with your eyes.” - Steven Millhauser
+“I've decided that it's possible to love someone for entirely selfless reasons, for all of their flaws and weaknesses, and still not succeed in having them love you back. It's sad, perhaps, but not tragic, unless you dwell forever in the pursuit of their elusive affections.” - Cammie McGovern
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Log Horizon 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Pokemon: Mezase Pokemon Master
 </h4>
 
-<h4>🌿 <u>English Title:</u> Log Horizon 2</h4>
+<h4>🌿 <u>English Title:</u> Pokémon: To Be a Pokémon Master</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/68097.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1246/134209.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Log Horizon 2nd Season](https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season)*
+🍂 *More information: [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874/Pokemon__Mezase_Pokemon_Master)*
     
