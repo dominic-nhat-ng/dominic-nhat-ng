@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The glory of a good tale is that it is limitless and fluid; a good tale belongs to each reader in its own particular way.” - Stephen King
+“A book was like a drawer: one opened it and notions flew out.” - Sheridan Hay
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 2: Shousha to Haisha
+  <strong>🥭 <u>Title:</u></strong> Overlord Movie 1: Fushisha no Ou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyuu!! the Movie: The Winner and the Loser</h4>
+<h4>🌿 <u>English Title:</u> Overlord: The Undead King</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/74813.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/87759.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!! Movie 2: Shousha to Haisha](https://myanimelist.net/anime/30364/Haikyuu_Movie_2__Shousha_to_Haisha)*
+🍂 *More information: [Overlord Movie 1: Fushisha no Ou](https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou)*
     
