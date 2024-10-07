@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I've decided that it's possible to love someone for entirely selfless reasons, for all of their flaws and weaknesses, and still not succeed in having them love you back. It's sad, perhaps, but not tragic, unless you dwell forever in the pursuit of their elusive affections.” - Cammie McGovern
+“I just got out of the hospital. I was in a speed reading accident. I hit a book mark and flew across the room.” - Steven Wright
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Pokemon: Mezase Pokemon Master
+  <strong>🥭 <u>Title:</u></strong> COLORs
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pokémon: To Be a Pokémon Master</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1246/134209.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1241/132103.jpg />
 
 <h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874/Pokemon__Mezase_Pokemon_Master)*
+🍂 *More information: [COLORs](https://myanimelist.net/anime/54005/COLORs)*
     
