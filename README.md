@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I just got out of the hospital. I was in a speed reading accident. I hit a book mark and flew across the room.” - Steven Wright
+“The spirits of the brain are directly connected to the testicles. This is why men who weary their imagination in books are less suitable for procreative functions...” - Louis de la Forge
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> COLORs
+  <strong>🥭 <u>Title:</u></strong> Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Beyond the Boundary: I'll Be Here - Future</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1241/132103.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/72614.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Romance, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [COLORs](https://myanimelist.net/anime/54005/COLORs)*
+🍂 *More information: [Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen](https://myanimelist.net/anime/28675/Kyoukai_no_Kanata_Movie_2__Ill_Be_Here_-_Mirai-hen)*
     
