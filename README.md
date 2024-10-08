@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“With slouch and swing around the ring - Oscar Wilde
+“I think men that read books are the most attractive kind.” - Rowan Coleman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi no Suizou wo Tabetai
+  <strong>🥭 <u>Title:</u></strong> School Rumble: Ichi Gakki Hoshuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> I Want To Eat Your Pancreas</h4>
+<h4>🌿 <u>English Title:</u> School Rumble: Extra Class</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1768/93291.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75489.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimi no Suizou wo Tabetai](https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai)*
+🍂 *More information: [School Rumble: Ichi Gakki Hoshuu](https://myanimelist.net/anime/517/School_Rumble__Ichi_Gakki_Hoshuu)*
     
