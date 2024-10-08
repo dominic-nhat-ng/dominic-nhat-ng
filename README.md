@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I think men that read books are the most attractive kind.” - Rowan Coleman
+“Dr. Seuss' The Cat in the Hat is a picture book meritable of every child reader, whether he or she is just a beginner, or a bit more advanced. ("Reviews by Cat Ellington: The Complete Anthology, Vol. 1," 2018)” - Cat Ellington
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> School Rumble: Ichi Gakki Hoshuu
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! Movie: Episode of Roselia - I: Yakusoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> School Rumble: Extra Class</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75489.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1867/119189.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [School Rumble: Ichi Gakki Hoshuu](https://myanimelist.net/anime/517/School_Rumble__Ichi_Gakki_Hoshuu)*
+🍂 *More information: [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780/BanG_Dream_Movie__Episode_of_Roselia_-_I__Yakusoku)*
     
