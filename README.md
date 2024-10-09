@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“They were waiting for me in the books and in stories, after all, hiding inside the twenty six characters and a handful of punctuation marks. These letters and words, when placed in the right order, would conjure all manner of exotic beasts and people from the shadows, would reveal the motives and minds of insects and of cats. They were spells, spelled with words to make worlds, waiting for me, in the pages of books.” - Neil Gaiman
+“I'm going to find whoever is responsible for me sleeping out side with outside without pillows and kick them in the shins!-Enna” - Shannon Hale
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 1: Owari to Hajimari
+  <strong>🥭 <u>Title:</u></strong> Patapata Hikousen no Bouken
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!! the Movie: The End and the Beginning</h4>
+<h4>🌿 <u>English Title:</u> Secret of Cerulean Sand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/76011.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1340/110804.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!! Movie 1: Owari to Hajimari](https://myanimelist.net/anime/29755/Haikyuu_Movie_1__Owari_to_Hajimari)*
+🍂 *More information: [Patapata Hikousen no Bouken](https://myanimelist.net/anime/708/Patapata_Hikousen_no_Bouken)*
     
