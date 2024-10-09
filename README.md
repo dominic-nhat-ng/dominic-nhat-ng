@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I'm going to find whoever is responsible for me sleeping out side with outside without pillows and kick them in the shins!-Enna” - Shannon Hale
+“The books of laws which one notices, one buys, and one reads, but in fact, no one sees, that anyone applies anywhere in the world with its real concept.” - Ehsan Sehgal
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Patapata Hikousen no Bouken
+  <strong>🥭 <u>Title:</u></strong> High Score Girl
 </h4>
 
-<h4>🌿 <u>English Title:</u> Secret of Cerulean Sand</h4>
+<h4>🌿 <u>English Title:</u> Hi Score Girl</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1340/110804.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1668/91345.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Patapata Hikousen no Bouken](https://myanimelist.net/anime/708/Patapata_Hikousen_no_Bouken)*
+🍂 *More information: [High Score Girl](https://myanimelist.net/anime/21877/High_Score_Girl)*
     
