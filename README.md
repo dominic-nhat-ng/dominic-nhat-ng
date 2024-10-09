@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Dr. Seuss' The Cat in the Hat is a picture book meritable of every child reader, whether he or she is just a beginner, or a bit more advanced. ("Reviews by Cat Ellington: The Complete Anthology, Vol. 1," 2018)” - Cat Ellington
+“They were waiting for me in the books and in stories, after all, hiding inside the twenty six characters and a handful of punctuation marks. These letters and words, when placed in the right order, would conjure all manner of exotic beasts and people from the shadows, would reveal the motives and minds of insects and of cats. They were spells, spelled with words to make worlds, waiting for me, in the pages of books.” - Neil Gaiman
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! Movie: Episode of Roselia - I: Yakusoku
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 1: Owari to Hajimari
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!! the Movie: The End and the Beginning</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1867/119189.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/76011.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 8.04/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780/BanG_Dream_Movie__Episode_of_Roselia_-_I__Yakusoku)*
+🍂 *More information: [Haikyuu!! Movie 1: Owari to Hajimari](https://myanimelist.net/anime/29755/Haikyuu_Movie_1__Owari_to_Hajimari)*
     
