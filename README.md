@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I live more than a thousand lives... through the eyes of the characters I read in books.” - C.M. Okonkwo
+“[Fiction and poetry] are medicines, they're doses, and they heal the rupture that reality makes on the imagination.” - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hellsing: Digest for Freaks
+  <strong>🥭 <u>Title:</u></strong> Evangelion Movie 2: Ha
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Evangelion: 2.0 You Can (Not) Advance</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/26935.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/74983.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.3/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Horror, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Hellsing: Digest for Freaks](https://myanimelist.net/anime/6904/Hellsing__Digest_for_Freaks)*
+🍂 *More information: [Evangelion Movie 2: Ha](https://myanimelist.net/anime/3784/Evangelion_Movie_2__Ha)*
     
