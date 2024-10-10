@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[Fiction and poetry] are medicines, they're doses, and they heal the rupture that reality makes on the imagination.” - Jeanette Winterson
+“I’ve always loved the night, when everyone else is asleep and the world is all mine. It’s quiet and dark—the perfect time for creativity.” - Jonathan Harnisch
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Evangelion Movie 2: Ha
+  <strong>🥭 <u>Title:</u></strong> Benghuai: Xing Qiong Tiedao - Gelamo de Yujin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Evangelion: 2.0 You Can (Not) Advance</h4>
+<h4>🌿 <u>English Title:</u> Honkai: Star Rail - The Embers of Glamoth</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/74983.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1367/143582.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Evangelion Movie 2: Ha](https://myanimelist.net/anime/3784/Evangelion_Movie_2__Ha)*
+🍂 *More information: [Benghuai: Xing Qiong Tiedao - Gelamo de Yujin](https://myanimelist.net/anime/59077/Benghuai__Xing_Qiong_Tiedao_-_Gelamo_de_Yujin)*
     
