@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The books of laws which one notices, one buys, and one reads, but in fact, no one sees, that anyone applies anywhere in the world with its real concept.” - Ehsan Sehgal
+“I live more than a thousand lives... through the eyes of the characters I read in books.” - C.M. Okonkwo
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> High Score Girl
+  <strong>🥭 <u>Title:</u></strong> Hellsing: Digest for Freaks
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hi Score Girl</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1668/91345.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/26935.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Horror, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [High Score Girl](https://myanimelist.net/anime/21877/High_Score_Girl)*
+🍂 *More information: [Hellsing: Digest for Freaks](https://myanimelist.net/anime/6904/Hellsing__Digest_for_Freaks)*
     
