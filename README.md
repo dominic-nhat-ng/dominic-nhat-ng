@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I think it is good that books still exist, but they do make me sleepy.” - Frank Zappa
+“The books of laws which one notices, one buys, and one reads, but in fact, no one sees, that anyone applies anywhere in the world with its real concept.” - Ehsan Sehgal
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
+  <strong>🥭 <u>Title:</u></strong> Major S1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/73973.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
+🍂 *More information: [Major S1](https://myanimelist.net/anime/627/Major_S1)*
     
