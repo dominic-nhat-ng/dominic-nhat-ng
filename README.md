@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Accept criticism. If you do not offer your work for criticism and accept that criticism, meaning give it serious thought and attention, then you will never improve.” - Theodora Goss
+“There were adventure stories supplied with cloths for mopping your brow, thrillers containing pressed leaves of soothing valerian to be sniffed when the suspense became too great, and books with stout locks sealed by the Atlantean censorship authorities ("Sale permitted, reading prohibited!"). One shop sold nothing but 'half' works that broke off in the middle because their author had died while writing them; another specialised in novels whose protagonists were insects. I also saw a Wolperting shop that sold nothing but books on chess and another patronised exclusively by dwarfs with blond beards, all of whom wore eye-shades.” - Walter Moers
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Kokoro no Yabai Yatsu: Twi-Yaba
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium: Ensemble Contest-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Dangers in My Heart: Twi-Yaba</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium: Ensemble Contest Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1869/140298.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1952/135162.jpg />
 
 <h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Boku no Kokoro no Yabai Yatsu: Twi-Yaba](https://myanimelist.net/anime/56948/Boku_no_Kokoro_no_Yabai_Yatsu__Twi-Yaba)*
+🍂 *More information: [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995/Hibike_Euphonium__Ensemble_Contest-hen)*
     
