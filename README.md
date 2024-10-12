@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Ordinarily my mom just sunk deeper into her corner of the couch and ignored it. She had succesfully ignored a quarter of a century of entropy and decay, had sat peacefully crunching popcorn and drinking soda while the house fell down around us. If I had to guess the number of books she read during that time, I would place the number at somewhere in the neighborhood of forty thousand.” - Haven Kimmel
+“Accept criticism. If you do not offer your work for criticism and accept that criticism, meaning give it serious thought and attention, then you will never improve.” - Theodora Goss
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> AKB0048: Next Stage
+  <strong>🥭 <u>Title:</u></strong> Boku no Kokoro no Yabai Yatsu: Twi-Yaba
 </h4>
 
-<h4>🌿 <u>English Title:</u> AKB0048: Next Stage</h4>
+<h4>🌿 <u>English Title:</u> The Dangers in My Heart: Twi-Yaba</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/44450.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1869/140298.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [AKB0048: Next Stage](https://myanimelist.net/anime/14941/AKB0048__Next_Stage)*
+🍂 *More information: [Boku no Kokoro no Yabai Yatsu: Twi-Yaba](https://myanimelist.net/anime/56948/Boku_no_Kokoro_no_Yabai_Yatsu__Twi-Yaba)*
     
