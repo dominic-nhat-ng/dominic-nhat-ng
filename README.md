@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There were adventure stories supplied with cloths for mopping your brow, thrillers containing pressed leaves of soothing valerian to be sniffed when the suspense became too great, and books with stout locks sealed by the Atlantean censorship authorities ("Sale permitted, reading prohibited!"). One shop sold nothing but 'half' works that broke off in the middle because their author had died while writing them; another specialised in novels whose protagonists were insects. I also saw a Wolperting shop that sold nothing but books on chess and another patronised exclusively by dwarfs with blond beards, all of whom wore eye-shades.” - Walter Moers
+“The really influential book is not that which converts ten millions of casual readers, but rather that which converts the very few who, at any given moment, succeed in seizing power.” - Aldous Huxley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium: Ensemble Contest-hen
+  <strong>🥭 <u>Title:</u></strong> Interstella5555: The 5tory of The 5ecret 5tar 5ystem
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium: Ensemble Contest Arc</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1952/135162.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/82786.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 8.13/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995/Hibike_Euphonium__Ensemble_Contest-hen)*
+🍂 *More information: [Interstella5555: The 5tory of The 5ecret 5tar 5ystem](https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem)*
     
