@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The really influential book is not that which converts ten millions of casual readers, but rather that which converts the very few who, at any given moment, succeed in seizing power.” - Aldous Huxley
+“The books brought brilliance to my life, and they brought an understanding: Life is a story. Everything that has happened and will happen to me is all part of the story of this enchanted place - all the dreams and visions and understandings that come to me in my dungeon cell. The books helped me see the truth is not in the touch of the stone but in what the stone tells you.” - Rene Denfeld
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Interstella5555: The 5tory of The 5ecret 5tar 5ystem
+  <strong>🥭 <u>Title:</u></strong> Tokyo Godfathers
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Tokyo Godfathers</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/82786.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1480/132791.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 8.28/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Interstella5555: The 5tory of The 5ecret 5tar 5ystem](https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem)*
+🍂 *More information: [Tokyo Godfathers](https://myanimelist.net/anime/759/Tokyo_Godfathers)*
     
