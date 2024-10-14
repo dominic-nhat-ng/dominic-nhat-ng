@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are books so alive that you're always afraid that while you weren't reading, the book has gone and changed, has shifted like a river; while you went on living, it went on living too, and like a river moved on and moved away. No one has stepped twice into the same river. But did anyone ever step twice into the same book?” - Marina Tsvetaeva
+“I think of my pile of old paperbacks, their pages gone wobbly, like they'd once belonged to the sea.” - Kazuo Ishiguro
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou
+  <strong>🥭 <u>Title:</u></strong> Hello! Lady Lynn
 </h4>
 
-<h4>🌿 <u>English Title:</u> The King's Avatar</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1534/104725.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/16819.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 1988</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 36</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Quanzhi Gaoshou](https://myanimelist.net/anime/33926/Quanzhi_Gaoshou)*
+🍂 *More information: [Hello! Lady Lynn](https://myanimelist.net/anime/2405/Hello_Lady_Lynn)*
     
