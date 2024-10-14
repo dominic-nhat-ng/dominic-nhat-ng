@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I think of my pile of old paperbacks, their pages gone wobbly, like they'd once belonged to the sea.” - Kazuo Ishiguro
+“The world must be all fucked up," he said then, "when men travel first class and literature goes as freight.” - Gabriel García Márquez
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hello! Lady Lynn
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 13: Shikkoku no Chaser
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 13: The Raven Chaser</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/16819.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/22558.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1988</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Mystery</h4>
 
-<h4>🥑 Episodes: 36</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hello! Lady Lynn](https://myanimelist.net/anime/2405/Hello_Lady_Lynn)*
+🍂 *More information: [Meitantei Conan Movie 13: Shikkoku no Chaser](https://myanimelist.net/anime/5460/Meitantei_Conan_Movie_13__Shikkoku_no_Chaser)*
     
