@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The world was hers for the reading.” - Betty Smith
+“But once an original book has been written-and no more than one or two appear in a century-men of letters imitate it, in other words, they copy it so that hundreds of thousands of books are published on exactly the same theme, with slightly different titles and modified phraseology. This should be able to be achieved by apes, who are essentially imitators, provided, of course, that they are able to make use of language.” - Pierre Boulle
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 18: Ijigen no Sniper
+  <strong>🥭 <u>Title:</u></strong> Kimi ni Todoke 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 18: The Sniper from Another Dimension</h4>
+<h4>🌿 <u>English Title:</u> Kimi ni Todoke: From Me to You Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/60289.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1311/121574.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Mystery</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 18: Ijigen no Sniper](https://myanimelist.net/anime/21419/Meitantei_Conan_Movie_18__Ijigen_no_Sniper)*
+🍂 *More information: [Kimi ni Todoke 2nd Season](https://myanimelist.net/anime/9656/Kimi_ni_Todoke_2nd_Season)*
     
