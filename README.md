@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading stimulates the imagination and a good imagination can change the world in the most splendid of ways.” - Meredith Wood
+“He kissed me for a long moment, holding my shoulders, perhaps to keep me from pressing my whole body against his. Then he tried to lift my bag. - Laura Whitcomb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Grisaia no Meikyuu: Caprice no Mayu 0
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Labyrinth of Grisaia: The Cocoon of Caprice 0</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1278/112633.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1985/104767.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Grisaia no Meikyuu: Caprice no Mayu 0](https://myanimelist.net/anime/29093/Grisaia_no_Meikyuu__Caprice_no_Mayu_0)*
+🍂 *More information: [BanG Dream! 3rd Season](https://myanimelist.net/anime/37870/BanG_Dream_3rd_Season)*
     
