@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He kissed me for a long moment, holding my shoulders, perhaps to keep me from pressing my whole body against his. Then he tried to lift my bag. - Laura Whitcomb
+“Ali Baba protects the lovers! Gives them the luck of bandits, and no guilt, for love fills certain people and expands them beyond all laws; there is no time, no place for regrets, hesitations, cowardices. Love runs free and reckless, and all the gentle trickeries perpetrated to protect others from its burns-those who are not the lovers but who might be the victims of this love's expansion.” - Anaïs Nin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Basilisk: Kouga Ninpou Chou
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Basilisk</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1985/104767.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1103/133549.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! 3rd Season](https://myanimelist.net/anime/37870/BanG_Dream_3rd_Season)*
+🍂 *More information: [Basilisk: Kouga Ninpou Chou](https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou)*
     
