@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Ali Baba protects the lovers! Gives them the luck of bandits, and no guilt, for love fills certain people and expands them beyond all laws; there is no time, no place for regrets, hesitations, cowardices. Love runs free and reckless, and all the gentle trickeries perpetrated to protect others from its burns-those who are not the lovers but who might be the victims of this love's expansion.” - Anaïs Nin
+“Me cae bien la gente que lee libros, y no sólo porque yo solía escribirlos. Los lectores de libros están tan dispuestos como cualquiera a iniciar una conversación con el tema del tiempo, pero son capaces de pasar de ahí.” - Stephen King
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Basilisk: Kouga Ninpou Chou
+  <strong>🥭 <u>Title:</u></strong> Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 </h4>
 
-<h4>🌿 <u>English Title:</u> Basilisk</h4>
+<h4>🌿 <u>English Title:</u> GATE</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1103/133549.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/76222.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Basilisk: Kouga Ninpou Chou](https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou)*
+🍂 *More information: [Gate: Jieitai Kanochi nite, Kaku Tatakaeri](https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri)*
     
