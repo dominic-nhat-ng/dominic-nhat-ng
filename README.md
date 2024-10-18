@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Except a living man there is nothing more wonderful than a book! A message from the dead - from human souls we never saw, who lived, perhaps, thousands of miles away. And yet these, in those little sheets of paper, speak to us, arouse us, terrify us, comfort us, open their hearts to us as brothers.” - Charles Kingsley
+“Please, no matter how we advance technologically, please don't abandon the book. There is nothing in our material world more beautiful than the book." - Patti Smith
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
+  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken: Raoh Gaiden Gekitou-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
+<h4>🌿 <u>English Title:</u> Fist of the North Star: Raoh Side Story Fierce Fighting Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/29678.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Romance</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
+🍂 *More information: [Hokuto no Ken: Raoh Gaiden Gekitou-hen](https://myanimelist.net/anime/2174/Hokuto_no_Ken__Raoh_Gaiden_Gekitou-hen)*
     
