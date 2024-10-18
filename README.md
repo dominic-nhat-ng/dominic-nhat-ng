@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read.” - George R.R. Martin
+“There're twenty-four hours in every day. Isn't there enough reality in that so we can put a small portion of time aside for wishing?” - Nora Roberts
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 5-toubun no Hanayome∽
+  <strong>🥭 <u>Title:</u></strong> Kaiba
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Quintessential Quintuplets~</h4>
+<h4>🌿 <u>English Title:</u> Kaiba</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1567/135752.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/13193.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Adventure, Avant Garde, Award Winning, Mystery, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [5-toubun no Hanayome∽](https://myanimelist.net/anime/54915/5-toubun_no_Hanayome∽)*
+🍂 *More information: [Kaiba](https://myanimelist.net/anime/3701/Kaiba)*
     
