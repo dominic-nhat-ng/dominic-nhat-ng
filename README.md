@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There're twenty-four hours in every day. Isn't there enough reality in that so we can put a small portion of time aside for wishing?” - Nora Roberts
+“Except a living man there is nothing more wonderful than a book! A message from the dead - from human souls we never saw, who lived, perhaps, thousands of miles away. And yet these, in those little sheets of paper, speak to us, arouse us, terrify us, comfort us, open their hearts to us as brothers.” - Charles Kingsley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaiba
+  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaiba</h4>
+<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/13193.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Avant Garde, Award Winning, Mystery, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaiba](https://myanimelist.net/anime/3701/Kaiba)*
+🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
     
