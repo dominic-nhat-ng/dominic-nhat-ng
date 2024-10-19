@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I have no feelings of guilt regarding the books I have not read and perhaps will never read; I know that my books have unlimited patience. They will wait for me till the end of my days.” - Alberto Manguel
+“I can talk to fish!" Angel said happily, water dripping off her long, skinny body. "Ask one over for dinner," Fang said, joining us.” - James Patterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahou Shoujo Lyrical Nanoha: Detonation
+  <strong>🥭 <u>Title:</u></strong> Hatsukoi Jikan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magical Girl Lyrical Nanoha: Detonation</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1084/93086.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1163/138201.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Mahou Shoujo Lyrical Nanoha: Detonation](https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation)*
+🍂 *More information: [Hatsukoi Jikan](https://myanimelist.net/anime/56511/Hatsukoi_Jikan)*
     
