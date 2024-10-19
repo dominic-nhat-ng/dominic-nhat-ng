@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Please, no matter how we advance technologically, please don't abandon the book. There is nothing in our material world more beautiful than the book." - Patti Smith
+“I have no feelings of guilt regarding the books I have not read and perhaps will never read; I know that my books have unlimited patience. They will wait for me till the end of my days.” - Alberto Manguel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken: Raoh Gaiden Gekitou-hen
+  <strong>🥭 <u>Title:</u></strong> Mahou Shoujo Lyrical Nanoha: Detonation
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fist of the North Star: Raoh Side Story Fierce Fighting Arc</h4>
+<h4>🌿 <u>English Title:</u> Magical Girl Lyrical Nanoha: Detonation</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/29678.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1084/93086.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Adventure, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hokuto no Ken: Raoh Gaiden Gekitou-hen](https://myanimelist.net/anime/2174/Hokuto_no_Ken__Raoh_Gaiden_Gekitou-hen)*
+🍂 *More information: [Mahou Shoujo Lyrical Nanoha: Detonation](https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation)*
     
