@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.” - Jane Austen
+“I was burning through books every day - stories about people and places I'd never heard of. They were perhaps the only thing that kept me from teetering into utter despair.” - Sarah J. Maas
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jormungand
+  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jormungand</h4>
+<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/73280.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jormungand](https://myanimelist.net/anime/12413/Jormungand)*
+🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
     
