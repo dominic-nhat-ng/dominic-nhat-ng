@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The novel as a form is usually seen to be moral if its readers consider freedom, individuality, democracy, privacy, social connection, tolerance and hope to be morally good, but it is not considered moral if the highest values of a society are adherence to rules and traditional mores, the maintenance of hierarchical relationships, and absolute ideas of right and wrong. Any society based on the latter will find novels inherently immoral and subversive.” - Jane Smiley
+“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.” - Jane Austen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nurarihyon no Mago OVA
+  <strong>🥭 <u>Title:</u></strong> Jormungand
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Jormungand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/44574.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/73280.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Nurarihyon no Mago OVA](https://myanimelist.net/anime/15959/Nurarihyon_no_Mago_OVA)*
+🍂 *More information: [Jormungand](https://myanimelist.net/anime/12413/Jormungand)*
     
