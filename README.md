@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“No "we" should be taken for granted when the subject is looking at other people's pain.” - Susan Sontag
+“Hit them with a book and suddenly, the whole world goes quiet. But there was so much chit chat before..... So, what happened? The truth usually silences lies.” - Niedria Dionne Kenny
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shokugeki no Souma: Ni no Sara
+  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: On Television
 </h4>
 
-<h4>🌿 <u>English Title:</u> Food Wars! The Second Plate</h4>
+<h4>🌿 <u>English Title:</u> Patlabor: The Mobile Police - The TV Series</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/79353.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1739/144310.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1989</h4>
 
-<h4>🌵 Genres: Gourmet, Ecchi</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 47</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shokugeki no Souma: Ni no Sara](https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara)*
+🍂 *More information: [Kidou Keisatsu Patlabor: On Television](https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television)*
     
