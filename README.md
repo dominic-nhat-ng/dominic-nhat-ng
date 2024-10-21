@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I was burning through books every day - stories about people and places I'd never heard of. They were perhaps the only thing that kept me from teetering into utter despair.” - Sarah J. Maas
+“No "we" should be taken for granted when the subject is looking at other people's pain.” - Susan Sontag
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
+  <strong>🥭 <u>Title:</u></strong> Shokugeki no Souma: Ni no Sara
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
+<h4>🌿 <u>English Title:</u> Food Wars! The Second Plate</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/79353.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Gourmet, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
+🍂 *More information: [Shokugeki no Souma: Ni no Sara](https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara)*
     
