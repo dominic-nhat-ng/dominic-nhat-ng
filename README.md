@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“...books were still to me as they had been when I found them: the only magic.” - Alexander Chee
+“When I was about eight, I decided that the most wonderful thing, next to a human being, was a book.” - Margaret Walker
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koutetsujou no Kabaneri Movie 1: Tsudou Hikari
+  <strong>🥭 <u>Title:</u></strong> Kara no Kyoukai Remix: Gate of Seventh Heaven
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kabaneri of the Iron Fortress: Light That Gathers</h4>
+<h4>🌿 <u>English Title:</u> The Garden of Sinners Remix: Gate of Seventh Heaven</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/82962.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/15175.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Horror, Suspense</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery, Romance, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Koutetsujou no Kabaneri Movie 1: Tsudou Hikari](https://myanimelist.net/anime/33519/Koutetsujou_no_Kabaneri_Movie_1__Tsudou_Hikari)*
+🍂 *More information: [Kara no Kyoukai Remix: Gate of Seventh Heaven](https://myanimelist.net/anime/6624/Kara_no_Kyoukai_Remix__Gate_of_Seventh_Heaven)*
     
