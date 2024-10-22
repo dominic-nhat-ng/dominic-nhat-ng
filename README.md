@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The books are to remind us what asses and fools we are.” - Ray Bradbury
+“...books were still to me as they had been when I found them: the only magic.” - Alexander Chee
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 16: 11-ninme no Striker
+  <strong>🥭 <u>Title:</u></strong> Koutetsujou no Kabaneri Movie 1: Tsudou Hikari
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 16: The Eleventh Striker</h4>
+<h4>🌿 <u>English Title:</u> Kabaneri of the Iron Fortress: Light That Gathers</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/37511.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/82962.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery, Sports</h4>
+<h4>🌵 Genres: Action, Fantasy, Horror, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 16: 11-ninme no Striker](https://myanimelist.net/anime/12117/Meitantei_Conan_Movie_16__11-ninme_no_Striker)*
+🍂 *More information: [Koutetsujou no Kabaneri Movie 1: Tsudou Hikari](https://myanimelist.net/anime/33519/Koutetsujou_no_Kabaneri_Movie_1__Tsudou_Hikari)*
     
