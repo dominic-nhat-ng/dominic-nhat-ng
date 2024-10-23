@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I do not want to just read books; I want to crawl inside them and live there.” - Anonymous
+“But I think the most important thing those books gave me was a kind of faith. My books promised me that life wasn’t just made up of workaday tasks and prosaic things. The world is bigger and more colorful and more important than that.” - Laura Amy Schlitz
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Log Horizon
+  <strong>🥭 <u>Title:</u></strong> Akudama Drive
 </h4>
 
-<h4>🌿 <u>English Title:</u> Log Horizon</h4>
+<h4>🌿 <u>English Title:</u> Akudama Drive</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/84004.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1468/109172.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Log Horizon](https://myanimelist.net/anime/17265/Log_Horizon)*
+🍂 *More information: [Akudama Drive](https://myanimelist.net/anime/41433/Akudama_Drive)*
     
