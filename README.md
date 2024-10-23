@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We owe it to each other to tell stories.” - Neil Gaiman
+“I do not want to just read books; I want to crawl inside them and live there.” - Anonymous
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zetsuen no Tempest
+  <strong>🥭 <u>Title:</u></strong> Log Horizon
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blast of Tempest</h4>
+<h4>🌿 <u>English Title:</u> Log Horizon</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/42453.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/84004.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy, Mystery, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zetsuen no Tempest](https://myanimelist.net/anime/14075/Zetsuen_no_Tempest)*
+🍂 *More information: [Log Horizon](https://myanimelist.net/anime/17265/Log_Horizon)*
     
