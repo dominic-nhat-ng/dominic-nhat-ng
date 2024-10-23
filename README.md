@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We lose ourselves in what we read, only to return to ourselves, transformed and part of a more expansive world.” - Judith Butler
+“We owe it to each other to tell stories.” - Neil Gaiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tasogare Otome x Amnesia
+  <strong>🥭 <u>Title:</u></strong> Zetsuen no Tempest
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dusk Maiden of Amnesia</h4>
+<h4>🌿 <u>English Title:</u> Blast of Tempest</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/64435.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/42453.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tasogare Otome x Amnesia](https://myanimelist.net/anime/12445/Tasogare_Otome_x_Amnesia)*
+🍂 *More information: [Zetsuen no Tempest](https://myanimelist.net/anime/14075/Zetsuen_no_Tempest)*
     
