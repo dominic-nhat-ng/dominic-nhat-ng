@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But if you like, you can come share a tasty meal of bread, raisins, and fresh Burgos cheese. With that, and - Carlos Ruiz Zafón
+“Read Emily Dickinson. Read Graham Greene. Read Italo Calvino. Read Maya Angelou. Read anything you want. Just read. Books are possibilities. They are Escape Routes. They give you options when you have none. Each one can be a home for an uprooted mind.” - Matt Haig
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kui Cheng Shoufu Cong Youxi Kaishi
+  <strong>🥭 <u>Title:</u></strong> Go! Princess Precure
 </h4>
 
-<h4>🌿 <u>English Title:</u> Losing Money to Be a Tycoon</h4>
+<h4>🌿 <u>English Title:</u> Go! Princess Pretty Cure</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1635/140669.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/88625.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kui Cheng Shoufu Cong Youxi Kaishi](https://myanimelist.net/anime/57663/Kui_Cheng_Shoufu_Cong_Youxi_Kaishi)*
+🍂 *More information: [Go! Princess Precure](https://myanimelist.net/anime/28669/Go_Princess_Precure)*
     
