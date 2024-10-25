@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Read Emily Dickinson. Read Graham Greene. Read Italo Calvino. Read Maya Angelou. Read anything you want. Just read. Books are possibilities. They are Escape Routes. They give you options when you have none. Each one can be a home for an uprooted mind.” - Matt Haig
+“The real proof that I have tried to love and that people have tried to love me back was never going to fit in a kitchen drawer.” - Sloane Crosley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Go! Princess Precure
+  <strong>🥭 <u>Title:</u></strong> Steins;Gate
 </h4>
 
-<h4>🌿 <u>English Title:</u> Go! Princess Pretty Cure</h4>
+<h4>🌿 <u>English Title:</u> Steins;Gate</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/88625.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1935/127974.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 9.07/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Drama, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Go! Princess Precure](https://myanimelist.net/anime/28669/Go_Princess_Precure)*
+🍂 *More information: [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)*
     
