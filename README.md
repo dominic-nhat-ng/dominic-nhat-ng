@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Any book which inspires us to lead a better life is a good book.” - Fulton Sheen
+“There were people who read and there were the others. Whether you were the a reader or a non-reader was soon apparent. There was no greater distinction between people.” - Pascal Mercier
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Eve no Jikan (Movie)
+  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo Futakomori
 </h4>
 
-<h4>🌿 <u>English Title:</u> Time of Eve</h4>
+<h4>🌿 <u>English Title:</u> Hell Girl: Two Mirrors</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/27711.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/86975.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Eve no Jikan (Movie)](https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie)*
+🍂 *More information: [Jigoku Shoujo Futakomori](https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori)*
     
