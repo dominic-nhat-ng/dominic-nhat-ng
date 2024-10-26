@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I have all the books I could need, and what more could I need than books?” - Catherynne M. Valente
+“Any book which inspires us to lead a better life is a good book.” - Fulton Sheen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hunter x Hunter: Greed Island
+  <strong>🥭 <u>Title:</u></strong> Eve no Jikan (Movie)
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Time of Eve</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1902/122320.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/27711.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 8</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hunter x Hunter: Greed Island](https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island)*
+🍂 *More information: [Eve no Jikan (Movie)](https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie)*
     
