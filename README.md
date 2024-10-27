@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There were people who read and there were the others. Whether you were the a reader or a non-reader was soon apparent. There was no greater distinction between people.” - Pascal Mercier
+“A wonderful thing about a book, in contrast to a computer screen, is that you can take it to bed with you.” - Daniel J. Boorstin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo Futakomori
+  <strong>🥭 <u>Title:</u></strong> Genshiken
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Girl: Two Mirrors</h4>
+<h4>🌿 <u>English Title:</u> Genshiken</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/86975.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1890/94707.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Shoujo Futakomori](https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori)*
+🍂 *More information: [Genshiken](https://myanimelist.net/anime/240/Genshiken)*
     
