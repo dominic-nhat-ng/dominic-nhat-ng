@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A wonderful thing about a book, in contrast to a computer screen, is that you can take it to bed with you.” - Daniel J. Boorstin
+“I can talk to fish!" Angel said happily, water dripping off her long, skinny body. "Ask one over for dinner," Fang said, joining us.” - James Patterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Genshiken
+  <strong>🥭 <u>Title:</u></strong> Noein: Mou Hitori no Kimi e
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshiken</h4>
+<h4>🌿 <u>English Title:</u> Noein: To Your Other Self</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1890/94707.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1/584.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Genshiken](https://myanimelist.net/anime/240/Genshiken)*
+🍂 *More information: [Noein: Mou Hitori no Kimi e](https://myanimelist.net/anime/584/Noein__Mou_Hitori_no_Kimi_e)*
     
