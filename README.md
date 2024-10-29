@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Read a lot. But read as a writer, to see how other writers are doing it. And make your knowledge of literature in English as deep and broad as you can. In workshops, writers are often told to read what is being written now, but if that is all you read, you are limiting yourself. You need to get a good overall sense of English literary history, so you can write out of that knowledge.” - Theodora Goss
+“Literature cannot be imposed; it must be discovered.” - Amy Joy
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Arakawa Under the Bridge
+  <strong>🥭 <u>Title:</u></strong> Bleach: Sennen Kessen-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Arakawa Under the Bridge</h4>
+<h4>🌿 <u>English Title:</u> Bleach: Thousand-Year Blood War</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1019/98620.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1908/135431.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 9.01/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Arakawa Under the Bridge](https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge)*
+🍂 *More information: [Bleach: Sennen Kessen-hen](https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen)*
     
