@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The thought of these vast stacks of books would drive him mad: the more he read, the less he seemed to know — the greater the number of the books he read, the greater the immense uncountable number of those which he could never read would seem to be…. The thought that other books were waiting for him tore at his heart forever.” - Thomas Wolfe
+“Forget the dogs; books were man's best friend.” - Jesseca Wheaton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Tekketsu no Orphans
+  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile: Paris-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Iron-Blooded Orphans</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/75879.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/11918.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 8.13/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: Tekketsu no Orphans](https://myanimelist.net/anime/31251/Kidou_Senshi_Gundam__Tekketsu_no_Orphans)*
+🍂 *More information: [Nodame Cantabile: Paris-hen](https://myanimelist.net/anime/4477/Nodame_Cantabile__Paris-hen)*
     
