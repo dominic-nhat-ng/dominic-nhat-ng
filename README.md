@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Forget the dogs; books were man's best friend.” - Jesseca Wheaton
+“Never trust anyone who has not brought a book with them.” - Lemony Snicket
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile: Paris-hen
+  <strong>🥭 <u>Title:</u></strong> Jormungand: Perfect Order
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Jormungand Season 2: Perfect Order</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/11918.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/73278.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile: Paris-hen](https://myanimelist.net/anime/4477/Nodame_Cantabile__Paris-hen)*
+🍂 *More information: [Jormungand: Perfect Order](https://myanimelist.net/anime/13331/Jormungand__Perfect_Order)*
     
