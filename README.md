@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I long ago abandoned myself to a blind lust for the written word. Literature is my sandbox. In it I play, build my forts and castles, spend glorious time.” - Rabih Alameddine
+“If I am ever to live, truly live, it will be for the second time inside a book.” - Robbie Coburn
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hakuouki: Hekketsuroku
+  <strong>🥭 <u>Title:</u></strong> Redline
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood</h4>
+<h4>🌿 <u>English Title:</u> Redline</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/71797.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/28553.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.28/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Drama, Supernatural</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Hakuouki: Hekketsuroku](https://myanimelist.net/anime/9065/Hakuouki__Hekketsuroku)*
+🍂 *More information: [Redline](https://myanimelist.net/anime/6675/Redline)*
     
