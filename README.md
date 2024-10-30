@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Never trust anyone who has not brought a book with them.” - Lemony Snicket
+“I long ago abandoned myself to a blind lust for the written word. Literature is my sandbox. In it I play, build my forts and castles, spend glorious time.” - Rabih Alameddine
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jormungand: Perfect Order
+  <strong>🥭 <u>Title:</u></strong> Hakuouki: Hekketsuroku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jormungand Season 2: Perfect Order</h4>
+<h4>🌿 <u>English Title:</u> Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/73278.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/71797.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Jormungand: Perfect Order](https://myanimelist.net/anime/13331/Jormungand__Perfect_Order)*
+🍂 *More information: [Hakuouki: Hekketsuroku](https://myanimelist.net/anime/9065/Hakuouki__Hekketsuroku)*
     
