@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If I am ever to live, truly live, it will be for the second time inside a book.” - Robbie Coburn
+“Art is the whisper of history, heard above the noise of time.” - Julian Barnes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Redline
+  <strong>🥭 <u>Title:</u></strong> Bleach
 </h4>
 
-<h4>🌿 <u>English Title:</u> Redline</h4>
+<h4>🌿 <u>English Title:</u> Bleach</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/28553.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/40451.jpg />
 
-<h4>🌱 Score: 8.28/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Redline](https://myanimelist.net/anime/6675/Redline)*
+🍂 *More information: [Bleach](https://myanimelist.net/anime/269/Bleach)*
     
