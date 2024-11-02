@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading is the royal road to intellectual eminence...Truly good books are more than mines to those who can understand them. They are the breathings of the great souls of past times. Genius is not embalmed in them, but lives in them perpetually.” - William Ellery Channing
+“An unread book does nobody any good. Stories happen in the mind of a reader, not among symbols printed on a page.” - Brandon Mull
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist: Brotherhood
+  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fullmetal Alchemist: Brotherhood</h4>
+<h4>🌿 <u>English Title:</u> Rurouni Kenshin</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1208/94745.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1599/136532.jpg />
 
-<h4>🌱 Score: 9.09/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 64</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)*
+🍂 *More information: [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://myanimelist.net/anime/50613/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_2023)*
     
