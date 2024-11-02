@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Ten minutes of careful searching later, Maelyn faced the dismal truth - she was bookless.” - Anita Valle
+“I pull the blanket around my shoulders, and the customer looking at the classics section gives me a sympathetic look. I give him one back because, as much as I love books, if you are in the classic's section first thing in the morning, then there's something not entirely right with your life either.” - Cath Crowley
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 91 Days
+  <strong>🥭 <u>Title:</u></strong> Byousoku 5 Centimeter
 </h4>
 
-<h4>🌿 <u>English Title:</u> 91 Days</h4>
+<h4>🌿 <u>English Title:</u> 5 Centimeters per Second</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/80515.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1410/112994.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [91 Days](https://myanimelist.net/anime/32998/91_Days)*
+🍂 *More information: [Byousoku 5 Centimeter](https://myanimelist.net/anime/1689/Byousoku_5_Centimeter)*
     
