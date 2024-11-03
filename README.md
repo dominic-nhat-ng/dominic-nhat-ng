@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“An unread book does nobody any good. Stories happen in the mind of a reader, not among symbols printed on a page.” - Brandon Mull
+“Pienso que en la vida de cada uno de nosotros existe un libro similar, que de pequeños no nos limitamos simplemente a leer, sino que inspeccionamos y rebuscamos en cada uno de sus rincones como si de una habitación se tratara. Un libro así, rebuscado como una habitación, escrutado o interrogado como una cara en cada rasgo y arruga, nunca podremos juzgarlo como se juzga un libro, porque para nosotros ha abandonado la zona de los libros y ha pasado a vivir a la zona de la memoria y de los afectos.” - Natalia Ginzburg
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 20: Junkoku no Nightmare
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rurouni Kenshin</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 20: The Darkest Nightmare</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1599/136532.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/78894.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Mystery</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://myanimelist.net/anime/50613/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_2023)*
+🍂 *More information: [Meitantei Conan Movie 20: Junkoku no Nightmare](https://myanimelist.net/anime/32005/Meitantei_Conan_Movie_20__Junkoku_no_Nightmare)*
     
