@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In a book, even the real bastards can't hurt you. And you can never loose a friend you make in a book. When you get to a sad part, no one's there to see you cry. Or wonder why you don't cry when you should.” - Dean Koontz
+“It had filled my time - given me quiet, steadfast company with those characters, who did not exist and never would, but somehow made me feel less ... alone.” - Sarah J. Maas
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan
+  <strong>🥭 <u>Title:</u></strong> Osomatsu-san Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed</h4>
+<h4>🌿 <u>English Title:</u> Mr. Osomatsu the Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/75199.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1492/113860.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan](https://myanimelist.net/anime/235/Meitantei_Conan)*
+🍂 *More information: [Osomatsu-san Movie](https://myanimelist.net/anime/38201/Osomatsu-san_Movie)*
     
