@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It had filled my time - given me quiet, steadfast company with those characters, who did not exist and never would, but somehow made me feel less ... alone.” - Sarah J. Maas
+“Instead, we'd do what we always did, the only thing we'd ever been dependably stellar at: we'd read.” - Eleanor Brown
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Osomatsu-san Movie
+  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist: Brotherhood Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mr. Osomatsu the Movie</h4>
+<h4>🌿 <u>English Title:</u> Fullmetal Alchemist: Brotherhood OVA Collection</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1492/113860.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1493/91571.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Osomatsu-san Movie](https://myanimelist.net/anime/38201/Osomatsu-san_Movie)*
+🍂 *More information: [Fullmetal Alchemist: Brotherhood Specials](https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials)*
     
