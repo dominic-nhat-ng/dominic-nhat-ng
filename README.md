@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Instead, we'd do what we always did, the only thing we'd ever been dependably stellar at: we'd read.” - Eleanor Brown
+“Living your life is a long and doggy business. . . . And stories and books help. Some help you with the living itself. Some help you just take a break. The best do both at the same time.” - Anne Fine
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist: Brotherhood Specials
+  <strong>🥭 <u>Title:</u></strong> Seto no Hanayome
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fullmetal Alchemist: Brotherhood OVA Collection</h4>
+<h4>🌿 <u>English Title:</u> My Bride is a Mermaid</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1493/91571.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/58383.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fullmetal Alchemist: Brotherhood Specials](https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials)*
+🍂 *More information: [Seto no Hanayome](https://myanimelist.net/anime/2104/Seto_no_Hanayome)*
     
