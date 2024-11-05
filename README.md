@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Living your life is a long and doggy business. . . . And stories and books help. Some help you with the living itself. Some help you just take a break. The best do both at the same time.” - Anne Fine
+“You are a total stranger and you want to take my library book.” - Elizabeth Kostova
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seto no Hanayome
+  <strong>🥭 <u>Title:</u></strong> Tsurune: Kazemai Koukou Kyuudou-bu
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Bride is a Mermaid</h4>
+<h4>🌿 <u>English Title:</u> Tsurune: Kazemai High School Kyudo Club</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/58383.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1360/93571.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Seto no Hanayome](https://myanimelist.net/anime/2104/Seto_no_Hanayome)*
+🍂 *More information: [Tsurune: Kazemai Koukou Kyuudou-bu](https://myanimelist.net/anime/36653/Tsurune__Kazemai_Koukou_Kyuudou-bu)*
     
