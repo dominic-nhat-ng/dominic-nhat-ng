@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Henry did not want to be fixed, was somehow convinced that the fix would be a lie, something that would lessen him.” - Stephen King
+“The oldest books are still only just out to those who have not read them.” - Samuel Butler
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushishi
+  <strong>🥭 <u>Title:</u></strong> Saiki Kusuo no Ψ-nan 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushi-Shi</h4>
+<h4>🌿 <u>English Title:</u> The Disastrous Life of Saiki K. 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/73862.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1961/91383.jpg />
 
-<h4>🌱 Score: 8.65/10</h4>
+<h4>🌱 Score: 8.41/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mushishi](https://myanimelist.net/anime/457/Mushishi)*
+🍂 *More information: [Saiki Kusuo no Ψ-nan 2](https://myanimelist.net/anime/34612/Saiki_Kusuo_no_Ψ-nan_2)*
     
