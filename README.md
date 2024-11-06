@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What does it mean when what you have becomes equal to what you do, when what you own is essential to who you are? In our everyday grasp of owning things, we tag it materialism, consumerism, consumption. But I trust you'll agree that the possession of books is not identical to the possession of shoes. Someone with thousands of books is someone you want to talk to; someone with thousands of shoes is someone you suspect of soul-death.” - William Giraldi
+“How many a man has dated a new era in his life from the reading of a book. The book exists for us perchance which will explain our miracles and reveal new ones. The at present unutterable things we may find somewhere uttered.” - Henry David Thoreau 
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Genshiken 2
+  <strong>🥭 <u>Title:</u></strong> Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshiken 2</h4>
+<h4>🌿 <u>English Title:</u> Classroom of the Elite II</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1958/94708.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1010/124180.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Genshiken 2](https://myanimelist.net/anime/2508/Genshiken_2)*
+🍂 *More information: [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://myanimelist.net/anime/51096/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_2nd_Season)*
     
