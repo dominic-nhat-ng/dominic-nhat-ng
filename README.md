@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Early reading is serendipitous, and rightly so. Gloriously so. Libraries favor serendipity, invite it; the roaming along a shelf, eyeing an unfamiliar name, taking this down, then that--oh, who's this? Never heard of her--give her a go? That is where, and how, you learn affinity and rejection. You find out what you like by exploring what you do not.” - Penelope Lively
+“What does it mean when what you have becomes equal to what you do, when what you own is essential to who you are? In our everyday grasp of owning things, we tag it materialism, consumerism, consumption. But I trust you'll agree that the possession of books is not identical to the possession of shoes. Someone with thousands of books is someone you want to talk to; someone with thousands of shoes is someone you suspect of soul-death.” - William Giraldi
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
+  <strong>🥭 <u>Title:</u></strong> Genshiken 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
+<h4>🌿 <u>English Title:</u> Genshiken 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1958/94708.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
+🍂 *More information: [Genshiken 2](https://myanimelist.net/anime/2508/Genshiken_2)*
     
