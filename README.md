@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“My library is an archive of longings.” - Susan Sontag
+“Each book was a world unto itself, and in it I took refuge.” - Alberto Manguel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
+  <strong>🥭 <u>Title:</u></strong> Kono Sekai no Katasumi ni
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> In This Corner of the World</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/87704.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Award Winning, Drama</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
+🍂 *More information: [Kono Sekai no Katasumi ni](https://myanimelist.net/anime/15227/Kono_Sekai_no_Katasumi_ni)*
     
