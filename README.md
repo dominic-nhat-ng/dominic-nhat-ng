@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And it is that which draws me to you, too, for you are the tropics, you have the sun in you, and the softness and the clarity...” - Anaïs Nin
+“‎He often envied people who hadn't read his favourite books. They had such happiness before them.” - Charles Finch
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Suisei no Majo Season 2
+  <strong>🥭 <u>Title:</u></strong> Voy@ger
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The Witch from Mercury Season 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1023/134768.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1280/142023.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: Suisei no Majo Season 2](https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2)*
+🍂 *More information: [Voy@ger](https://myanimelist.net/anime/49661/Voyger)*
     
