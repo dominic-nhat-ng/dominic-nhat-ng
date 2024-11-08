@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Life is too short to waste time on books that end badly” - Jayne Ann Krentz
+“And it is that which draws me to you, too, for you are the tropics, you have the sun in you, and the softness and the clarity...” - Anaïs Nin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hellsing: Digest for Freaks
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Suisei no Majo Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The Witch from Mercury Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/26935.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1023/134768.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Horror, Supernatural</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hellsing: Digest for Freaks](https://myanimelist.net/anime/6904/Hellsing__Digest_for_Freaks)*
+🍂 *More information: [Kidou Senshi Gundam: Suisei no Majo Season 2](https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2)*
     
