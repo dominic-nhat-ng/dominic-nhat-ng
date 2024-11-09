@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There is nothing like discovering a new world through reading.” - Laura Bullock
+“Ah college years, those were the days. Pure freedom ... leaving home for the first time…the parties…” - E.A. Bucchianeri
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhu Xian 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Cool Doji Danshi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
+<h4>🌿 <u>English Title:</u> Play It Cool, Guys</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1700/142221.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1123/134677.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zhu Xian 2nd Season](https://myanimelist.net/anime/58509/Zhu_Xian_2nd_Season)*
+🍂 *More information: [Cool Doji Danshi](https://myanimelist.net/anime/51680/Cool_Doji_Danshi)*
     
