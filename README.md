@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Ah college years, those were the days. Pure freedom ... leaving home for the first time…the parties…” - E.A. Bucchianeri
+“Books?" Ridley looked disgusted. "Carry?” - Kami Garcia
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cool Doji Danshi
+  <strong>🥭 <u>Title:</u></strong> Date A Live V
 </h4>
 
-<h4>🌿 <u>English Title:</u> Play It Cool, Guys</h4>
+<h4>🌿 <u>English Title:</u> Date A Live V</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1123/134677.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1659/141438.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Fantasy, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Cool Doji Danshi](https://myanimelist.net/anime/51680/Cool_Doji_Danshi)*
+🍂 *More information: [Date A Live V](https://myanimelist.net/anime/52196/Date_A_Live_V)*
     
