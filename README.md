@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[Women] complain about many clerks who attribute all sorts of faults to them and who compose works about them in rhyme, prose, and verse, criticizing their conduct in a variety of different ways. They then give these works as elementary textbooks to their young pupils at the beginning of their schooling, to provide them with exempla and received wisdom, so that they will remember this teaching when they come of age ... They accuse [women] of many ... serious vice[s] and are very critical of them, finding no excuse for them whatsoever. - Christine de Pizan
+“There are worse prisons than words.” - Carlos Ruiz Zafón
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Beastars 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Muumindani no Suisei
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Comet in Moominland</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1097/109646.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3984.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Drama, Suspense</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Beastars 2nd Season](https://myanimelist.net/anime/40935/Beastars_2nd_Season)*
+🍂 *More information: [Muumindani no Suisei](https://myanimelist.net/anime/2313/Muumindani_no_Suisei)*
     
