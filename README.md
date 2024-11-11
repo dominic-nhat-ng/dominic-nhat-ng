@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Leisure without books is death, and burial of a man alive.” - Lucius Annaeus Seneca
+“There are a good many books, are there not, my boy?” said Mr. Brownlow, observing the curiosity with which Oliver surveyed the shelves that reached from the floor to the ceiling. - Charles Dickens
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tokyo Autumn Session
+  <strong>🥭 <u>Title:</u></strong> R.O.D: The TV
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tokyo Autumn Session</h4>
+<h4>🌿 <u>English Title:</u> R.O.D -The TV-</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1685/105598.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/73350.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tokyo Autumn Session](https://myanimelist.net/anime/41132/Tokyo_Autumn_Session)*
+🍂 *More information: [R.O.D: The TV](https://myanimelist.net/anime/209/ROD__The_TV)*
     
