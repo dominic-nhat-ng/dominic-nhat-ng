@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are a good many books, are there not, my boy?” said Mr. Brownlow, observing the curiosity with which Oliver surveyed the shelves that reached from the floor to the ceiling. - Charles Dickens
+“The thinnest thing in the world is the border between good and evil... my next The Opposite Of Magic.” - Ivan Stoikov - Allan Bard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> R.O.D: The TV
+  <strong>🥭 <u>Title:</u></strong> One Outs
 </h4>
 
-<h4>🌿 <u>English Title:</u> R.O.D -The TV-</h4>
+<h4>🌿 <u>English Title:</u> One Outs</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/73350.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/21065.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.32/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Sports, Suspense</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [R.O.D: The TV](https://myanimelist.net/anime/209/ROD__The_TV)*
+🍂 *More information: [One Outs](https://myanimelist.net/anime/5040/One_Outs)*
     
