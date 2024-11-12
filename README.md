@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But I can now understand why people read, why they like to get lost in somebody else's life. Sometimes I'll read a sentence and it will make me sit up, jolt me, because it is something that I have recently felt but never said out loud. I want to reach into the page and tell the characters that I understand them, that they're not alone, that I'm not alone, that it's ok to feel like this. And then the lunch bell rings, the book closes, and I'm plunged back into reality.” - Cecelia Ahern
+“We have no time to waste on insignificant books, hollow books, books that are there to please... - Laurence Cossé
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenkuu no Shiro Laputa
+  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Castle in the Sky</h4>
+<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU TOO!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/37799.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/75376.jpg />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Fantasy, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa)*
+🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku](https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku)*
     
