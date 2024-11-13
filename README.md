@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It's important to read a book, but also to hold the book, to smell the book... it's perfume, it's incense, it's the dust of Egypt...” - Ray Bradbury
+“Some say they get lost in books, but I find myself, again and again, in the pages of a good book. Humanly speaking, there is no greater teacher, no greater therapist, no greater healer of the soul, than a well-stocked library.” - L.R.Knost
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket 2nd Season NG-shuu
+  <strong>🥭 <u>Title:</u></strong> Kumichou Musume to Sewagakari
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Yakuza's Guide to Babysitting</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/59027.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1454/122063.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Sports</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 9</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroko no Basket 2nd Season NG-shuu](https://myanimelist.net/anime/22673/Kuroko_no_Basket_2nd_Season_NG-shuu)*
+🍂 *More information: [Kumichou Musume to Sewagakari](https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari)*
     
