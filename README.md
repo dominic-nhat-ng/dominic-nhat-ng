@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Some say they get lost in books, but I find myself, again and again, in the pages of a good book. Humanly speaking, there is no greater teacher, no greater therapist, no greater healer of the soul, than a well-stocked library.” - L.R.Knost
+“If he let one day pass without glancing at a single page, habit led him to feel a vague sense of decay. Therefore, in the face of most intrusions, he tried to arrange it so that he could stay in touch with the printed word. There were moments when he felt that books constituted his only legitimate province.” - Natsume Soseki
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kumichou Musume to Sewagakari
+  <strong>🥭 <u>Title:</u></strong> Stranger: Mukou Hadan
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Yakuza's Guide to Babysitting</h4>
+<h4>🌿 <u>English Title:</u> Sword of the Stranger</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1454/122063.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/87066.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.25/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kumichou Musume to Sewagakari](https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari)*
+🍂 *More information: [Stranger: Mukou Hadan](https://myanimelist.net/anime/2418/Stranger__Mukou_Hadan)*
     
