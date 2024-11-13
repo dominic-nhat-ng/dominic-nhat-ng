@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We have no time to waste on insignificant books, hollow books, books that are there to please... - Laurence Cossé
+“It's important to read a book, but also to hold the book, to smell the book... it's perfume, it's incense, it's the dust of Egypt...” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket 2nd Season NG-shuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU TOO!</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/75376.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/59027.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Sports</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 9</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku](https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku)*
+🍂 *More information: [Kuroko no Basket 2nd Season NG-shuu](https://myanimelist.net/anime/22673/Kuroko_no_Basket_2nd_Season_NG-shuu)*
     
