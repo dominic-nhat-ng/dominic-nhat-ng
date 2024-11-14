@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“[...]No book can be really complete in this life; it has to end where the author's time and understanding end. There is always something left unsaid. I look forward to the life to come as the unending last chapter of all the good books I have ever read.” - Kathryn Lindskoog
+“Have you ever found your heart's desire and then lost it? I had seen myself, a portrait of myself as a reader. My childhood: days home sick from school reading Nancy Drew, forbidden books read secretively late at night. Teenage years reading -trying to read- books I'd heard were important, Naked Lunch, and The Fountainhead, Ulysses and Women in Love... It was as though I had dreamt the perfect lover, who vanished as I woke, leaving me pining and surly.” - Audrey Niffenegger
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bleach 20th PV
+  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bleach 20th Anime Anniversary</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1357/145984.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
 
-<h4>🌱 Score: 8.1/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bleach 20th PV](https://myanimelist.net/anime/60048/Bleach_20th_PV)*
+🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
     
