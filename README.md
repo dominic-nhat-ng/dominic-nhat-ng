@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What are books but tangible dreams? What is reading if it is not dreaming? The best books cause us to dream; the rest are not worth reading.” - Rikki Ducornet
+“[...]No book can be really complete in this life; it has to end where the author's time and understanding end. There is always something left unsaid. I look forward to the life to come as the unending last chapter of all the good books I have ever read.” - Kathryn Lindskoog
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Asobi Asobase
+  <strong>🥭 <u>Title:</u></strong> Bleach 20th PV
 </h4>
 
-<h4>🌿 <u>English Title:</u> Asobi Asobase - workshop of fun -</h4>
+<h4>🌿 <u>English Title:</u> Bleach 20th Anime Anniversary</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1139/95077.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1357/145984.jpg />
 
-<h4>🌱 Score: 8.19/10</h4>
+<h4>🌱 Score: 8.1/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: PV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Asobi Asobase](https://myanimelist.net/anime/37171/Asobi_Asobase)*
+🍂 *More information: [Bleach 20th PV](https://myanimelist.net/anime/60048/Bleach_20th_PV)*
     
