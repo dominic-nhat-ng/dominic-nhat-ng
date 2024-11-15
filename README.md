@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Our society accepts the book as a given, but the act of reading -- once considered useful and important, as well as potentially dangerous and subversive -- is now condescendingly accepted as a pastime, a slow pastime that lacks efficiency and does not contribute to the common good.” - Alberto Manguel
+“Books ought to have good endings.How would this do: and they all settled down and lived together happily ever after?” - J.R.R. Tolkien
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Higurashi no Naku Koro ni
+  <strong>🥭 <u>Title:</u></strong> Psycho-Pass Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Higurashi: When They Cry</h4>
+<h4>🌿 <u>English Title:</u> Psycho-Pass: The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/19634.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/71793.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Suspense</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Higurashi no Naku Koro ni](https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni)*
+🍂 *More information: [Psycho-Pass Movie](https://myanimelist.net/anime/21339/Psycho-Pass_Movie)*
     
