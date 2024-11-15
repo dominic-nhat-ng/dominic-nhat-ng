@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books ought to have good endings.How would this do: and they all settled down and lived together happily ever after?” - J.R.R. Tolkien
+“It's the best way of telling the truth; it's a process of producing grand, beautiful, well-ordered lies that tell more truth than any assemblage of facts. Beyond that … [it's] delight in, and play with, language; also, a curiously intimate way of communicating with people whom you will never meet.” - Julian Barnes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass Movie
+  <strong>🥭 <u>Title:</u></strong> Tomodachi Game
 </h4>
 
-<h4>🌿 <u>English Title:</u> Psycho-Pass: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Tomodachi Game</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/71793.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1247/121345.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass Movie](https://myanimelist.net/anime/21339/Psycho-Pass_Movie)*
+🍂 *More information: [Tomodachi Game](https://myanimelist.net/anime/50273/Tomodachi_Game)*
     
