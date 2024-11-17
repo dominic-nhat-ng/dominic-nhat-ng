@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The books that the world calls immoral are books that show the world its own shame.” - Oscar Wilde
+“Books can truly change our lives: the lives of those who read them, the lives of those who write them. Readers and writers alike discover things they never knew about the world and about themselves.” - Lloyd Alexander
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ragna Crimson
+  <strong>🥭 <u>Title:</u></strong> Tentai Senshi Sunred 2nd Season
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1763/140359.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/15051.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ragna Crimson](https://myanimelist.net/anime/51297/Ragna_Crimson)*
+🍂 *More information: [Tentai Senshi Sunred 2nd Season](https://myanimelist.net/anime/6582/Tentai_Senshi_Sunred_2nd_Season)*
     
