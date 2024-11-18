@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Still, when I think of early friendships, I think not of people but of books. Books were my friends, and more often than not, the characters in the books were my imaginary friends, who stepped out of the pages and walked wth me to school or sat in bed with me, talking when I was meant to be asleep. What I mean is reading was my friends. And also I mean that I learned about friendship - patience, slowness, listening, care - from reading and from reading about friendship between people.” - Erin Wunker
+“It must be that people who read go on more macrocosmic and microcosmic trips – biblical god trips, the Tibetan Book of the Dead, Ulysses, Finnegan’s Wake trips. Non-readers, what do they get? (They get the munchies.)” - Maxine Hong Kingston
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Golden Time
+  <strong>🥭 <u>Title:</u></strong> Gintama Movie 1: Shinyaku Benizakura-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Golden Time</h4>
+<h4>🌿 <u>English Title:</u> Gintama: The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/52091.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/28803.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Golden Time](https://myanimelist.net/anime/17895/Golden_Time)*
+🍂 *More information: [Gintama Movie 1: Shinyaku Benizakura-hen](https://myanimelist.net/anime/7472/Gintama_Movie_1__Shinyaku_Benizakura-hen)*
     
