@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It must be that people who read go on more macrocosmic and microcosmic trips – biblical god trips, the Tibetan Book of the Dead, Ulysses, Finnegan’s Wake trips. Non-readers, what do they get? (They get the munchies.)” - Maxine Hong Kingston
+“I wrote a book. It sucked. I wrote nine more books. They sucked, too. Meanwhile, I read every single thing I could find on publishing and writing, went to conferences, joined professional organizations, hooked up with fellow writers in critique groups, and didn’t give up. Then I wrote one more book.” - Beth Revis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gintama Movie 1: Shinyaku Benizakura-hen
+  <strong>🥭 <u>Title:</u></strong> Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gintama: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/28803.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/23458.jpg />
 
-<h4>🌱 Score: 8.52/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gintama Movie 1: Shinyaku Benizakura-hen](https://myanimelist.net/anime/7472/Gintama_Movie_1__Shinyaku_Benizakura-hen)*
+🍂 *More information: [Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi](https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi)*
     
