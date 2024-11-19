@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Imagination is a gift given to us from God and each one of us use it differently.” - Brian Jacques
+“Some stories have to be written because no one would believe the absurdity of it all.” - Shannon L. Alder
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yowamushi Pedal Movie
+  <strong>🥭 <u>Title:</u></strong> Non Non Biyori Movie: Vacation
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/74402.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1044/93575.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Yowamushi Pedal Movie](https://myanimelist.net/anime/30413/Yowamushi_Pedal_Movie)*
+🍂 *More information: [Non Non Biyori Movie: Vacation](https://myanimelist.net/anime/36990/Non_Non_Biyori_Movie__Vacation)*
     
