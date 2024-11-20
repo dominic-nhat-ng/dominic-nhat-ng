@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Ten minutes of careful searching later, Maelyn faced the dismal truth - she was bookless.” - Anita Valle
+“I'm an open book. But some of the pages are stuck together.” - Kelli Jae Baeli
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
+  <strong>🥭 <u>Title:</u></strong> Free! Movie 4: The Final Stroke - Zenpen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1450/117893.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
+🍂 *More information: [Free! Movie 4: The Final Stroke - Zenpen](https://myanimelist.net/anime/38400/Free_Movie_4__The_Final_Stroke_-_Zenpen)*
     
