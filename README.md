@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Some stories have to be written because no one would believe the absurdity of it all.” - Shannon L. Alder
+“She'd always been a little excitable, a little more passionate about books than your average person, but she was supposed to be -- she was a librarian, after all.” - Sarah Beth Durst
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Non Non Biyori Movie: Vacation
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Book of Murder
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Black Butler: Book of Murder</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1044/93575.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/74392.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Non Non Biyori Movie: Vacation](https://myanimelist.net/anime/36990/Non_Non_Biyori_Movie__Vacation)*
+🍂 *More information: [Kuroshitsuji: Book of Murder](https://myanimelist.net/anime/23317/Kuroshitsuji__Book_of_Murder)*
     
