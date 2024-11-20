@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She'd always been a little excitable, a little more passionate about books than your average person, but she was supposed to be -- she was a librarian, after all.” - Sarah Beth Durst
+“Ten minutes of careful searching later, Maelyn faced the dismal truth - she was bookless.” - Anita Valle
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Book of Murder
+  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler: Book of Murder</h4>
+<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/74392.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji: Book of Murder](https://myanimelist.net/anime/23317/Kuroshitsuji__Book_of_Murder)*
+🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
     
