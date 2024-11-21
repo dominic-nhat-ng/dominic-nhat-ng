@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I'm an open book. But some of the pages are stuck together.” - Kelli Jae Baeli
+“What a glut of books! Who can read them?” - Robert Burton
 </i>
 </blockquote>
 
@@ -32,18 +32,18 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Free! Movie 4: The Final Stroke - Zenpen
+  <strong>🥭 <u>Title:</u></strong> Free! Movie 2: Timeless Medley - Yakusoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Free! The Movie -Timeless Medley- the Promise</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1450/117893.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/87931.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2017</h4>
 
 <h4>🌵 Genres: Sports</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Free! Movie 4: The Final Stroke - Zenpen](https://myanimelist.net/anime/38400/Free_Movie_4__The_Final_Stroke_-_Zenpen)*
+🍂 *More information: [Free! Movie 2: Timeless Medley - Yakusoku](https://myanimelist.net/anime/35191/Free_Movie_2__Timeless_Medley_-_Yakusoku)*
     
