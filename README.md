@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What a glut of books! Who can read them?” - Robert Burton
+“For this quiet, unprepossessing, passive man who has no garden in front of his subsidised flat, books are like flowers. He loves to line them up on the shelf in multicoloured rows: he watches over each of them with an old-fashioned gardener's delight, holds them like fragile objects in his thin, bloodless hands.” - Stefan Zweig
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Free! Movie 2: Timeless Medley - Yakusoku
+  <strong>🥭 <u>Title:</u></strong> Baccano! Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Free! The Movie -Timeless Medley- the Promise</h4>
+<h4>🌿 <u>English Title:</u> Baccano! Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/87931.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/9129.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Free! Movie 2: Timeless Medley - Yakusoku](https://myanimelist.net/anime/35191/Free_Movie_2__Timeless_Medley_-_Yakusoku)*
+🍂 *More information: [Baccano! Specials](https://myanimelist.net/anime/3901/Baccano_Specials)*
     
