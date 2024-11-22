@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault. Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope. They are the elect to whom beautiful things mean only Beauty. There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.” - Oscar Wilde
+“If the self-help books worked, it would be a shrinking industry not a growing one.” - Steve Maraboli
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Evangelion Movie 2: Ha
+  <strong>🥭 <u>Title:</u></strong> Doraemon (2005)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Evangelion: 2.0 You Can (Not) Advance</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/74983.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/23935.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Evangelion Movie 2: Ha](https://myanimelist.net/anime/3784/Evangelion_Movie_2__Ha)*
+🍂 *More information: [Doraemon (2005)](https://myanimelist.net/anime/8687/Doraemon_2005)*
     
