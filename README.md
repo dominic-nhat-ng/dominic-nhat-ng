@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Rainy days should be spent at home with a cup of tea and a good book.” - Bill Watterson
+“I only want power so I can get books.” - Eliezer Yudkowsky
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Macross F Movie 2: Sayonara no Tsubasa
+  <strong>🥭 <u>Title:</u></strong> Ao Haru Ride
 </h4>
 
-<h4>🌿 <u>English Title:</u> Macross Frontier: The Wings of Farewell</h4>
+<h4>🌿 <u>English Title:</u> Blue Spring Ride</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/76398.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/64813.jpg />
 
-<h4>🌱 Score: 7.94/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Macross F Movie 2: Sayonara no Tsubasa](https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa)*
+🍂 *More information: [Ao Haru Ride](https://myanimelist.net/anime/21995/Ao_Haru_Ride)*
     
