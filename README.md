@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“People who believe they have bad luck create bad luck. Those who believe they are very fortunate, that the world is a generous place filled with trustworthy people, live in exactly that kind of world.” - Chris Prentiss
+“The stupidity of people comes from having an answer for everything. The wisdom of the novel comes from having a question for everything....The novelist teaches the reader to comprehend the world as a question. There is wisdom and tolerance in that attitude. In a world built on sacrosanct certainties the novel is dead. The totalitarian world, whether founded on Marx, Islam, or anything else, is a world of answers rather than questions. There, the novel has no place.” - Milan Kundera
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kino no Tabi: The Beautiful World
+  <strong>🥭 <u>Title:</u></strong> Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... desu ka!?
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kino's Journey</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1763/95397.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/25737.jpg />
 
-<h4>🌱 Score: 8.28/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kino no Tabi: The Beautiful World](https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World)*
+🍂 *More information: [Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... desu ka!?](https://myanimelist.net/anime/9288/Heartcatch_Precure_Movie__Hana_no_Miyako_de_Fashion_Show_desu_ka)*
     
