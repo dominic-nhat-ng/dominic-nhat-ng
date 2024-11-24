@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The memory of war, however, like all memory, is mostly local.” - Susan Sontag
+“Maybe there’s a book in here that will tell me what to do when all the smart choices feel wrong.” - Natalie D. Richards
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fanren Xiu Xian Chuan: Yan Jia Bao Dazhan
+  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1323/114855.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 14</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fanren Xiu Xian Chuan: Yan Jia Bao Dazhan](https://myanimelist.net/anime/45558/Fanren_Xiu_Xian_Chuan__Yan_Jia_Bao_Dazhan)*
+🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
     
