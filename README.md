@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading was my escape and my comfort, my consolation, my stimulant of choice: reading for the pure pleasure of it, for the beautiful stillness that surrounds you when you hear an author's words reverberating in your head.” - Paul Auster
+“Vorweg ein paar grundsätzliche Regeln: - Nick Hornby
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenchi Muyou! Ryououki
+  <strong>🥭 <u>Title:</u></strong> Densetsu no Yuusha no Densetsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tenchi Muyo! Ryo-Ohki</h4>
+<h4>🌿 <u>English Title:</u> The Legend of the Legendary Heroes</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1224/95301.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/73651.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tenchi Muyou! Ryououki](https://myanimelist.net/anime/539/Tenchi_Muyou_Ryououki)*
+🍂 *More information: [Densetsu no Yuusha no Densetsu](https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu)*
     
