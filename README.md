@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Julian, locul acesta este o taină, un sanctuar. Fiecare carte, fiecare tom pe care-l vezi are suflet. Sufletul celui care a scris-o și sufletul celor care au citit-o, au trăit și au visat cu ea. De fiecare dată când o carte ajunge în mâinile altcuiva, de fiecare dată când altcineva îți lasă privirea să alunece pe paginile ei, un spirit crește și se face tot mai puternic. Când bunicul tău m-a adus aici, cu mulți ani în urmă, locul acesta era deja vechi. Poate că e la fel de vechi ca orașul însuși. Nimeni nu știe exact de când există sau cine l-a creat. O să-ți spun ce mi-a spus și mie bunicul tău. Când piere o bibliotecă sau se închide o librărie, când o carte dispare în noianul uitării, cei care știm de existența acestui loc, paznicii lui, facem tot ce trebuie pentru ca ea să ajungă aici. În locul acesta cărțile de care nu-și mai amintește nimeni, cărțile pierdute în negura timpului, continuă să trăiască, așteptând ca într-o bună zi să ajungă din nou în mâinile unui nou cititor, ale unui nou spirit. La librăria noastră vindem cărți noi și cumpărăm cărți vechi, dar în realitate cărțile nu au stăpân. Fiecare carte de aici a fost cel mai bun prieten al cuiva. Acum ne mai are doar pe noi, Julian. Vei putea păstra secretul acesta?” - Carlos Ruiz Zafón
+“The books that influence the world are those that it has not read.” - G.K. Chesterton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: Chronicle
 </h4>
 
-<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: Chronicle</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1786/110717.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Avant Garde, Drama, Fantasy, Girls Love</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
+🍂 *More information: [Shingeki no Kyojin: Chronicle](https://myanimelist.net/anime/42091/Shingeki_no_Kyojin__Chronicle)*
     
