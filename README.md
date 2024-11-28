@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“When a goat likes a book, the whole book is gone, - William Stafford
+“Stories provide a form, a mold. And a good story, one that's retold for generations, demands you pour the messy contents of your own life into it to see what happens as it hardens and sets.” - Liam Callanan (author)
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Noragami Aragoto OVA
+  <strong>🥭 <u>Title:</u></strong> Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/77510.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/45512.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Noragami Aragoto OVA](https://myanimelist.net/anime/30885/Noragami_Aragoto_OVA)*
+🍂 *More information: [Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel](https://myanimelist.net/anime/16934/Chuunibyou_demo_Koi_ga_Shitai_Kirameki_no_Slapstick_Noel)*
     
