@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“All writers are waiting for replies. That’s what I’ve learned. Maybe all human beings are” - Niall Williams
+“When a goat likes a book, the whole book is gone, - William Stafford
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> AKB0048: Next Stage
+  <strong>🥭 <u>Title:</u></strong> Noragami Aragoto OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> AKB0048: Next Stage</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/44450.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/77510.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [AKB0048: Next Stage](https://myanimelist.net/anime/14941/AKB0048__Next_Stage)*
+🍂 *More information: [Noragami Aragoto OVA](https://myanimelist.net/anime/30885/Noragami_Aragoto_OVA)*
     
