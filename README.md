@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“After nourishment, shelter and companionship, stories are the thing we need most in the world.” - Philip Pullman
+“Never trust anyone who has not brought a book with them.” - Lemony Snicket
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mo Dao Zu Shi: Wanjie Pian
+  <strong>🥭 <u>Title:</u></strong> Kamisama Hajimemashita: Kako-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Founder of Diabolism Season 3</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1634/116782.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/81250.jpg />
 
-<h4>🌱 Score: 8.68/10</h4>
+<h4>🌱 Score: 8.4/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mo Dao Zu Shi: Wanjie Pian](https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian)*
+🍂 *More information: [Kamisama Hajimemashita: Kako-hen](https://myanimelist.net/anime/30709/Kamisama_Hajimemashita__Kako-hen)*
     
