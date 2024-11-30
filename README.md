@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The servants used to say, 'he read himself silly.” - Fyodor Dostoyevsky
+“بربك لا تبكِ بكاء المظلوم ! - نجلاء حسن
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Paradise Kiss
+  <strong>🥭 <u>Title:</u></strong> Fate/stay night Movie: Heaven's Feel - III. Spring Song
 </h4>
 
-<h4>🌿 <u>English Title:</u> Paradise Kiss</h4>
+<h4>🌿 <u>English Title:</u> Fate/stay night: Heaven's Feel - III. Spring Song</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/80636.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1142/112957.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 8.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Paradise Kiss](https://myanimelist.net/anime/322/Paradise_Kiss)*
+🍂 *More information: [Fate/stay night Movie: Heaven's Feel - III. Spring Song](https://myanimelist.net/anime/33050/Fate_stay_night_Movie__Heavens_Feel_-_III_Spring_Song)*
     
