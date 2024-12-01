@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The ultimate luxury is to reread: to revisit a book to see how time has treated it, how memory has distorted it, or how my own passing years have cast a new light on it.” - Michael Upchurch
+“I've parodied a powerful quote from Rob Hill Sr. A quote that, in the crazy ass world of right now, sho'nuff screams to me. Inquiring minds, you're up.” - A.K. Kuykendall
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou: Dianfeng Rongyao
+  <strong>🥭 <u>Title:</u></strong> Kingdom 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The King's Avatar: For the Glory</h4>
+<h4>🌿 <u>English Title:</u> Kingdom: Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1960/102480.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/53589.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 8.3/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2013</h4>
 
 <h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 39</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Quanzhi Gaoshou: Dianfeng Rongyao](https://myanimelist.net/anime/40080/Quanzhi_Gaoshou__Dianfeng_Rongyao)*
+🍂 *More information: [Kingdom 2nd Season](https://myanimelist.net/anime/17389/Kingdom_2nd_Season)*
     
