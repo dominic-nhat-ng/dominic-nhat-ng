@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I've parodied a powerful quote from Rob Hill Sr. A quote that, in the crazy ass world of right now, sho'nuff screams to me. Inquiring minds, you're up.” - A.K. Kuykendall
+“Reading's not a luxury, art's not a luxury. It's about your soul, and it's about yourself. And if reading is a luxury, being human is a luxury” - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kingdom 2nd Season
+  <strong>🥭 <u>Title:</u></strong> "Oshi no Ko" 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kingdom: Season 2</h4>
+<h4>🌿 <u>English Title:</u> [Oshi No Ko] Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/53589.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1006/143302.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 8.63/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 39</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kingdom 2nd Season](https://myanimelist.net/anime/17389/Kingdom_2nd_Season)*
+🍂 *More information: ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)*
     
