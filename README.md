@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you surround yourself with the good and righteous, they can only raise you up. If you surround yourself with the others, they will drag you down into the doldrums of mediocrity, and they will keep you there, but only as long as you permit it.” - Mark Glamack
+“And of course I'm in the press all the time. So many books have been written about me; Into thin air, up in the air,Gone with the wind-” - Rick Riordan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Yuri
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha
 </h4>
 
-<h4>🌿 <u>English Title:</u> YuruYuri: Happy Go Lily</h4>
+<h4>🌿 <u>English Title:</u> Case Closed Movie 04: Captured In Her Eyes</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/75173.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1196/94319.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Girls Love</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Yuri](https://myanimelist.net/anime/10495/Yuru_Yuri)*
+🍂 *More information: [Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha](https://myanimelist.net/anime/1363/Meitantei_Conan_Movie_04__Hitomi_no_Naka_no_Ansatsusha)*
     
