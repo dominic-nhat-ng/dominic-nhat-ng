@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And of course I'm in the press all the time. So many books have been written about me; Into thin air, up in the air,Gone with the wind-” - Rick Riordan
+“Do you know what it is?' [Toby] said thoughtfully. 'It's that they haven't had anything really awful happen to them. No wonder they seem so superficial and unfeeling.' - Michelle Cooper
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha
+  <strong>🥭 <u>Title:</u></strong> Kamonohashi Ron no Kindan Suiri 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed Movie 04: Captured In Her Eyes</h4>
+<h4>🌿 <u>English Title:</u> Ron Kamonohashi's Forbidden Deductions Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1196/94319.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1917/144334.jpg />
 
-<h4>🌱 Score: 8.03/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha](https://myanimelist.net/anime/1363/Meitantei_Conan_Movie_04__Hitomi_no_Naka_no_Ansatsusha)*
+🍂 *More information: [Kamonohashi Ron no Kindan Suiri 2nd Season](https://myanimelist.net/anime/57635/Kamonohashi_Ron_no_Kindan_Suiri_2nd_Season)*
     
