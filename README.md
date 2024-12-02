@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading's not a luxury, art's not a luxury. It's about your soul, and it's about yourself. And if reading is a luxury, being human is a luxury” - Jeanette Winterson
+“If you surround yourself with the good and righteous, they can only raise you up. If you surround yourself with the others, they will drag you down into the doldrums of mediocrity, and they will keep you there, but only as long as you permit it.” - Mark Glamack
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> "Oshi no Ko" 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Yuru Yuri
 </h4>
 
-<h4>🌿 <u>English Title:</u> [Oshi No Ko] Season 2</h4>
+<h4>🌿 <u>English Title:</u> YuruYuri: Happy Go Lily</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1006/143302.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/75173.jpg />
 
-<h4>🌱 Score: 8.63/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Girls Love</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)*
+🍂 *More information: [Yuru Yuri](https://myanimelist.net/anime/10495/Yuru_Yuri)*
     
