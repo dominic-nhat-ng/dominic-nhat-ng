@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Any book worth banning is a book worth reading.” - Isaac Asimov
+“And if our book consumption remains as low as it has been, at least let us admit that it is because reading is a less exciting pastime than going to the dogs, the pictures or the pub, and not because books, whether bought or borrowed, are too expensive.” - George Orwell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tasogare Otome x Amnesia
+  <strong>🥭 <u>Title:</u></strong> Kaijuu 8-gou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dusk Maiden of Amnesia</h4>
+<h4>🌿 <u>English Title:</u> Kaiju No. 8</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/64435.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1370/140362.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tasogare Otome x Amnesia](https://myanimelist.net/anime/12445/Tasogare_Otome_x_Amnesia)*
+🍂 *More information: [Kaijuu 8-gou](https://myanimelist.net/anime/52588/Kaijuu_8-gou)*
     
