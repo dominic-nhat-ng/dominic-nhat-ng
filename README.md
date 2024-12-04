@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books, which we mistake for consolation, only add depth to our sorrow. ” - Orhan Pamuk
+“You can tell a lot about a person by the book they’re carrying.” - Joseph Patrick Pascale
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Xingchen Bian 5th Season
+  <strong>🥭 <u>Title:</u></strong> Jormungand
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of Immortals 5th Season</h4>
+<h4>🌿 <u>English Title:</u> Jormungand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1593/126730.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/73280.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 28</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Xingchen Bian 5th Season](https://myanimelist.net/anime/51769/Xingchen_Bian_5th_Season)*
+🍂 *More information: [Jormungand](https://myanimelist.net/anime/12413/Jormungand)*
     
