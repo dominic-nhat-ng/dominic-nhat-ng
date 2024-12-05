@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Another thing I need to do, when I'm near the end of the book, is sleep in the same room with it...Somehow the book doesn't leave you when you're asleep right next to it.” - Joan Didion
+“The main reason why great leaders are rare is because books on leadership far outsell those on followership.” - Mokokoma Mokhonoana
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bungou Stray Dogs 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Fate/strange Fake: Whispers of Dawn
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bungo Stray Dogs 2</h4>
+<h4>🌿 <u>English Title:</u> Fate/strange Fake: Whispers of Dawn</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1572/133096.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1220/136619.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Mystery</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season)*
+🍂 *More information: [Fate/strange Fake: Whispers of Dawn](https://myanimelist.net/anime/53127/Fate_strange_Fake__Whispers_of_Dawn)*
     
