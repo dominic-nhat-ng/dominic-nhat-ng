@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The main reason why great leaders are rare is because books on leadership far outsell those on followership.” - Mokokoma Mokhonoana
+“The books transported her into new worlds and introduced her to amazing people who lived exciting lives. She went on olden-day sailing ships with Joseph Conrad. She went to Africa with Ernest Hemingway and to India with Rudyard Kipling. She travelled all over the world while sitting in her little room in an English village.” - Roald Dahl
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fate/strange Fake: Whispers of Dawn
+  <strong>🥭 <u>Title:</u></strong> Terra e... (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fate/strange Fake: Whispers of Dawn</h4>
+<h4>🌿 <u>English Title:</u> Toward the Terra (TV)</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1220/136619.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1013/117558.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fate/strange Fake: Whispers of Dawn](https://myanimelist.net/anime/53127/Fate_strange_Fake__Whispers_of_Dawn)*
+🍂 *More information: [Terra e... (TV)](https://myanimelist.net/anime/2158/Terra_e_TV)*
     
