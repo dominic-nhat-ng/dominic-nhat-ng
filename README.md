@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We read not only because we cannot know enough people, but because friendship is so vulnerable, so likely to diminish or disappear, overcome by space, time, imperfect sympathies and all the sorrows of familial and passional life.” - Harold Bloom
+“I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.” - Margaret Drabble
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Senkou no Hathaway
 </h4>
 
-<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World- The Frozen Bond</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Hathaway</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1238/104023.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1195/115685.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna](https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna)*
+🍂 *More information: [Kidou Senshi Gundam: Senkou no Hathaway](https://myanimelist.net/anime/37765/Kidou_Senshi_Gundam__Senkou_no_Hathaway)*
     
