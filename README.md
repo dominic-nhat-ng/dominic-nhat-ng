@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Most of us who turn to any subject with love remember some morning or evening hour when we got on a high stool to reach down an untried volume, or sat with parted lips listening to a new talker, or for very lack of books began to listen to the voices within, as the first traceable beginning of our love.” - George Eliot
+“We read not only because we cannot know enough people, but because friendship is so vulnerable, so likely to diminish or disappear, overcome by space, time, imperfect sympathies and all the sorrows of familial and passional life.” - Harold Bloom
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sugar Apple Fairy Tale Part 2
+  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World- The Frozen Bond</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1693/138042.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1238/104023.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sugar Apple Fairy Tale Part 2](https://myanimelist.net/anime/54842/Sugar_Apple_Fairy_Tale_Part_2)*
+🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna](https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna)*
     
