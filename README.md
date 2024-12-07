@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Life without books, chocolate & coffee is just useless.” - Nadun Lokuliyanage
+“Reader's Bill of Rights - Daniel Pennac
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuuki Bakuhatsu Bang Bravern
+  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Kaikou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Brave Bang Bravern!</h4>
+<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1872/140863.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1104/91793.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yuuki Bakuhatsu Bang Bravern](https://myanimelist.net/anime/55528/Yuuki_Bakuhatsu_Bang_Bravern)*
+🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Kaikou](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)*
     
