@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I'm the first to admit that I don't write right. Now, relax and enjoy the show! The sideshow, that is.” - Lori R. Lopez
+“Life without books, chocolate & coffee is just useless.” - Nadun Lokuliyanage
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Major: World Series
+  <strong>🥭 <u>Title:</u></strong> Yuuki Bakuhatsu Bang Bravern
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Brave Bang Bravern!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75220.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1872/140863.jpg />
 
-<h4>🌱 Score: 8.28/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Major: World Series](https://myanimelist.net/anime/11917/Major__World_Series)*
+🍂 *More information: [Yuuki Bakuhatsu Bang Bravern](https://myanimelist.net/anime/55528/Yuuki_Bakuhatsu_Bang_Bravern)*
     
