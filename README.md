@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reader's Bill of Rights - Daniel Pennac
+“Without libraries what have we? We have no past and no future.” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Kaikou
+  <strong>🥭 <u>Title:</u></strong> Made in Abyss Movie 3: Fukaki Tamashii no Reimei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These</h4>
+<h4>🌿 <u>English Title:</u> Made in Abyss: Dawn of the Deep Soul</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1104/91793.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1502/110723.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Kaikou](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)*
+🍂 *More information: [Made in Abyss Movie 3: Fukaki Tamashii no Reimei](https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei)*
     
