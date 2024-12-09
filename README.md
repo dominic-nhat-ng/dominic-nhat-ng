@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I went to a bookstore and asked the saleswoman, 'Where's the self-help section?' She said if she told me, it would defeat the purpose.” - George Carlin
+“Do you love tragedies and everything that breaks the heart?” - Friedrich Nietzsche
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist
+  <strong>🥭 <u>Title:</u></strong> Utawarerumono: Futari no Hakuoro
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fullmetal Alchemist</h4>
+<h4>🌿 <u>English Title:</u> Utawarerumono: Mask of Truth</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/75815.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1516/123280.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 28</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)*
+🍂 *More information: [Utawarerumono: Futari no Hakuoro](https://myanimelist.net/anime/40590/Utawarerumono__Futari_no_Hakuoro)*
     
