@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Do you love tragedies and everything that breaks the heart?” - Friedrich Nietzsche
+“For a bookworm like Mother, a Brontë novel sister was better than a biological one.” - Eileen Favorite
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Utawarerumono: Futari no Hakuoro
+  <strong>🥭 <u>Title:</u></strong> Karakai Jouzu no Takagi-san 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Utawarerumono: Mask of Truth</h4>
+<h4>🌿 <u>English Title:</u> Teasing Master Takagi-san 3</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1516/123280.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1861/120361.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.39/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 28</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Utawarerumono: Futari no Hakuoro](https://myanimelist.net/anime/40590/Utawarerumono__Futari_no_Hakuoro)*
+🍂 *More information: [Karakai Jouzu no Takagi-san 3](https://myanimelist.net/anime/49721/Karakai_Jouzu_no_Takagi-san_3)*
     
