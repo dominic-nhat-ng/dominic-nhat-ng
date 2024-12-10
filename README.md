@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are worse prisons than words.” - Carlos Ruiz Zafón
+“Good books are for consideration after, too.” - Stephen King
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> World Trigger 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Isekai Nonbiri Nouka
 </h4>
 
-<h4>🌿 <u>English Title:</u> World Trigger 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Farming Life in Another World</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1598/110462.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1983/132329.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Fantasy, Slice of Life</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [World Trigger 2nd Season](https://myanimelist.net/anime/40907/World_Trigger_2nd_Season)*
+🍂 *More information: [Isekai Nonbiri Nouka](https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka)*
     
