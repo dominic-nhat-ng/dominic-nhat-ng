@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“And what would they be scared of? There's nothing to fear in a perfect world, is there?” - Catherine Fisher
+“For a moment I was distracted. Books always did that to me... I liked the creamy pages, the smell of ink, all the secrets locked inside.” - Elizabeth C. Bunce
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuanshen: Weixing zhi Lu
+  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: On Television
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshin Impact: The Road Not Taken</h4>
+<h4>🌿 <u>English Title:</u> Patlabor: The Mobile Police - The TV Series</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1613/143280.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1739/144310.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1989</h4>
 
-<h4>🌵 Genres: Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 47</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuanshen: Weixing zhi Lu](https://myanimelist.net/anime/58930/Yuanshen__Weixing_zhi_Lu)*
+🍂 *More information: [Kidou Keisatsu Patlabor: On Television](https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television)*
     
