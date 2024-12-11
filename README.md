@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you have enough book space, I don't want to talk to you.” - Terry Pratchett
+“And what would they be scared of? There's nothing to fear in a perfect world, is there?” - Catherine Fisher
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin the Third: Mine Fujiko to Iu Onna
+  <strong>🥭 <u>Title:</u></strong> Yuanshen: Weixing zhi Lu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin the Third: The Woman Called Fujiko Mine</h4>
+<h4>🌿 <u>English Title:</u> Genshin Impact: The Road Not Taken</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1482/133813.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1613/143280.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Ecchi</h4>
+<h4>🌵 Genres: Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Lupin the Third: Mine Fujiko to Iu Onna](https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna)*
+🍂 *More information: [Yuanshen: Weixing zhi Lu](https://myanimelist.net/anime/58930/Yuanshen__Weixing_zhi_Lu)*
     
