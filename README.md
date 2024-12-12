@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading things that are relevant to the facts of your life is of limited value. The facts are, after all, only the facts, and the yearning passionate part of you will not be met there. That is why reading ourselves as a fiction as well as fact is so liberating. The wider we read the freer we become.” - Jeanette Winterson
+“Should I put it in my mouth?” - K.L. Thorne
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Digimon Tamers
+  <strong>🥭 <u>Title:</u></strong> Touch
 </h4>
 
-<h4>🌿 <u>English Title:</u> Digimon Tamers</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/73696.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/53087.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.98/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 1985</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama, Romance, Sports</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Digimon Tamers](https://myanimelist.net/anime/874/Digimon_Tamers)*
+🍂 *More information: [Touch](https://myanimelist.net/anime/1065/Touch)*
     
