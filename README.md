@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For a moment I was distracted. Books always did that to me... I liked the creamy pages, the smell of ink, all the secrets locked inside.” - Elizabeth C. Bunce
+“Life is too short to waste time on books that end badly” - Jayne Ann Krentz
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: On Television
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
 </h4>
 
-<h4>🌿 <u>English Title:</u> Patlabor: The Mobile Police - The TV Series</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: The Last Attack</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1739/144310.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1379/145452.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 8.01/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1989</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 47</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kidou Keisatsu Patlabor: On Television](https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television)*
+🍂 *More information: [Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack](https://myanimelist.net/anime/59571/Shingeki_no_Kyojin_Movie__Kanketsu-hen_-_The_Last_Attack)*
     
