@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Life is too short to waste time on books that end badly” - Jayne Ann Krentz
+“Reading things that are relevant to the facts of your life is of limited value. The facts are, after all, only the facts, and the yearning passionate part of you will not be met there. That is why reading ourselves as a fiction as well as fact is so liberating. The wider we read the freer we become.” - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+  <strong>🥭 <u>Title:</u></strong> Digimon Tamers
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: The Last Attack</h4>
+<h4>🌿 <u>English Title:</u> Digimon Tamers</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1379/145452.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/73696.jpg />
 
-<h4>🌱 Score: 8.01/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 51</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack](https://myanimelist.net/anime/59571/Shingeki_no_Kyojin_Movie__Kanketsu-hen_-_The_Last_Attack)*
+🍂 *More information: [Digimon Tamers](https://myanimelist.net/anime/874/Digimon_Tamers)*
     
