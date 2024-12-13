@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Should I put it in my mouth?” - K.L. Thorne
+“Writing a book is always a hard job. One is always tempted to limit oneself to dreaming it.” - Gaston Bachelard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Touch
+  <strong>🥭 <u>Title:</u></strong> Utawarerumono
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Utawarerumono</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/53087.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1119/118609.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1985</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Drama, Romance, Sports</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Touch](https://myanimelist.net/anime/1065/Touch)*
+🍂 *More information: [Utawarerumono](https://myanimelist.net/anime/856/Utawarerumono)*
     
