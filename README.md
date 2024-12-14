@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She just smiled, said that she loved books more than anything, and started telling him excitedly what each of the ones in her lap was about. And Ove realised that he wanted to hear her talking about the things she loved for the rest of his life.” - Fredrik Backman
+“As I walked in the dark through the tunnels and tunnels of books, I could not help being overcome by a sense of sadness. I couldn't help thinking that if I, by pure chance, had found a whole universe in a single unknown book, buried in that endless necropolis, tens of thousands more would remain unexplored, forgotten forever. I felt myself surrounded by millions of abandoned pages, by worlds and souls without an owner sinking in an ocean of darkness, while the world that throbbed outside the library seemed to be losing its memory, day after day, unknowingly, feeling all the wiser the more it forgot.” - Carlos Ruiz Zafón
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhu Xian
+  <strong>🥭 <u>Title:</u></strong> Kono Oto Tomare! Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
+<h4>🌿 <u>English Title:</u> Kono Oto Tomare!: Sounds of Life Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1422/111621.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.42/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
+🍂 *More information: [Kono Oto Tomare! Part 2](https://myanimelist.net/anime/38889/Kono_Oto_Tomare_Part_2)*
     
