@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“As I walked in the dark through the tunnels and tunnels of books, I could not help being overcome by a sense of sadness. I couldn't help thinking that if I, by pure chance, had found a whole universe in a single unknown book, buried in that endless necropolis, tens of thousands more would remain unexplored, forgotten forever. I felt myself surrounded by millions of abandoned pages, by worlds and souls without an owner sinking in an ocean of darkness, while the world that throbbed outside the library seemed to be losing its memory, day after day, unknowingly, feeling all the wiser the more it forgot.” - Carlos Ruiz Zafón
+“All others are best sellers. - Nitya Prakash
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Oto Tomare! Part 2
+  <strong>🥭 <u>Title:</u></strong> Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kono Oto Tomare!: Sounds of Life Season 2</h4>
+<h4>🌿 <u>English Title:</u> Modern Love Tokyo: He's Playing Our Song</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1422/111621.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1054/132584.jpg />
 
-<h4>🌱 Score: 8.42/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kono Oto Tomare! Part 2](https://myanimelist.net/anime/38889/Kono_Oto_Tomare_Part_2)*
+🍂 *More information: [Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe](https://myanimelist.net/anime/53585/Modern_Love_Tokyo__Kare_ga_Kanaderu_Futari_no_Shirabe)*
     
