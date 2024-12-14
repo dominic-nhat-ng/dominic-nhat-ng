@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books are the carriers of civilization. Without books, history is silent, literature is dumb, science is crippled, thought and speculation at a standstill. They are engines of change, windows on the world, lighthouses erected in the sea of time.” - BARBARA WERTHEIM TUCHMAN
+“She just smiled, said that she loved books more than anything, and started telling him excitedly what each of the ones in her lap was about. And Ove realised that he wanted to hear her talking about the things she loved for the rest of his life.” - Fredrik Backman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 4th Season
+  <strong>🥭 <u>Title:</u></strong> Zhu Xian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 4th Season</h4>
+<h4>🌿 <u>English Title:</u> Jade Dynasty</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/112452.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1830/117534.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 4th Season](https://myanimelist.net/anime/44412/Doupo_Cangqiong_4th_Season)*
+🍂 *More information: [Zhu Xian](https://myanimelist.net/anime/49759/Zhu_Xian)*
     
