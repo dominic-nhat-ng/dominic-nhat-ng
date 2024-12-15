@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“All others are best sellers. - Nitya Prakash
+“The words looped in my head. Download it for free. Cheerful, triumphant. Download it for free! What a freaking bargain. - Lauren Willig, Beatriz Williams, Karen White
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
+  <strong>🥭 <u>Title:</u></strong> Sekaiichi Hatsukoi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Modern Love Tokyo: He's Playing Our Song</h4>
+<h4>🌿 <u>English Title:</u> Sekai Ichi Hatsukoi - World's Greatest First Love</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1054/132584.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/29763.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Boys Love</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe](https://myanimelist.net/anime/53585/Modern_Love_Tokyo__Kare_ga_Kanaderu_Futari_no_Shirabe)*
+🍂 *More information: [Sekaiichi Hatsukoi](https://myanimelist.net/anime/9926/Sekaiichi_Hatsukoi)*
     
