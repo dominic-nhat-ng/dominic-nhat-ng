@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A truly good book is something as natural, and as unexpectedly and unaccountably fair and perfect, as a wild flower discovered on the prairies of the West or in the jungles of the East. Genius is a light which makes the darkness visible, like the lightning’s flash, which perchance shatters the temple of knowledge itself,--and not a taper lighted at the hearth-stone of the race, which pales before the light of common day.” - Henry David Thoreau
+“I can think of few better ways to introduce a child to books than to let her stack them, upend them, rearrange them, and get her fingerprints all over them.” - Anne Fadiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass
+  <strong>🥭 <u>Title:</u></strong> Heike Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> Psycho-Pass</h4>
+<h4>🌿 <u>English Title:</u> The Heike Story</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1314/142015.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1282/119979.jpg />
 
-<h4>🌱 Score: 8.33/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 22</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass](https://myanimelist.net/anime/13601/Psycho-Pass)*
+🍂 *More information: [Heike Monogatari](https://myanimelist.net/anime/49738/Heike_Monogatari)*
     
