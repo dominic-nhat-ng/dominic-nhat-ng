@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I can think of few better ways to introduce a child to books than to let her stack them, upend them, rearrange them, and get her fingerprints all over them.” - Anne Fadiman
+“A book, like a person, has its fortunes with one; is lucky or unlucky in the precise moment of its falling in our way, and often by some happy accident counts with us for something more than its independent value.” - Walter Pater
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Heike Monogatari
+  <strong>🥭 <u>Title:</u></strong> Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Heike Story</h4>
+<h4>🌿 <u>English Title:</u> Steins;Gate: Open the Missing Link - Divide By Zero</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1282/119979.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/77324.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama, Supernatural</h4>
+<h4>🌵 Genres: Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Heike Monogatari](https://myanimelist.net/anime/49738/Heike_Monogatari)*
+🍂 *More information: [Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero](https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero)*
     
