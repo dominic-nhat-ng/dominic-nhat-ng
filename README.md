@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Shelving books incorrectly is as good as stealing them. It's almost worse.” - Paul Acampora
+“Literature is the safe and traditional vehicle through which we learn about the world and pass on values from on generation to the next. Books save lives.” - Laurie Anderson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 00
+  <strong>🥭 <u>Title:</u></strong> Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 00</h4>
+<h4>🌿 <u>English Title:</u> Imaizumi Brings All the Gyarus to His House</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/13200.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1862/140626.jpg />
 
-<h4>🌱 Score: 8.1/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam 00](https://myanimelist.net/anime/2581/Kidou_Senshi_Gundam_00)*
+🍂 *More information: [Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://myanimelist.net/anime/48755/Imaizumin_Chi_wa_Douyara_Gal_no_Tamariba_ni_Natteru_Rashii)*
     
