@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“On realising what has been said, for Jason, Adam might as well have bought out a gun. “No WAY man.” Jason yelps, before controlling himself. He nearly ends up wearing the meal for a hat, not forgetting earning some pretty hard glares – not that he seems to care. “Not everyone is as insane as you.” He continues in a hushed whisper, scooping onto his plate some very soggy and watery-looking peas. ”You can’t just go up to a girl and tell them that you like them, especially not Jen. That’s complete and utter madness. MADNESS. She’d flip...badly.” Jason concludes. “She’d flip…then she’d kill me with whatever was nearby and knowing Jen, that could be ANYTHING!” - Adele  Rose
+“Shelving books incorrectly is as good as stealing them. It's almost worse.” - Paul Acampora
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsubasa Chronicle 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 00
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE Season Two</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 00</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/6554.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/13200.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.1/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tsubasa Chronicle 2nd Season](https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season)*
+🍂 *More information: [Kidou Senshi Gundam 00](https://myanimelist.net/anime/2581/Kidou_Senshi_Gundam_00)*
     
