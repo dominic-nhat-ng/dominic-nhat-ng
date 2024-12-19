@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A big book is like a serious relationship; it requires a commitment. Not only that, but there's no guarantee that you will enjoy it, or that it will have a happy ending. Kind of like going out with a girl, having to spend time every day with her - with absolutely no guarantee of nailing her in the end. No thanks.” - Mick Foley
+“When writers die they become books, which is, after all, not too bad an incarnation." - Jorge Luis Borges
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Osomatsu-san Movie
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: Chronicle
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mr. Osomatsu the Movie</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: Chronicle</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1492/113860.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1786/110717.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Osomatsu-san Movie](https://myanimelist.net/anime/38201/Osomatsu-san_Movie)*
+🍂 *More information: [Shingeki no Kyojin: Chronicle](https://myanimelist.net/anime/42091/Shingeki_no_Kyojin__Chronicle)*
     
