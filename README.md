@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“When writers die they become books, which is, after all, not too bad an incarnation." - Jorge Luis Borges
+“All that mankind has done, thought, gained, or been; it is lying as in magic preservation in the pages of books.” - Thomas Carlyle
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: Chronicle
+  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken: Raoh Gaiden Gekitou-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Chronicle</h4>
+<h4>🌿 <u>English Title:</u> Fist of the North Star: Raoh Side Story Fierce Fighting Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1786/110717.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/29678.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: Chronicle](https://myanimelist.net/anime/42091/Shingeki_no_Kyojin__Chronicle)*
+🍂 *More information: [Hokuto no Ken: Raoh Gaiden Gekitou-hen](https://myanimelist.net/anime/2174/Hokuto_no_Ken__Raoh_Gaiden_Gekitou-hen)*
     
