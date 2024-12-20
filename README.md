@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He started to look at me in a manner I recognized: it was the way I looked at a new book, one I had never read before, one that surprised me with all it had to say.” - Alice Hoffman
+“Being a writer is a good, good thing.” - Shannon Hale
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fukigen na Mononokean Tsuzuki
+  <strong>🥭 <u>Title:</u></strong> Dandadan
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Morose Mononokean II</h4>
+<h4>🌿 <u>English Title:</u> Dan Da Dan</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1298/111600.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1584/143719.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Fukigen na Mononokean Tsuzuki](https://myanimelist.net/anime/37958/Fukigen_na_Mononokean_Tsuzuki)*
+🍂 *More information: [Dandadan](https://myanimelist.net/anime/57334/Dandadan)*
     
