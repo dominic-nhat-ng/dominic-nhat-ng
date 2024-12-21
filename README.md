@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Any given censor is a fool. The very fact that he is a censor indicates that.” - Heywood Broun
+“I certainly couldn't have survived my childhood without books. All that deprivation and pain--abuse, broken home, a runaway sister, a brother with cancer--the books allowed me to withstand. They sustained me. I read still, prolifically, with great passion, but never like I read in those days: in those days it was life or death.” - Junot Díaz
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rozen Maiden: Träumend
+  <strong>🥭 <u>Title:</u></strong> Given Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rozen Maiden: Träumend</h4>
+<h4>🌿 <u>English Title:</u> given The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/10242.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1648/111422.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rozen Maiden: Träumend](https://myanimelist.net/anime/65/Rozen_Maiden__Träumend)*
+🍂 *More information: [Given Movie 1](https://myanimelist.net/anime/40421/Given_Movie_1)*
     
