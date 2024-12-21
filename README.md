@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The young need discipline and a full bookcase.” - Vivienne Westwood
+“Any given censor is a fool. The very fact that he is a censor indicates that.” - Heywood Broun
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aishang Ta de Liyou
+  <strong>🥭 <u>Title:</u></strong> Rozen Maiden: Träumend
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Girl Downstairs</h4>
+<h4>🌿 <u>English Title:</u> Rozen Maiden: Träumend</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1070/134906.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/10242.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 22</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Aishang Ta de Liyou](https://myanimelist.net/anime/54846/Aishang_Ta_de_Liyou)*
+🍂 *More information: [Rozen Maiden: Träumend](https://myanimelist.net/anime/65/Rozen_Maiden__Träumend)*
     
