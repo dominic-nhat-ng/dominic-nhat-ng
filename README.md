@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Being a writer is a good, good thing.” - Shannon Hale
+“The young need discipline and a full bookcase.” - Vivienne Westwood
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dandadan
+  <strong>🥭 <u>Title:</u></strong> Aishang Ta de Liyou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dan Da Dan</h4>
+<h4>🌿 <u>English Title:</u> The Girl Downstairs</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1584/143719.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1070/134906.jpg />
 
-<h4>🌱 Score: 8.72/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 22</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dandadan](https://myanimelist.net/anime/57334/Dandadan)*
+🍂 *More information: [Aishang Ta de Liyou](https://myanimelist.net/anime/54846/Aishang_Ta_de_Liyou)*
     
