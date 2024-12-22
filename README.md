@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I certainly couldn't have survived my childhood without books. All that deprivation and pain--abuse, broken home, a runaway sister, a brother with cancer--the books allowed me to withstand. They sustained me. I read still, prolifically, with great passion, but never like I read in those days: in those days it was life or death.” - Junot Díaz
+“I guess you need to be an intelligent-looking old man to sell books full of spiritual bullshit” - Dmitry Dyatlov
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given Movie 1
+  <strong>🥭 <u>Title:</u></strong> Tasogare Otome x Amnesia: Taima Otome
 </h4>
 
-<h4>🌿 <u>English Title:</u> given The Movie</h4>
+<h4>🌿 <u>English Title:</u> Dusk Maiden of Amnesia: Ghost Girl</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1648/111422.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/65883.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Horror, Mystery, Romance, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Given Movie 1](https://myanimelist.net/anime/40421/Given_Movie_1)*
+🍂 *More information: [Tasogare Otome x Amnesia: Taima Otome](https://myanimelist.net/anime/14189/Tasogare_Otome_x_Amnesia__Taima_Otome)*
     
