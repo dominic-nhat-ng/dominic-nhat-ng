@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I like books whose virtue is all drawn together in a page or two. I like sentences that don't budge though armies cross them. ” - Virginia Woolf
+“When someone gives me either a democratic or republican pamphlet, I throw it in their face. I’m a librarian, damn it! We only take book donations.” - Bauvard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hinamatsuri
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Crystal Season III
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hinamatsuri</h4>
+<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Crystal Season III</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1580/93526.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/78859.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hinamatsuri](https://myanimelist.net/anime/36296/Hinamatsuri)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon Crystal Season III](https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III)*
     
