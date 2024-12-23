@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“When someone gives me either a democratic or republican pamphlet, I throw it in their face. I’m a librarian, damn it! We only take book donations.” - Bauvard
+“Some books are so familiar that reading them is like being home again.” - Louisa May Alcott
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Crystal Season III
+  <strong>🥭 <u>Title:</u></strong> Kimitachi wa Dou Ikiru ka
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Crystal Season III</h4>
+<h4>🌿 <u>English Title:</u> The Boy and the Heron</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/78859.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1126/139654.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon Crystal Season III](https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III)*
+🍂 *More information: [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime/36699/Kimitachi_wa_Dou_Ikiru_ka)*
     
