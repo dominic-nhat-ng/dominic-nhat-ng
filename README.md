@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But, how do you know if an ending is truly good for the characters unless you've traveled with them through every page?” - Shannon Hale
+“A soul trembling to sit by a hearth so bright, - Stéphane Mallarme
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dorohedoro
+  <strong>🥭 <u>Title:</u></strong> Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Kaleido Star: Legend of Phoenix - The Layla Hamilton Story</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1230/119278.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/28863.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy, Horror</h4>
+<h4>🌵 Genres: Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Dorohedoro](https://myanimelist.net/anime/38668/Dorohedoro)*
+🍂 *More information: [Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari](https://myanimelist.net/anime/429/Kaleido_Star__Legend_of_Phoenix_-_Layla_Hamilton_Monogatari)*
     
