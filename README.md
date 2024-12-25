@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Even when reading is impossible, the presence of books acquired produces such an ecstasy that the buying of more books than one can read is nothing less than the soul reaching towards infinity... We cherish books even if unread, their mere presence exudes comfort, their ready access reassurance.” - A.E Newton
+“Books are not about passing the time. They're about other lives. Other worlds.” - Alan Bennett
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Angel Beats! Specials
+  <strong>🥭 <u>Title:</u></strong> Macross Plus Movie Edition
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/25073.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1487/133799.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Angel Beats! Specials](https://myanimelist.net/anime/9062/Angel_Beats_Specials)*
+🍂 *More information: [Macross Plus Movie Edition](https://myanimelist.net/anime/1211/Macross_Plus_Movie_Edition)*
     
