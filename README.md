@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“People talk about books being an escape, but here on the tube, this one feels more like a lifeline...The motion of the train makes her head rattle, but her eyes lock on the words the way a figure skater might choose a focal point as she spins, and just like that, she's grounded again.” - Jennifer E. Smith
+“Me cae bien la gente que lee libros, y no sólo porque yo solía escribirlos. Los lectores de libros están tan dispuestos como cualquiera a iniciar una conversación con el tema del tiempo, pero son capaces de pasar de ahí.” - Stephen King
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Versailles no Bara
+  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Rose of Versailles</h4>
+<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/57043.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1032/135088.jpg />
 
-<h4>🌱 Score: 8.34/10</h4>
+<h4>🌱 Score: 8.7/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1979</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 40</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Versailles no Bara](https://myanimelist.net/anime/338/Versailles_no_Bara)*
+🍂 *More information: [Code Geass: Hangyaku no Lelouch](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)*
     
