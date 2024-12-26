@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I never desire to converse with a man who has written more than he has read.” - Samuel Johnson
+“People talk about books being an escape, but here on the tube, this one feels more like a lifeline...The motion of the train makes her head rattle, but her eyes lock on the words the way a figure skater might choose a focal point as she spins, and just like that, she's grounded again.” - Jennifer E. Smith
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kyousou Giga (TV)
+  <strong>🥭 <u>Title:</u></strong> Versailles no Bara
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kyousougiga</h4>
+<h4>🌿 <u>English Title:</u> The Rose of Versailles</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/85431.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/57043.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 8.34/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 1979</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 40</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kyousou Giga (TV)](https://myanimelist.net/anime/19703/Kyousou_Giga_TV)*
+🍂 *More information: [Versailles no Bara](https://myanimelist.net/anime/338/Versailles_no_Bara)*
     
