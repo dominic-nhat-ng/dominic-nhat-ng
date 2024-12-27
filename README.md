@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading helps you understand another person's truth, and gives you the tools to share your own truth with people you may never even meet” - Celine Kiernan
+“For me, reading is so much more. Books teach you how other people think, and what they're feeling, and how they change from ordinary beings to extraordinary ones. Often they are so appealing and intelligent, you'd rather spend time reading about them than doing anything else.” - Jennifer Kaufman and Karen Mack
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yondemasu yo, Azazel-san. (TV)
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! Garupa☆Pico
 </h4>
 
-<h4>🌿 <u>English Title:</u> You're Being Summoned, Azazel</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/75284.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1341/92872.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yondemasu yo, Azazel-san. (TV)](https://myanimelist.net/anime/10216/Yondemasu_yo_Azazel-san_TV)*
+🍂 *More information: [BanG Dream! Garupa☆Pico](https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico)*
     
