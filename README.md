@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Me cae bien la gente que lee libros, y no sólo porque yo solía escribirlos. Los lectores de libros están tan dispuestos como cualquiera a iniciar una conversación con el tema del tiempo, pero son capaces de pasar de ahí.” - Stephen King
+“Everything comes to him who waits, except a loaned book.” - Kin Hubbard
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch
+  <strong>🥭 <u>Title:</u></strong> Jigoku Sensei Nube
 </h4>
 
-<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion</h4>
+<h4>🌿 <u>English Title:</u> Hell Teacher Nube</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1032/135088.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1068/99222.jpg />
 
-<h4>🌱 Score: 8.7/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Horror, Supernatural</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 49</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Code Geass: Hangyaku no Lelouch](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)*
+🍂 *More information: [Jigoku Sensei Nube](https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube)*
     
