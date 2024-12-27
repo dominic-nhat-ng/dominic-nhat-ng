@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Everything comes to him who waits, except a loaned book.” - Kin Hubbard
+“Reading helps you understand another person's truth, and gives you the tools to share your own truth with people you may never even meet” - Celine Kiernan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Sensei Nube
+  <strong>🥭 <u>Title:</u></strong> Yondemasu yo, Azazel-san. (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Teacher Nube</h4>
+<h4>🌿 <u>English Title:</u> You're Being Summoned, Azazel</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1068/99222.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/75284.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy, Horror, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Sensei Nube](https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube)*
+🍂 *More information: [Yondemasu yo, Azazel-san. (TV)](https://myanimelist.net/anime/10216/Yondemasu_yo_Azazel-san_TV)*
     
