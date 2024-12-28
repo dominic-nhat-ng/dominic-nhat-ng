@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Know yourself and go in swinging, if it hurts when you hit, it might be real, too.” - Patrick Ness
+“She wanted to and believed she could - Jill Telford
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chihayafuru 2
+  <strong>🥭 <u>Title:</u></strong> Musekinin Kanchou Tylor
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Irresponsible Captain Tylor</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/47435.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/14898.jpg />
 
-<h4>🌱 Score: 8.38/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chihayafuru 2](https://myanimelist.net/anime/14397/Chihayafuru_2)*
+🍂 *More information: [Musekinin Kanchou Tylor](https://myanimelist.net/anime/569/Musekinin_Kanchou_Tylor)*
     
