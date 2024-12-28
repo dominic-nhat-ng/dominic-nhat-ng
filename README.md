@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For me, reading is so much more. Books teach you how other people think, and what they're feeling, and how they change from ordinary beings to extraordinary ones. Often they are so appealing and intelligent, you'd rather spend time reading about them than doing anything else.” - Jennifer Kaufman and Karen Mack
+“Know yourself and go in swinging, if it hurts when you hit, it might be real, too.” - Patrick Ness
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! Garupa☆Pico
+  <strong>🥭 <u>Title:</u></strong> Chihayafuru 2
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1341/92872.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/47435.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.38/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! Garupa☆Pico](https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico)*
+🍂 *More information: [Chihayafuru 2](https://myanimelist.net/anime/14397/Chihayafuru_2)*
     
