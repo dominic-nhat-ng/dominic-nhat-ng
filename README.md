@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Like walking into the darkness our soldier’s went, their lives like cash haphazardly spent. Vietnam was a conflict that was no more than an experiment aimed at humanity's scientific evolvement.” - A.K. Kuykendall
+“Sometimes books have housed me and sometimes they have encased me.” - Kyo Maclear
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tate no Yuusha no Nariagari
+  <strong>🥭 <u>Title:</u></strong> Phantom: Requiem for the Phantom
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Rising of the Shield Hero</h4>
+<h4>🌿 <u>English Title:</u> Phantom: Requiem for the Phantom</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1490/101365.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/22470.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.92/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)*
+🍂 *More information: [Phantom: Requiem for the Phantom](https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom)*
     
