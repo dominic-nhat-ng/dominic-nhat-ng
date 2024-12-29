@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Sometimes books have housed me and sometimes they have encased me.” - Kyo Maclear
+“Compassion is an unstable emotion. It needs to be translated into action, or it withers.” - Susan Sontag
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Phantom: Requiem for the Phantom
+  <strong>🥭 <u>Title:</u></strong> Karakai Jouzu no Takagi-san: Water Slide
 </h4>
 
-<h4>🌿 <u>English Title:</u> Phantom: Requiem for the Phantom</h4>
+<h4>🌿 <u>English Title:</u> Teasing Master Takagi-san: Water Slide</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/22470.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1128/99821.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Phantom: Requiem for the Phantom](https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom)*
+🍂 *More information: [Karakai Jouzu no Takagi-san: Water Slide](https://myanimelist.net/anime/37621/Karakai_Jouzu_no_Takagi-san__Water_Slide)*
     
