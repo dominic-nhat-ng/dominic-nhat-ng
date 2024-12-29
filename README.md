@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The only friends I have are the dead who have bequeathed their writings to me--I have no others.” - Thomas Bernhard
+“Like walking into the darkness our soldier’s went, their lives like cash haphazardly spent. Vietnam was a conflict that was no more than an experiment aimed at humanity's scientific evolvement.” - A.K. Kuykendall
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Tate no Yuusha no Nariagari
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> The Rising of the Shield Hero</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1283/90230.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1490/101365.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 2nd Season](https://myanimelist.net/anime/37176/Doupo_Cangqiong_2nd_Season)*
+🍂 *More information: [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)*
     
