@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book can change the world, but a word of hope, a smile, and experienced advice can change a life.” - Jennifer Megan Varnadore
+“Fire is a speed reader, which is why the ignorant burn books: fire races through pages, takes care of all the knowledge, and never bores you with a summary.” - Elizabeth McCracken
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Diamond no Ace OVA
+  <strong>🥭 <u>Title:</u></strong> Sakamoto desu ga?
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ace of Diamond OVA</h4>
+<h4>🌿 <u>English Title:</u> Haven't You Heard? I'm Sakamoto</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71263.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/79468.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Diamond no Ace OVA](https://myanimelist.net/anime/25341/Diamond_no_Ace_OVA)*
+🍂 *More information: [Sakamoto desu ga?](https://myanimelist.net/anime/32542/Sakamoto_desu_ga)*
     
