@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“This is a book. It is a book I found in a box. I found the box in the attic. The box was in the attic, under the eaves. The attic was hot and still. The air was stale with dust. The dust was from old pictures and books. The dust in the air was made up of the book I found. I breathed the book before I saw it; tasted the book before I read it.” - Paul Harding
+“Books—all books—are complicated things, muttering at us in different contradictory voices, refusing to stay the same when we go back to them. Tying them down too much robs of them of the magic.” - Andrew Rilstone
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Sensei Nube
+  <strong>🥭 <u>Title:</u></strong> Go! Princess Precure
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Teacher Nube</h4>
+<h4>🌿 <u>English Title:</u> Go! Princess Pretty Cure</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1068/99222.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/88625.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Horror, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Sensei Nube](https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube)*
+🍂 *More information: [Go! Princess Precure](https://myanimelist.net/anime/28669/Go_Princess_Precure)*
     
