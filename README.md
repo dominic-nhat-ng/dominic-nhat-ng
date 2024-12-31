@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books—all books—are complicated things, muttering at us in different contradictory voices, refusing to stay the same when we go back to them. Tying them down too much robs of them of the magic.” - Andrew Rilstone
+“I had already found that it was not good to be alone, and so made companionship with what there was around me, sometimes with the universe and sometimes with my own insignificant self; but my books were always my friends, let fail all else.” - Joshua Slocum
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Go! Princess Precure
+  <strong>🥭 <u>Title:</u></strong> Yao Shen Ji 5th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Go! Princess Pretty Cure</h4>
+<h4>🌿 <u>English Title:</u> Tales of Demons and Gods Season 5</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/88625.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1390/119371.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 52</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Go! Princess Precure](https://myanimelist.net/anime/28669/Go_Princess_Precure)*
+🍂 *More information: [Yao Shen Ji 5th Season](https://myanimelist.net/anime/50274/Yao_Shen_Ji_5th_Season)*
     
