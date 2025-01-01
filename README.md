@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Fiction is like a spider's web, attached ever so lightly perhaps, but still attached to life at all four corners.” - Virginia Woolf
+“Literature is a luxury; fiction is a necessity.” - G.K. Chesterton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
+  <strong>🥭 <u>Title:</u></strong> Gakkougurashi!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Snow White with the Red Hair OVA</h4>
+<h4>🌿 <u>English Title:</u> School-Live!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/77943.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1798/91548.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Horror, Mystery, Slice of Life, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page](https://myanimelist.net/anime/31483/Akagami_no_Shirayuki-hime__Nandemonai_Takaramono_Kono_Page)*
+🍂 *More information: [Gakkougurashi!](https://myanimelist.net/anime/24765/Gakkougurashi)*
     
