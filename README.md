@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature is a luxury; fiction is a necessity.” - G.K. Chesterton
+“Well, everything's a lesson, isn't it? Learning all the time, as you could say.” - Anthony Burgess
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gakkougurashi!
+  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> School-Live!</h4>
+<h4>🌿 <u>English Title:</u> Assassination Classroom Second Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1798/91548.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/77966.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.48/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Slice of Life, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gakkougurashi!](https://myanimelist.net/anime/24765/Gakkougurashi)*
+🍂 *More information: [Ansatsu Kyoushitsu 2nd Season](https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season)*
     
