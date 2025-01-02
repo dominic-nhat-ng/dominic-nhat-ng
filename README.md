@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Well, everything's a lesson, isn't it? Learning all the time, as you could say.” - Anthony Burgess
+“Writing a book isn’t an easy process nor is it always enjoyable, but it is one of life’s most satisfying achievements.” - Guy Kawasaki
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Shinigami Bocchan to Kuro Maid
 </h4>
 
-<h4>🌿 <u>English Title:</u> Assassination Classroom Second Season</h4>
+<h4>🌿 <u>English Title:</u> The Duke of Death and His Maid</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/77966.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1471/115593.jpg />
 
-<h4>🌱 Score: 8.48/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ansatsu Kyoushitsu 2nd Season](https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season)*
+🍂 *More information: [Shinigami Bocchan to Kuro Maid](https://myanimelist.net/anime/47257/Shinigami_Bocchan_to_Kuro_Maid)*
     
