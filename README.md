@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Writing a book isn’t an easy process nor is it always enjoyable, but it is one of life’s most satisfying achievements.” - Guy Kawasaki
+“Wear the old coat and buy the new book.” - Austin Phelps
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinigami Bocchan to Kuro Maid
+  <strong>🥭 <u>Title:</u></strong> Black Clover: Mahou Tei no Ken
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Duke of Death and His Maid</h4>
+<h4>🌿 <u>English Title:</u> Black Clover: Sword of the Wizard King</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1471/115593.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1337/136363.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shinigami Bocchan to Kuro Maid](https://myanimelist.net/anime/47257/Shinigami_Bocchan_to_Kuro_Maid)*
+🍂 *More information: [Black Clover: Mahou Tei no Ken](https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken)*
     
