@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Wear the old coat and buy the new book.” - Austin Phelps
+“Writing a long and substantial book is like having a friend and companion at your side, to whom you can always turn for comfort and amusement, and whose society becomes more attractive as a new and widening field of interest is lighted in the mind.” - Winston S. Churchill
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Black Clover: Mahou Tei no Ken
+  <strong>🥭 <u>Title:</u></strong> Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Clover: Sword of the Wizard King</h4>
+<h4>🌿 <u>English Title:</u> Anohana: The Flower We Saw That Day The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1337/136363.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/49993.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Black Clover: Mahou Tei no Ken](https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken)*
+🍂 *More information: [Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://myanimelist.net/anime/15039/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Movie)*
     
