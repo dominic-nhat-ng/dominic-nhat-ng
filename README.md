@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Writing a long and substantial book is like having a friend and companion at your side, to whom you can always turn for comfort and amusement, and whose society becomes more attractive as a new and widening field of interest is lighted in the mind.” - Winston S. Churchill
+“Our private tastes in books showed a hint of our secret selves.” - Nova Ren Suma
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie
+  <strong>🥭 <u>Title:</u></strong> Hololive Alternative
 </h4>
 
-<h4>🌿 <u>English Title:</u> Anohana: The Flower We Saw That Day The Movie</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/49993.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1692/112088.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: PV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Supernatural</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://myanimelist.net/anime/15039/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Movie)*
+🍂 *More information: [Hololive Alternative](https://myanimelist.net/anime/47904/Hololive_Alternative)*
     
