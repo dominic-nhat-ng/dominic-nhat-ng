@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In books I find the dead as if they were alive; in books I foresee things to come; in books warlike affairs are set forth; from books come forth the laws of peace. - Richard de Bury Philobiblon 1339
+“Nehmen Sie ein gutes Buch mit ins Bett - Bücher schnarchen nicht.” - Thea Dorn
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece: Gyojin Tou-hen
+  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 1: Kakusei no Toki
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece Log: Fish-Man Island Saga</h4>
+<h4>🌿 <u>English Title:</u> Broken Blade</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1928/146063.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/68079.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [One Piece: Gyojin Tou-hen](https://myanimelist.net/anime/60108/One_Piece__Gyojin_Tou-hen)*
+🍂 *More information: [Break Blade Movie 1: Kakusei no Toki](https://myanimelist.net/anime/6772/Break_Blade_Movie_1__Kakusei_no_Toki)*
     
