@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Nehmen Sie ein gutes Buch mit ins Bett - Bücher schnarchen nicht.” - Thea Dorn
+“And what would they be scared of? There's nothing to fear in a perfect world, is there?” - Catherine Fisher
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 1: Kakusei no Toki
+  <strong>🥭 <u>Title:</u></strong> Dance Dance Danseur
 </h4>
 
-<h4>🌿 <u>English Title:</u> Broken Blade</h4>
+<h4>🌿 <u>English Title:</u> Dance Dance Danseur</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/68079.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1571/121381.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Break Blade Movie 1: Kakusei no Toki](https://myanimelist.net/anime/6772/Break_Blade_Movie_1__Kakusei_no_Toki)*
+🍂 *More information: [Dance Dance Danseur](https://myanimelist.net/anime/48702/Dance_Dance_Danseur)*
     
