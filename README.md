@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I'm pretty sure my addiction to reading has just reached a whole new level.” - Colleen Hoover
+“Everyone who tells a story tells it differently, just to remind us that everybody sees it differently. Some people say there are true things to be found, some people say all kinds of things can be proved. I don't believe them. The only thing for certain is how complicated it all is, like string full of knots. It's all there but hard to find the beginning and impossible to fathom the end. The best you can do is admire the cat's cradle, and maybe knot it up a bit more.” - Jeanette Winterson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Death Parade
+  <strong>🥭 <u>Title:</u></strong> Casshern Sins
 </h4>
 
-<h4>🌿 <u>English Title:</u> Death Parade</h4>
+<h4>🌿 <u>English Title:</u> Casshern Sins</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71553.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/23336.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Death Parade](https://myanimelist.net/anime/28223/Death_Parade)*
+🍂 *More information: [Casshern Sins](https://myanimelist.net/anime/4981/Casshern_Sins)*
     
