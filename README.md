@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Everyone who tells a story tells it differently, just to remind us that everybody sees it differently. Some people say there are true things to be found, some people say all kinds of things can be proved. I don't believe them. The only thing for certain is how complicated it all is, like string full of knots. It's all there but hard to find the beginning and impossible to fathom the end. The best you can do is admire the cat's cradle, and maybe knot it up a bit more.” - Jeanette Winterson
+“Censorship ends in logical completeness when nobody is allowed to read any books except the books that nobody - George Bernard Shaw
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Casshern Sins
+  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 3 - Mugen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Casshern Sins</h4>
+<h4>🌿 <u>English Title:</u> Initial D Legend 3: Dream</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/23336.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/76759.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Casshern Sins](https://myanimelist.net/anime/4981/Casshern_Sins)*
+🍂 *More information: [New Initial D Movie: Legend 3 - Mugen](https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen)*
     
