@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Authors like cats because they are such quiet, lovable, wise creatures, and cats like authors for the same reasons.” - Robertson Davies
+“I'm pretty sure my addiction to reading has just reached a whole new level.” - Colleen Hoover
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Made in Abyss: Retsujitsu no Ougonkyou
+  <strong>🥭 <u>Title:</u></strong> Death Parade
 </h4>
 
-<h4>🌿 <u>English Title:</u> Made in Abyss: The Golden City of the Scorching Sun</h4>
+<h4>🌿 <u>English Title:</u> Death Parade</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1864/122519.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/71553.jpg />
 
-<h4>🌱 Score: 8.62/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Made in Abyss: Retsujitsu no Ougonkyou](https://myanimelist.net/anime/41084/Made_in_Abyss__Retsujitsu_no_Ougonkyou)*
+🍂 *More information: [Death Parade](https://myanimelist.net/anime/28223/Death_Parade)*
     
