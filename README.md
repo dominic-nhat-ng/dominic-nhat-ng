@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She was a ray of sunshine, a warm summer rain, a bright fire on a cold winter’s day, and now she could be dead because she had tried to save the man she loved.” - Grace Willows
+“A great writer is a blitzed illusionist of portable magic. You're welcome.” - A.K. Kuykendall
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> NieR:Automata Ver1.1a
+  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion Special Edition - Black Rebellion</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1399/128318.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/23532.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [NieR:Automata Ver1.1a](https://myanimelist.net/anime/51105/NieR_Automata_Ver11a)*
+🍂 *More information: [Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion](https://myanimelist.net/anime/4596/Code_Geass__Hangyaku_no_Lelouch_Special_Edition_-_Black_Rebellion)*
     
