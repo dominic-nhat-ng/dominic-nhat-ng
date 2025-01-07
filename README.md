@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A great writer is a blitzed illusionist of portable magic. You're welcome.” - A.K. Kuykendall
+“He kissed me for a long moment, holding my shoulders, perhaps to keep me from pressing my whole body against his. Then he tried to lift my bag. - Laura Whitcomb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
+  <strong>🥭 <u>Title:</u></strong> Darker than Black: Kuro no Keiyakusha Gaiden
 </h4>
 
-<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion Special Edition - Black Rebellion</h4>
+<h4>🌿 <u>English Title:</u> Darker Than Black: Gemini of the Meteor OVAs</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/23532.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/17469.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion](https://myanimelist.net/anime/4596/Code_Geass__Hangyaku_no_Lelouch_Special_Edition_-_Black_Rebellion)*
+🍂 *More information: [Darker than Black: Kuro no Keiyakusha Gaiden](https://myanimelist.net/anime/7338/Darker_than_Black__Kuro_no_Keiyakusha_Gaiden)*
     
