@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Censorship ends in logical completeness when nobody is allowed to read any books except the books that nobody - George Bernard Shaw
+“She was a ray of sunshine, a warm summer rain, a bright fire on a cold winter’s day, and now she could be dead because she had tried to save the man she loved.” - Grace Willows
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 3 - Mugen
+  <strong>🥭 <u>Title:</u></strong> NieR:Automata Ver1.1a
 </h4>
 
-<h4>🌿 <u>English Title:</u> Initial D Legend 3: Dream</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/76759.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1399/128318.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [New Initial D Movie: Legend 3 - Mugen](https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen)*
+🍂 *More information: [NieR:Automata Ver1.1a](https://myanimelist.net/anime/51105/NieR_Automata_Ver11a)*
     
