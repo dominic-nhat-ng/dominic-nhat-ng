@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“He kissed me for a long moment, holding my shoulders, perhaps to keep me from pressing my whole body against his. Then he tried to lift my bag. - Laura Whitcomb
+“What she was finding also was how one book led to another, doors kept opening wherever she turned and the days weren't long enough for the reading she wanted to do.” - Alan Bennett
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Darker than Black: Kuro no Keiyakusha Gaiden
+  <strong>🥭 <u>Title:</u></strong> Colorful (Movie)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Darker Than Black: Gemini of the Meteor OVAs</h4>
+<h4>🌿 <u>English Title:</u> Colorful: The Motion Picture</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/17469.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1839/103426.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Drama</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Darker than Black: Kuro no Keiyakusha Gaiden](https://myanimelist.net/anime/7338/Darker_than_Black__Kuro_no_Keiyakusha_Gaiden)*
+🍂 *More information: [Colorful (Movie)](https://myanimelist.net/anime/8142/Colorful_Movie)*
     
