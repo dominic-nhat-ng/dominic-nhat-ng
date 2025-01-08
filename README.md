@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What she was finding also was how one book led to another, doors kept opening wherever she turned and the days weren't long enough for the reading she wanted to do.” - Alan Bennett
+“A great book is a homing device - J. Patrick Lewis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Colorful (Movie)
+  <strong>🥭 <u>Title:</u></strong> Tsuki ga Kirei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Colorful: The Motion Picture</h4>
+<h4>🌿 <u>English Title:</u> Tsukigakirei</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1839/103426.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/85592.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Award Winning, Drama</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Colorful (Movie)](https://myanimelist.net/anime/8142/Colorful_Movie)*
+🍂 *More information: [Tsuki ga Kirei](https://myanimelist.net/anime/34822/Tsuki_ga_Kirei)*
     
