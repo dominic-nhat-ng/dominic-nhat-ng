@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The worst book imaginable has a redeeming quality if it gets a young person to read.” - Tiffini Johnson
+“I'm always interested in products that claim to be aphrodisiacs, when we all know that the one and only aphrodisiac is a man volunteering to build you some bookshelves.” - Lisa Scottoline
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena
+  <strong>🥭 <u>Title:</u></strong> Yojouhan Shinwa Taikei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena</h4>
+<h4>🌿 <u>English Title:</u> The Tatami Galaxy</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1078/95285.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1633/123689.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1997</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Fantasy, Mystery, Suspense</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Mystery, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 39</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Kakumei Utena](https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena)*
+🍂 *More information: [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)*
     
