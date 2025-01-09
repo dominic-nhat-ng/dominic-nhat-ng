@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I hate it that Americans are taught to fear some books and some ideas as though they were diseases.” - Kurt Vonnegut
+“The worst book imaginable has a redeeming quality if it gets a young person to read.” - Tiffini Johnson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cike Wu Liuqi
+  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena
 </h4>
 
-<h4>🌿 <u>English Title:</u> Scissor Seven</h4>
+<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1620/94968.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1078/95285.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 1997</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama, Mystery, Romance</h4>
+<h4>🌵 Genres: Award Winning, Drama, Fantasy, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 39</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cike Wu Liuqi](https://myanimelist.net/anime/38409/Cike_Wu_Liuqi)*
+🍂 *More information: [Shoujo Kakumei Utena](https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena)*
     
