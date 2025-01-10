@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Read Emily Dickinson. Read Graham Greene. Read Italo Calvino. Read Maya Angelou. Read anything you want. Just read. Books are possibilities. They are Escape Routes. They give you options when you have none. Each one can be a home for an uprooted mind.” - Matt Haig
+“This book taught me, once and for all, how easily you can escape this world with the help of words! You can find friends between the pages of a book, wonderful friends.” - Cornelia Funke
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Part 2
+  <strong>🥭 <u>Title:</u></strong> Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Dragon Ball Z: Bardock, The Father of Goku</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1546/102680.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1978/138488.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kengan Ashura Part 2](https://myanimelist.net/anime/40269/Kengan_Ashura_Part_2)*
+🍂 *More information: [Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen](https://myanimelist.net/anime/986/Dragon_Ball_Z_Special_1__Tatta_Hitori_no_Saishuu_Kessen)*
     
