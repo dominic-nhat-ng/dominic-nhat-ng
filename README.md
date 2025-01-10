@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“This book taught me, once and for all, how easily you can escape this world with the help of words! You can find friends between the pages of a book, wonderful friends.” - Cornelia Funke
+“I don't know where people got the idea that characters in books are supposed to be likable. Books are not in the business of creating merely likeable characters with whom you can have some simple identification with. Books are in the business of creating great stories that make you're brain go ahhbdgbdmerhbergurhbudgerbudbaaarr.” - John Green
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen
+  <strong>🥭 <u>Title:</u></strong> Towa no Quon 4: Guren no Shoushin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dragon Ball Z: Bardock, The Father of Goku</h4>
+<h4>🌿 <u>English Title:</u> Towanoquon: The Roaring Anxiety</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1978/138488.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1014/94473.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1990</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen](https://myanimelist.net/anime/986/Dragon_Ball_Z_Special_1__Tatta_Hitori_no_Saishuu_Kessen)*
+🍂 *More information: [Towa no Quon 4: Guren no Shoushin](https://myanimelist.net/anime/10715/Towa_no_Quon_4__Guren_no_Shoushin)*
     
