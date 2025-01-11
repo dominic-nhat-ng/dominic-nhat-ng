@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I don't know where people got the idea that characters in books are supposed to be likable. Books are not in the business of creating merely likeable characters with whom you can have some simple identification with. Books are in the business of creating great stories that make you're brain go ahhbdgbdmerhbergurhbudgerbudbaaarr.” - John Green
+“There is something about words. In expert hands, manipulated deftly, they take you prisoner. Wind themselves around your limbs like spider silk, and when you are so enthralled you cannot move, they pierce your skin, enter your blood, numb your thoughts. Inside you they work their magic.” - Diane Setterfield
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Towa no Quon 4: Guren no Shoushin
+  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
 </h4>
 
-<h4>🌿 <u>English Title:</u> Towanoquon: The Roaring Anxiety</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - Solid State Society 3D</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1014/94473.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/29259.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Towa no Quon 4: Guren no Shoushin](https://myanimelist.net/anime/10715/Towa_no_Quon_4__Guren_no_Shoushin)*
+🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D](https://myanimelist.net/anime/10090/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society_3D)*
     
