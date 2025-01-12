@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Unoka went into an inner room and soon returned with a small wooden disc containing a kola nut, some alligator pepper and a lump of white chalk. - Chinua Achebe
+“How is a magician to exist without books? Let someone explain - Susanna Clarke
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bleach 20th PV
+  <strong>🥭 <u>Title:</u></strong> Fruits Basket: The Final
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bleach 20th Anime Anniversary</h4>
+<h4>🌿 <u>English Title:</u> Fruits Basket: The Final Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1357/145984.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1085/114792.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 8.96/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bleach 20th PV](https://myanimelist.net/anime/60048/Bleach_20th_PV)*
+🍂 *More information: [Fruits Basket: The Final](https://myanimelist.net/anime/42938/Fruits_Basket__The_Final)*
     
