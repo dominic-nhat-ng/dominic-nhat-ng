@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There’s a different flavor to children’s literature you read after you grow up than there was reading it as a child. Things that were sweet as a child become bitter once you grow up.” - Mizuki Nomura
+“Take my books away, and I should be desperate!” - Emily Brontë
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jujutsu Kaisen 0 Movie
+  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jujutsu Kaisen 0</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1121/119044.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/13168.jpg />
 
-<h4>🌱 Score: 8.42/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Jujutsu Kaisen 0 Movie](https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie)*
+🍂 *More information: [Initial D Battle Stage](https://myanimelist.net/anime/821/Initial_D_Battle_Stage)*
     
