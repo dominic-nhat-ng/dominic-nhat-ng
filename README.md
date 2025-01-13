@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Take my books away, and I should be desperate!” - Emily Brontë
+“* نجلاء .. - نجلاء حسن
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage
+  <strong>🥭 <u>Title:</u></strong> 91 Days
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> 91 Days</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/13168.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/80515.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Drama</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Initial D Battle Stage](https://myanimelist.net/anime/821/Initial_D_Battle_Stage)*
+🍂 *More information: [91 Days](https://myanimelist.net/anime/32998/91_Days)*
     
