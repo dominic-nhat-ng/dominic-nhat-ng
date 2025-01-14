@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Myrna could spend happy hours browsing bookcases. She felt if she could just get a good look at a person’s bookcase and their grocery cart, she’d pretty much know who they were.” - Louise Penny
+“Pinapakita nyong mga dayuhang libro pa rin at mga dayuhang libro lang ang tinatangkilik ng mga tao. Bakit magsusugal ang mga publisher sa Pilipinong manunulat kung hindi naman pala mabili ang mga kwentong isinusulat ng mga Pilipino? At kung walang mga publisher na tatanggap ng mga trabaho ng mga Pilipinong manunulat, sino pa ang gugustong magsulat? Kung walang magsusulat, ano ang kahihinatnan ng panitikan sa bansa at sa kakayanan nating bumasa't sumulat?” - Bob Ong
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
+  <strong>🥭 <u>Title:</u></strong> Giovanni no Shima
 </h4>
 
-<h4>🌿 <u>English Title:</u> Modern Love Tokyo: He's Playing Our Song</h4>
+<h4>🌿 <u>English Title:</u> Giovanni's Island</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1054/132584.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/56297.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Award Winning, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe](https://myanimelist.net/anime/53585/Modern_Love_Tokyo__Kare_ga_Kanaderu_Futari_no_Shirabe)*
+🍂 *More information: [Giovanni no Shima](https://myanimelist.net/anime/19115/Giovanni_no_Shima)*
     
