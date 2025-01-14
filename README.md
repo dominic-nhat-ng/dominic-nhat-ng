@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Every person who reads your book will be far more likely to be on your side. Books are the most intensive of all current media. People are willing to spend hours and hours with a book.” - Hank Green
+“Myrna could spend happy hours browsing bookcases. She felt if she could just get a good look at a person’s bookcase and their grocery cart, she’d pretty much know who they were.” - Louise Penny
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsue to Tsurugi no Wistoria
+  <strong>🥭 <u>Title:</u></strong> Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wistoria: Wand and Sword</h4>
+<h4>🌿 <u>English Title:</u> Modern Love Tokyo: He's Playing Our Song</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1281/144104.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1054/132584.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tsue to Tsurugi no Wistoria](https://myanimelist.net/anime/58059/Tsue_to_Tsurugi_no_Wistoria)*
+🍂 *More information: [Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe](https://myanimelist.net/anime/53585/Modern_Love_Tokyo__Kare_ga_Kanaderu_Futari_no_Shirabe)*
     
