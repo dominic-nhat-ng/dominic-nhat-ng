@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“ - Vladimir Nabokov
+“I went to a bookstore and asked the saleswoman, 'Where's the self-help section?' She said if she told me, it would defeat the purpose.” - George Carlin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Touhai Densetsu Akagi: Yami ni Maiorita Tensai
+  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Akagi</h4>
+<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/53587.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Suspense</h4>
+<h4>🌵 Genres: Avant Garde, Drama, Fantasy, Girls Love</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Touhai Densetsu Akagi: Yami ni Maiorita Tensai](https://myanimelist.net/anime/658/Touhai_Densetsu_Akagi__Yami_ni_Maiorita_Tensai)*
+🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
     
