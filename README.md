@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“In every book lies a world. They pass the time waiting to be found by those that seek them.” - Anonymous
+“Often and often the slow difficult tears formed upon my lids and were brushed hastily aside lest they should fall upon my ledger and leave immortal trace of my weakness and misery. But that has passed, and now I am resigned to the life; I even find pleasure in it. The books—I have always loved books and I love them better now—are my greatest solace.” - D.E. Stevenson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rokuhou-dou Yotsuiro Biyori
+  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Season 2 Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yotsuiro Biyori</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1015/90727.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1086/144400.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Gourmet, Slice of Life</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 16</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Rokuhou-dou Yotsuiro Biyori](https://myanimelist.net/anime/36513/Rokuhou-dou_Yotsuiro_Biyori)*
+🍂 *More information: [Kengan Ashura Season 2 Part 2](https://myanimelist.net/anime/56704/Kengan_Ashura_Season_2_Part_2)*
     
