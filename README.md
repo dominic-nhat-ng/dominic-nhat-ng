@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Often and often the slow difficult tears formed upon my lids and were brushed hastily aside lest they should fall upon my ledger and leave immortal trace of my weakness and misery. But that has passed, and now I am resigned to the life; I even find pleasure in it. The books—I have always loved books and I love them better now—are my greatest solace.” - D.E. Stevenson
+“A book read by a thousand different people is a thousand different books.” - Andrei Tarkovsky
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Season 2 Part 2
+  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU Climax! OVA</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1086/144400.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1334/132921.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kengan Ashura Season 2 Part 2](https://myanimelist.net/anime/56704/Kengan_Ashura_Season_2_Part_2)*
+🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.](https://myanimelist.net/anime/46431/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan__Dakara_Shishunki_wa_Owarazu_ni_Seishun_wa_Tsuzuiteiku)*
     
