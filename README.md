@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But I can now understand why people read, why they like to get lost in somebody else's life. Sometimes I'll read a sentence and it will make me sit up, jolt me, because it is something that I have recently felt but never said out loud. I want to reach into the page and tell the characters that I understand them, that they're not alone, that I'm not alone, that it's ok to feel like this. And then the lunch bell rings, the book closes, and I'm plunged back into reality.” - Cecelia Ahern
+“All writers are vain, selfish, and lazy, and at the very bottom of their motives there lies a mystery. Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand. For all one knows that demon is simply the same instinct that makes a baby squall for attention. And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's own personality. Good prose is like a windowpane.” - George Orwell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
+  <strong>🥭 <u>Title:</u></strong> Yuri!!! on Ice
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
+<h4>🌿 <u>English Title:</u> Yuri!!! On Ice</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/81149.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Award Winning, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
+🍂 *More information: [Yuri!!! on Ice](https://myanimelist.net/anime/32995/Yuri_on_Ice)*
     
