@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book read by a thousand different people is a thousand different books.” - Andrei Tarkovsky
+“But I can now understand why people read, why they like to get lost in somebody else's life. Sometimes I'll read a sentence and it will make me sit up, jolt me, because it is something that I have recently felt but never said out loud. I want to reach into the page and tell the characters that I understand them, that they're not alone, that I'm not alone, that it's ok to feel like this. And then the lunch bell rings, the book closes, and I'm plunged back into reality.” - Cecelia Ahern
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.
+  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU Climax! OVA</h4>
+<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1334/132921.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.](https://myanimelist.net/anime/46431/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan__Dakara_Shishunki_wa_Owarazu_ni_Seishun_wa_Tsuzuiteiku)*
+🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
     
