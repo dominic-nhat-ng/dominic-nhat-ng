@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Knowing I lov'd my books, he furnish'd me From mine own library with volumes that I prize above my dukedom.” - William Shakespeare
+“But girl! Why don’t you exchange your old books for new ones instead of buying dozens and just throwing them on the shelves? “The bookshop guy asked. - Samiha Totanji
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.
+  <strong>🥭 <u>Title:</u></strong> Dr. Stone: New World
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1012/126441.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1316/136268.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.15/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Ecchi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.](https://myanimelist.net/anime/52575/Im_Your_Treasure_Box__Anata_wa_Marine_Senchou_wo_Takarabako_kara_Mitsuketa)*
+🍂 *More information: [Dr. Stone: New World](https://myanimelist.net/anime/48549/Dr_Stone__New_World)*
     
