@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But girl! Why don’t you exchange your old books for new ones instead of buying dozens and just throwing them on the shelves? “The bookshop guy asked. - Samiha Totanji
+“Family is family,' sighed the gondolier. 'Family is everything,' declared Marta Gasperin, bending to kiss the old man on the cheek, at which he flushed. She added mischievously, 'Family and - Michelle Lovric
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dr. Stone: New World
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Katanakaji no Sato-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1316/136268.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1765/135099.jpg />
 
-<h4>🌱 Score: 8.15/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
 <h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Dr. Stone: New World](https://myanimelist.net/anime/48549/Dr_Stone__New_World)*
+🍂 *More information: [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime/51019/Kimetsu_no_Yaiba__Katanakaji_no_Sato-hen)*
     
