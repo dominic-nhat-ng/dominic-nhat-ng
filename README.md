@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Family is family,' sighed the gondolier. 'Family is everything,' declared Marta Gasperin, bending to kiss the old man on the cheek, at which he flushed. She added mischievously, 'Family and - Michelle Lovric
+“Why do all your friends talk like books?” - Pamela Dean
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Katanakaji no Sato-hen
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam
 </h4>
 
-<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1765/135099.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/88524.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1979</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 43</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime/51019/Kimetsu_no_Yaiba__Katanakaji_no_Sato-hen)*
+🍂 *More information: [Kidou Senshi Gundam](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam)*
     
