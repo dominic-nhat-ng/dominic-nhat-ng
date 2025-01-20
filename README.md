@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Any book without a mistake in it has had too much money spent on it.” - William Collins
+“My bookcase is all yours." - Kasie West
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Muumindani no Suisei
+  <strong>🥭 <u>Title:</u></strong> Kyoukai no Kanata
 </h4>
 
-<h4>🌿 <u>English Title:</u> Comet in Moominland</h4>
+<h4>🌿 <u>English Title:</u> Beyond the Boundary</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/3984.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/85468.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Slice of Life</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Muumindani no Suisei](https://myanimelist.net/anime/2313/Muumindani_no_Suisei)*
+🍂 *More information: [Kyoukai no Kanata](https://myanimelist.net/anime/18153/Kyoukai_no_Kanata)*
     
