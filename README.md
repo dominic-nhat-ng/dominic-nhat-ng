@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Good books make you ask questions. Bad readers want everything answered.” - Scott Westerfeld
+“It's a good idea to have your own books with you in a strange place” - Cornelia Funke
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 24: Hiiro no Dangan
+  <strong>🥭 <u>Title:</u></strong> Shinigami Bocchan to Kuro Maid 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 24: The Scarlet Bullet</h4>
+<h4>🌿 <u>English Title:</u> The Duke of Death and His Maid Season 3</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1306/112616.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1988/142714.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama, Mystery</h4>
+<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 24: Hiiro no Dangan](https://myanimelist.net/anime/39764/Meitantei_Conan_Movie_24__Hiiro_no_Dangan)*
+🍂 *More information: [Shinigami Bocchan to Kuro Maid 3rd Season](https://myanimelist.net/anime/56738/Shinigami_Bocchan_to_Kuro_Maid_3rd_Season)*
     
