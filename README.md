@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“My bookcase is all yours." - Kasie West
+“Good books make you ask questions. Bad readers want everything answered.” - Scott Westerfeld
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kyoukai no Kanata
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 24: Hiiro no Dangan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Beyond the Boundary</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 24: The Scarlet Bullet</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/85468.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1306/112616.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Drama, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kyoukai no Kanata](https://myanimelist.net/anime/18153/Kyoukai_no_Kanata)*
+🍂 *More information: [Meitantei Conan Movie 24: Hiiro no Dangan](https://myanimelist.net/anime/39764/Meitantei_Conan_Movie_24__Hiiro_no_Dangan)*
     
