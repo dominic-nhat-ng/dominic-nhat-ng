@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“It's a good idea to have your own books with you in a strange place” - Cornelia Funke
+“Reading is merely a surrogate for thinking for yourself; it means letting someone else direct your thoughts. Many books, moreover, serve merely to show how many ways there are of being wrong, and how far astray you yourself would go if you followed their guidance. You should read only when your own thoughts dry up, which will of course happen frequently enough even to the best heads; but to banish your own thoughts so as to take up a book is a sin against the holy ghost; it is like deserting untrammeled nature to look at a herbarium or engravings of landscapes.” - Arthur Schopenhauer
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinigami Bocchan to Kuro Maid 3rd Season
+  <strong>🥭 <u>Title:</u></strong> InuYasha Movie 4: Guren no Houraijima
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Duke of Death and His Maid Season 3</h4>
+<h4>🌿 <u>English Title:</u> InuYasha the Movie 4: Fire on the Mystic Island</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1988/142714.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1216/94369.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shinigami Bocchan to Kuro Maid 3rd Season](https://myanimelist.net/anime/56738/Shinigami_Bocchan_to_Kuro_Maid_3rd_Season)*
+🍂 *More information: [InuYasha Movie 4: Guren no Houraijima](https://myanimelist.net/anime/449/InuYasha_Movie_4__Guren_no_Houraijima)*
     
