@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Jesse believed stories were the collective memories of the world, recorded in books so that each of us could know who we were before we became who we are. He said that's why people love The Catcher in the Rye when they're teenagers, but fall out of love with it as adults. We're all Holden Caulfield at fifteen, but when we grow up we want to be Atticus Finch.” - Shaun David Hutchinson
+“I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.” - Margaret Drabble
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Diamond no Ace: Second Season OVA
+  <strong>🥭 <u>Title:</u></strong> Haibane Renmei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ace of Diamond: Second Season OVA</h4>
+<h4>🌿 <u>English Title:</u> Haibane Renmei</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/83218.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/13134.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.98/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Drama, Fantasy, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Diamond no Ace: Second Season OVA](https://myanimelist.net/anime/34349/Diamond_no_Ace__Second_Season_OVA)*
+🍂 *More information: [Haibane Renmei](https://myanimelist.net/anime/387/Haibane_Renmei)*
     
