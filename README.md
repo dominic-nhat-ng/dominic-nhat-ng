@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.” - Margaret Drabble
+“. . . I lay on the bed and lost myself in the stories. - Neil Gaiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haibane Renmei
+  <strong>🥭 <u>Title:</u></strong> [Oshi no Ko]
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haibane Renmei</h4>
+<h4>🌿 <u>English Title:</u> [Oshi No Ko]</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/13134.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1812/134736.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 8.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Mystery, Suspense</h4>
+<h4>🌵 Genres: Award Winning, Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haibane Renmei](https://myanimelist.net/anime/387/Haibane_Renmei)*
+🍂 *More information: [[Oshi no Ko]](https://myanimelist.net/anime/52034/Oshi_no_Ko)*
     
