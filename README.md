@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We can imagine the books we'd like to read, even if they have not yet been written, and we can imagine libraries full of books we would like to possess, even if they are well beyond our reach, because we enjoy dreaming up a library that reflects every one of our interests and every one of our foibles--a library that, in its variety and complexity, fully reflects the reader we are.” - Alberto Manguel
+“A monk should surely love his books with humility, wishing their good and not the glory of his own curiosity; but what the temptation of adultery is for laymen and the yearning for riches is for secular ecclesiastics, the seduction of knowledge is for monks.” - Umberto Eco
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!
 </h4>
 
-<h4>🌿 <u>English Title:</u> The World God Only Knows</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/43361.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1343/121390.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kami nomi zo Shiru Sekai](https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai)*
+🍂 *More information: [BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!](https://myanimelist.net/anime/51218/BanG_Dream_5th_Anniversary_Animation__CiRCLE_Thanks_Party)*
     
