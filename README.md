@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“. . . I lay on the bed and lost myself in the stories. - Neil Gaiman
+“We can imagine the books we'd like to read, even if they have not yet been written, and we can imagine libraries full of books we would like to possess, even if they are well beyond our reach, because we enjoy dreaming up a library that reflects every one of our interests and every one of our foibles--a library that, in its variety and complexity, fully reflects the reader we are.” - Alberto Manguel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> [Oshi no Ko]
+  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai
 </h4>
 
-<h4>🌿 <u>English Title:</u> [Oshi No Ko]</h4>
+<h4>🌿 <u>English Title:</u> The World God Only Knows</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1812/134736.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/43361.jpg />
 
-<h4>🌱 Score: 8.59/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Award Winning, Drama</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [[Oshi no Ko]](https://myanimelist.net/anime/52034/Oshi_no_Ko)*
+🍂 *More information: [Kami nomi zo Shiru Sekai](https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai)*
     
