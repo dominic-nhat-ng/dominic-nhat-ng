@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A monk should surely love his books with humility, wishing their good and not the glory of his own curiosity; but what the temptation of adultery is for laymen and the yearning for riches is for secular ecclesiastics, the seduction of knowledge is for monks.” - Umberto Eco
+“All writers are vain, selfish, and lazy, and at the very bottom of their motives there lies a mystery. Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand. For all one knows that demon is simply the same instinct that makes a baby squall for attention. And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's own personality. Good prose is like a windowpane.” - George Orwell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 08: Ginyoku no Time Travel Recap
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 08: Time Travel of the Silver Sky Recap</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1343/121390.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/17583.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Adventure, Mystery</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!](https://myanimelist.net/anime/51218/BanG_Dream_5th_Anniversary_Animation__CiRCLE_Thanks_Party)*
+🍂 *More information: [Meitantei Conan Movie 08: Ginyoku no Time Travel Recap](https://myanimelist.net/anime/7304/Meitantei_Conan_Movie_08__Ginyoku_no_Time_Travel_Recap)*
     
