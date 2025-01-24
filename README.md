@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“All writers are vain, selfish, and lazy, and at the very bottom of their motives there lies a mystery. Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand. For all one knows that demon is simply the same instinct that makes a baby squall for attention. And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's own personality. Good prose is like a windowpane.” - George Orwell
+“Camerado! This is no book; - Walt Whitman
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 08: Ginyoku no Time Travel Recap
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon R: The Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 08: Time Travel of the Silver Sky Recap</h4>
+<h4>🌿 <u>English Title:</u> Sailor Moon R: The Movie - The Promise of the Rose</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/17583.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/18897.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Adventure, Mystery</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 08: Ginyoku no Time Travel Recap](https://myanimelist.net/anime/7304/Meitantei_Conan_Movie_08__Ginyoku_no_Time_Travel_Recap)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon R: The Movie](https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie)*
     
