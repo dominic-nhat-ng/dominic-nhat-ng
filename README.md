@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Camerado! This is no book; - Walt Whitman
+“When writers die they become books, which is, after all, not too bad an incarnation." - Jorge Luis Borges
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon R: The Movie
+  <strong>🥭 <u>Title:</u></strong> Spy x Family
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sailor Moon R: The Movie - The Promise of the Rose</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/18897.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1441/122795.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 8.48/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Award Winning, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon R: The Movie](https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie)*
+🍂 *More information: [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)*
     
