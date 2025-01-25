@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“You could never be certain what you would find in a book that had spent time with someone else.” - Erica Bauermeister
+“Books were faithful and reliable. You could pack them up and put them in a box, run your hands over the spines, flip through their pages full of memories. They always came with you, wherever you went.” - Karen Piper
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass Movie
+  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Psycho-Pass: The Movie</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/71793.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 14</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass Movie](https://myanimelist.net/anime/21339/Psycho-Pass_Movie)*
+🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
     
