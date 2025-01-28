@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Don't be afraid of books, even the most dissident, seemingly 'immoral' ones. Culture is a sure bet in life, whether high, low, eclectic, pop, ancient or modern. And I am convinced that reading is one of the most important tools of liberation that any human being, and a contemporary Arab woman in particular, can exploit. I am not saying it is the ONLY tool, especially with all the new alternative - more visual, interactive and hasty - ways of knowledge, learning and growth. But how could I not be convinced of literature's power, when it has been my original emancipator?” - Joumana Haddad
+“It wasn't that time stopped in the library. It was as if it were captured, collected here, and in all libraries -- and not only my time, my life, but all human time as well. In the library, time is dammed up--not just stopped but saved.” - Susan Orlean
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile: Finale - Mine to Kiyora no Saikai
+  <strong>🥭 <u>Title:</u></strong> Amaama to Inazuma
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Sweetness & Lightning</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/19590.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/80546.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Gourmet, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile: Finale - Mine to Kiyora no Saikai](https://myanimelist.net/anime/8038/Nodame_Cantabile__Finale_-_Mine_to_Kiyora_no_Saikai)*
+🍂 *More information: [Amaama to Inazuma](https://myanimelist.net/anime/32828/Amaama_to_Inazuma)*
     
