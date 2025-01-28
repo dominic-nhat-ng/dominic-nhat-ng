@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are books about magic and there are books of magic, and the price of the latter is far above rubies.” - Susanna Clarke
+“As long as you have any floor space at all, you have room for books! Just make two stacks of books the same height, place them three or four feet apart, lay a board across them, and repeat. Viola! Bookshelves!” - Jan Karon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu
+  <strong>🥭 <u>Title:</u></strong> Shadows House
 </h4>
 
-<h4>🌿 <u>English Title:</u> Assassination Classroom</h4>
+<h4>🌿 <u>English Title:</u> Shadows House</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/5/75639.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1424/113342.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 22</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ansatsu Kyoushitsu](https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu)*
+🍂 *More information: [Shadows House](https://myanimelist.net/anime/43439/Shadows_House)*
     
