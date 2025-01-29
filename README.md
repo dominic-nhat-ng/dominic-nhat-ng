@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The shelf was filled with books that were hard to read, that could devastate and remake one's soul, and that, when they were finished, had a kick like a mule.” - Mark Helprin
+“She just smiled, said that she loved books more than anything, and started telling him excitedly what each of the ones in her lap was about. And Ove realised that he wanted to hear her talking about the things she loved for the rest of his life.” - Fredrik Backman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Planetes
+  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Planetes</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1209/142900.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
 
-<h4>🌱 Score: 8.25/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 14</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Planetes](https://myanimelist.net/anime/329/Planetes)*
+🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
     
