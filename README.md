@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She just smiled, said that she loved books more than anything, and started telling him excitedly what each of the ones in her lap was about. And Ove realised that he wanted to hear her talking about the things she loved for the rest of his life.” - Fredrik Backman
+“Picking five favorite books is like picking the five body parts you'd most like not to lose.” - Neil Gaiman
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
+  <strong>🥭 <u>Title:</u></strong> Yuri!!! on Ice
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Yuri!!! On Ice</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/81149.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Award Winning, Sports</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
+🍂 *More information: [Yuri!!! on Ice](https://myanimelist.net/anime/32995/Yuri_on_Ice)*
     
