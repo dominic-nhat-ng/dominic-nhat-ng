@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I spent the rest of the day in someone else's story. The rare moments that I put the book down, my own pain returned in burning stabs.” - Amy Plum
+“If you want to really know something you have to observe or experience it in person; if you claim to know something on the basis of hearsay, or on happening to see it in a book, you'll be a laughingstock to those who really know.” - Jonathan D. Spence
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin
+  <strong>🥭 <u>Title:</u></strong> Bungou Stray Dogs 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Link Click Episode 5.5</h4>
+<h4>🌿 <u>English Title:</u> Bungo Stray Dogs 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1008/118860.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1572/133096.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
+<h4>🌵 Genres: Action, Mystery</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin](https://myanimelist.net/anime/49200/Shiguang_Dailiren_Fanwai_Pian__Biwu_Zhaoqin)*
+🍂 *More information: [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season)*
     
