@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Picking five favorite books is like picking the five body parts you'd most like not to lose.” - Neil Gaiman
+“I spent the rest of the day in someone else's story. The rare moments that I put the book down, my own pain returned in burning stabs.” - Amy Plum
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuri!!! on Ice
+  <strong>🥭 <u>Title:</u></strong> Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yuri!!! On Ice</h4>
+<h4>🌿 <u>English Title:</u> Link Click Episode 5.5</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/81149.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1008/118860.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Award Winning, Sports</h4>
+<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuri!!! on Ice](https://myanimelist.net/anime/32995/Yuri_on_Ice)*
+🍂 *More information: [Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin](https://myanimelist.net/anime/49200/Shiguang_Dailiren_Fanwai_Pian__Biwu_Zhaoqin)*
     
