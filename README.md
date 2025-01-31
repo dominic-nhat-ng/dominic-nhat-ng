@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Adult librarians are like lazy bakers: their patrons want a jelly doughnut, so they give them a jelly doughnut. Children’s librarians are ambitious bakers: 'You like the jelly doughnut? I’ll get you a jelly doughnut. But you should try my cruller, too. My cruller is gonna blow your mind, kid.” - John Green
+“A general cry of "What book? What book? Let us see this famous book!” - Diana Gabaldon
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Oto Tomare!
+  <strong>🥭 <u>Title:</u></strong> Kino no Tabi: The Beautiful World - Byouki no Kuni - For You
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kono Oto Tomare!: Sounds of Life</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1464/99881.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/73906.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kono Oto Tomare!](https://myanimelist.net/anime/38080/Kono_Oto_Tomare)*
+🍂 *More information: [Kino no Tabi: The Beautiful World - Byouki no Kuni - For You](https://myanimelist.net/anime/2175/Kino_no_Tabi__The_Beautiful_World_-_Byouki_no_Kuni_-_For_You)*
     
