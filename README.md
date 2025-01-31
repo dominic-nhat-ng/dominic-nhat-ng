@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A general cry of "What book? What book? Let us see this famous book!” - Diana Gabaldon
+“Purple Mike promises to be an intriguing read that will teach anyone who wants to know about the highs and lows of drug addiction. Purple Mike is a legal, natural high. Enjoy reading.” - Sin Mils
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kino no Tabi: The Beautiful World - Byouki no Kuni - For You
+  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Demon Hunter 2nd Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/73906.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1530/146755.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 27</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kino no Tabi: The Beautiful World - Byouki no Kuni - For You](https://myanimelist.net/anime/2175/Kino_no_Tabi__The_Beautiful_World_-_Byouki_no_Kuni_-_For_You)*
+🍂 *More information: [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2nd_Season)*
     
