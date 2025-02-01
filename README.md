@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Purple Mike promises to be an intriguing read that will teach anyone who wants to know about the highs and lows of drug addiction. Purple Mike is a legal, natural high. Enjoy reading.” - Sin Mils
+“A book is read one page at a time. A shelf is read one book at a time. A library is read one shelf at a time.” - Terry Goodkind
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Jormungand
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Hunter 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Jormungand</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1530/146755.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/73280.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 27</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2nd_Season)*
+🍂 *More information: [Jormungand](https://myanimelist.net/anime/12413/Jormungand)*
     
