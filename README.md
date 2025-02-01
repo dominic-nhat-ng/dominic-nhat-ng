@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A book is read one page at a time. A shelf is read one book at a time. A library is read one shelf at a time.” - Terry Goodkind
+“Literature adds to reality, it does not simply describe it. It enriches the necessary competencies that daily life requires and provides; and in this respect, it irrigates the deserts that our lives have already become.” - C.S. Lewis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jormungand
+  <strong>🥭 <u>Title:</u></strong> Kekkai Sensen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jormungand</h4>
+<h4>🌿 <u>English Title:</u> Blood Blockade Battlefront</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/73280.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1449/142053.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Jormungand](https://myanimelist.net/anime/12413/Jormungand)*
+🍂 *More information: [Kekkai Sensen](https://myanimelist.net/anime/24439/Kekkai_Sensen)*
     
