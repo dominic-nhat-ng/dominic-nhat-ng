@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“There are perhaps no days of our childhood we lived so fully as those we believe we left without having lived them, those we spent with a favorite book.” - Marcel Proust
+“أنا أخبئ بين أقفاص صدري أوجاع نساء الأرض ودموع الصغار ، - نجلاء حسن
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uchuu Kyoudai
+  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist: The Conqueror of Shamballa
 </h4>
 
-<h4>🌿 <u>English Title:</u> Space Brothers</h4>
+<h4>🌿 <u>English Title:</u> Fullmetal Alchemist: The Movie - Conqueror of Shamballa</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1290/135694.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1707/94039.jpg />
 
-<h4>🌱 Score: 8.48/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 99</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Uchuu Kyoudai](https://myanimelist.net/anime/12431/Uchuu_Kyoudai)*
+🍂 *More information: [Fullmetal Alchemist: The Conqueror of Shamballa](https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa)*
     
