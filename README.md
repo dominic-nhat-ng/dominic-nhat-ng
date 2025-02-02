@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“For all the books in his possession, he still failed to read the stories written plain as day in the faces of the people around him.” - Emma Donoghue
+“There are perhaps no days of our childhood we lived so fully as those we believe we left without having lived them, those we spent with a favorite book.” - Marcel Proust
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Yuri
+  <strong>🥭 <u>Title:</u></strong> Uchuu Kyoudai
 </h4>
 
-<h4>🌿 <u>English Title:</u> YuruYuri: Happy Go Lily</h4>
+<h4>🌿 <u>English Title:</u> Space Brothers</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/75173.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1290/135694.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.48/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Girls Love</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 99</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Yuri](https://myanimelist.net/anime/10495/Yuru_Yuri)*
+🍂 *More information: [Uchuu Kyoudai](https://myanimelist.net/anime/12431/Uchuu_Kyoudai)*
     
