@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading has not gone out of fashion in the last number of years, nor in the ones while you slept in the asteroid belt. Your relatives do not wish to expose themselves to deep thought, lest they be affected by it.” - Anne McCaffrey
+“Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it.” - C.S. Lewis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
+  <strong>🥭 <u>Title:</u></strong> Musekinin Kanchou Tylor
 </h4>
 
-<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
+<h4>🌿 <u>English Title:</u> The Irresponsible Captain Tylor</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/14898.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Avant Garde, Drama, Fantasy, Girls Love</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
+🍂 *More information: [Musekinin Kanchou Tylor](https://myanimelist.net/anime/569/Musekinin_Kanchou_Tylor)*
     
