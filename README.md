@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“A self without a shelf remains cryptic; a home without books naked.” - Leah Price
+“From that time on, the world was hers for the reading. She would never be lonely again, never miss the lack of intimate friends. Books became her friends and there was one for every mood.” - Betty Smith
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahoujin Guruguru
+  <strong>🥭 <u>Title:</u></strong> Utawarerumono
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magical Circle Guru Guru</h4>
+<h4>🌿 <u>English Title:</u> Utawarerumono</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/75814.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1119/118609.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1994</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 45</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mahoujin Guruguru](https://myanimelist.net/anime/331/Mahoujin_Guruguru)*
+🍂 *More information: [Utawarerumono](https://myanimelist.net/anime/856/Utawarerumono)*
     
