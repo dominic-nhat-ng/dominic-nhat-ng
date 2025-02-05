@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Mother used to say escape is never further than the nearest book.” - David Mitchell
+“A self without a shelf remains cryptic; a home without books naked.” - Leah Price
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Trigun Stampede
+  <strong>🥭 <u>Title:</u></strong> Mahoujin Guruguru
 </h4>
 
-<h4>🌿 <u>English Title:</u> Trigun Stampede</h4>
+<h4>🌿 <u>English Title:</u> Magical Circle Guru Guru</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1426/129194.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/75814.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1994</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 45</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Trigun Stampede](https://myanimelist.net/anime/52093/Trigun_Stampede)*
+🍂 *More information: [Mahoujin Guruguru](https://myanimelist.net/anime/331/Mahoujin_Guruguru)*
     
