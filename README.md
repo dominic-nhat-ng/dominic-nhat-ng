@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Een persoon kan ongeveer 3000 boeken lezen in zijn leven. Geef jij iets vijf sterren, dan zeg je eigenlijk: dat moet een van die 3000 boeken zijn. Een liefhebber zou het liefst 3000 meesterwerken lezen. Dus al die drie en vier sterrenboeken: ik lees ze niet, en als het vijf sterren heeft zonder dat het in de 3000 thuishoort dan zijn we getuige van een literaire misdaad.” - Martijn Benders
+“The true reader reads every work seriously in the sense that he reads it whole-heartedly, makes himself as receptive as he can. But for that very reason he cannot possibly read every work solemly or gravely. For he will read 'in the same spirit that the author writ.'... He will never commit the error of trying to munch whipped cream as if it were venison.” - C.S. Lewis
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Maria-sama ga Miteru: Haru
+  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Maria Watches Over Us: Printemps</h4>
+<h4>🌿 <u>English Title:</u> Samurai X: Reflection</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/75208.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1971/90877.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Drama, Girls Love</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Maria-sama ga Miteru: Haru](https://myanimelist.net/anime/444/Maria-sama_ga_Miteru__Haru)*
+🍂 *More information: [Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen](https://myanimelist.net/anime/401/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Seisou-hen)*
     
