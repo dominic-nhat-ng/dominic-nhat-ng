@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The true reader reads every work seriously in the sense that he reads it whole-heartedly, makes himself as receptive as he can. But for that very reason he cannot possibly read every work solemly or gravely. For he will read 'in the same spirit that the author writ.'... He will never commit the error of trying to munch whipped cream as if it were venison.” - C.S. Lewis
+“I ate them like salad, books were my sandwich for lunch, my tiffin and dinner and midnight munch. I tore out the pages, ate them with salt, doused them with relish, gnawed on the bindings, turned the chapters with my tongue! Books by the dozen, the score and the billion. I carried so many home I was hunchbacked for years. Philosophy, art history, politics, social science, the poem, the essay, the grandiose play, you name 'em, I ate 'em.” - Ray Bradbury
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
+  <strong>🥭 <u>Title:</u></strong> Shoujo☆Kageki Revue Starlight Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Samurai X: Reflection</h4>
+<h4>🌿 <u>English Title:</u> Revue Starlight: The Movie</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1971/90877.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1378/119190.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 8.52/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen](https://myanimelist.net/anime/401/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Seisou-hen)*
+🍂 *More information: [Shoujo☆Kageki Revue Starlight Movie](https://myanimelist.net/anime/40664/Shoujo☆Kageki_Revue_Starlight_Movie)*
     
