@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I ate them like salad, books were my sandwich for lunch, my tiffin and dinner and midnight munch. I tore out the pages, ate them with salt, doused them with relish, gnawed on the bindings, turned the chapters with my tongue! Books by the dozen, the score and the billion. I carried so many home I was hunchbacked for years. Philosophy, art history, politics, social science, the poem, the essay, the grandiose play, you name 'em, I ate 'em.” - Ray Bradbury
+“Ability, experience and books have solution for all the problems.” - Amit Kalantri
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo☆Kageki Revue Starlight Movie
+  <strong>🥭 <u>Title:</u></strong> InuYasha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Revue Starlight: The Movie</h4>
+<h4>🌿 <u>English Title:</u> InuYasha</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1378/119190.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1589/95329.jpg />
 
-<h4>🌱 Score: 8.52/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoujo☆Kageki Revue Starlight Movie](https://myanimelist.net/anime/40664/Shoujo☆Kageki_Revue_Starlight_Movie)*
+🍂 *More information: [InuYasha](https://myanimelist.net/anime/249/InuYasha)*
     
