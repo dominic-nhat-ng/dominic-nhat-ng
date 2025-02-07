@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Who was it who said, "I hold the buying of more books than one can peradventure read, as nothing less than the soul's reaching towards infinity; which is the only thing that raises us above the beasts that perish?" Whoever it was, I agree with him.” - A. Edward Newton
+“If you go home with somebody, and they don't have books, don't fuck 'em!” - John Waters
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo
+  <strong>🥭 <u>Title:</u></strong> Lupin the Third: Mine Fujiko to Iu Onna
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Girl</h4>
+<h4>🌿 <u>English Title:</u> Lupin the Third: The Woman Called Fujiko Mine</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/86907.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1482/133813.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Ecchi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Shoujo](https://myanimelist.net/anime/228/Jigoku_Shoujo)*
+🍂 *More information: [Lupin the Third: Mine Fujiko to Iu Onna](https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna)*
     
