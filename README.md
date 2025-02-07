@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“School did give me one of the greatest gifts of my life, though. I learned how to read, and for that I remain thankful. I would have died otherwise. As soon as I was able, I read, alone. Under the covers with a flashlight or in my corner of the attic—I sought solace in books. It was from books that I started to get an inkling of the kinds of assholes I was dealing with. I found allies too, in books, characters my age who were going through or had triumphed against the same bullshit.” - Craig Ferguson
+“Who was it who said, "I hold the buying of more books than one can peradventure read, as nothing less than the soul's reaching towards infinity; which is the only thing that raises us above the beasts that perish?" Whoever it was, I agree with him.” - A. Edward Newton
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Towa no Quon 6: Towa no Quon
+  <strong>🥭 <u>Title:</u></strong> Jigoku Shoujo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Towanoquon: Eternal Quon</h4>
+<h4>🌿 <u>English Title:</u> Hell Girl</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/35131.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/4/86907.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Horror, Mystery, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Towa no Quon 6: Towa no Quon](https://myanimelist.net/anime/10717/Towa_no_Quon_6__Towa_no_Quon)*
+🍂 *More information: [Jigoku Shoujo](https://myanimelist.net/anime/228/Jigoku_Shoujo)*
     
