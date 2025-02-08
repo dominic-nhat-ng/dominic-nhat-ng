@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you go home with somebody, and they don't have books, don't fuck 'em!” - John Waters
+“Katey's the hottest bookworm you'll ever meet. If you took all the books that she's read and piled them in a stack, you could climb to the Milky Way.” - Amor Towles
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin the Third: Mine Fujiko to Iu Onna
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin the Third: The Woman Called Fujiko Mine</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: The Last Attack</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1482/133813.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1379/145452.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.39/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Ecchi</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Lupin the Third: Mine Fujiko to Iu Onna](https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna)*
+🍂 *More information: [Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack](https://myanimelist.net/anime/59571/Shingeki_no_Kyojin_Movie__Kanketsu-hen_-_The_Last_Attack)*
     
