@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Thus I rediscovered what writers have always known (and have told us again and again): books always speak of other books, and every story tells a story that has already been told.” - Umberto Eco
+“Opportunity may knock only once but temptation leans on the door bell” - Oprah Winfrey
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Higurashi no Naku Koro ni Kai
+  <strong>🥭 <u>Title:</u></strong> Nanbaka 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Higurashi: When They Cry – Kai</h4>
+<h4>🌿 <u>English Title:</u> Nanbaka Season 2</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/14114.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1294/127370.jpg />
 
-<h4>🌱 Score: 8.16/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Suspense</h4>
+<h4>🌵 Genres: Action, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Higurashi no Naku Koro ni Kai](https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai)*
+🍂 *More information: [Nanbaka 2](https://myanimelist.net/anime/34414/Nanbaka_2)*
     
