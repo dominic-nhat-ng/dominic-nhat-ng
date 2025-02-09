@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Opportunity may knock only once but temptation leans on the door bell” - Oprah Winfrey
+“If you’re a writer, your first duty, a duty you owe to yourself and your readers, and to your writing itself, is to become wonderful. To become the best writer you can possibly be.” - Theodora Goss
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nanbaka 2
+  <strong>🥭 <u>Title:</u></strong> Ueki no Housoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Nanbaka Season 2</h4>
+<h4>🌿 <u>English Title:</u> The Law of Ueki</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1294/127370.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/20596.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 51</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nanbaka 2](https://myanimelist.net/anime/34414/Nanbaka_2)*
+🍂 *More information: [Ueki no Housoku](https://myanimelist.net/anime/479/Ueki_no_Housoku)*
     
