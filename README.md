@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“If you’re a writer, your first duty, a duty you owe to yourself and your readers, and to your writing itself, is to become wonderful. To become the best writer you can possibly be.” - Theodora Goss
+“Being rich is not about how much money you have or how many homes you own; it's the freedom to buy any book you want without looking at the price and wondering if you can afford it.” - John Waters
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ueki no Housoku
+  <strong>🥭 <u>Title:</u></strong> One Punch Man: Road to Hero
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Law of Ueki</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/20596.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1802/124744.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Ueki no Housoku](https://myanimelist.net/anime/479/Ueki_no_Housoku)*
+🍂 *More information: [One Punch Man: Road to Hero](https://myanimelist.net/anime/31704/One_Punch_Man__Road_to_Hero)*
     
