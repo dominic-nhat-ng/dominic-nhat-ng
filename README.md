@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I was burning through books every day - stories about people and places I'd never heard of. They were perhaps the only thing that kept me from teetering into utter despair.” - Sarah J. Maas
+“Reading is a majority skill but a minority art.” - Julian Barnes
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hourou Musuko Specials
+  <strong>🥭 <u>Title:</u></strong> Magic Knight Rayearth II
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wandering Son Specials</h4>
+<h4>🌿 <u>English Title:</u> Magic Knight Rayearth II</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/30177.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1336/135527.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 29</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hourou Musuko Specials](https://myanimelist.net/anime/10935/Hourou_Musuko_Specials)*
+🍂 *More information: [Magic Knight Rayearth II](https://myanimelist.net/anime/1563/Magic_Knight_Rayearth_II)*
     
