@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading is a majority skill but a minority art.” - Julian Barnes
+“A book is the only immortality” - Rufus Choate
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Magic Knight Rayearth II
+  <strong>🥭 <u>Title:</u></strong> World Trigger
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magic Knight Rayearth II</h4>
+<h4>🌿 <u>English Title:</u> World Trigger</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1336/135527.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1783/106843.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 29</h4>
+<h4>🥑 Episodes: 73</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Magic Knight Rayearth II](https://myanimelist.net/anime/1563/Magic_Knight_Rayearth_II)*
+🍂 *More information: [World Trigger](https://myanimelist.net/anime/24405/World_Trigger)*
     
