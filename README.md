@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“She wanted to and believed she could - Jill Telford
+“And reading this way - with no deadline, no agenda - she remembered why she loved literature so much. It was like fucking a new man and knowing that he had made other women come, but that when she came it would be an unshareable, untranslatable pleasure. She opened herself up to her books, and the words got inside her and fucked her senseless.” - Emily Maguire
 </i>
 </blockquote>
 
@@ -32,20 +32,20 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jibaku Shounen Hanako-kun
+  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka? Bloom
 </h4>
 
-<h4>🌿 <u>English Title:</u> Toilet-Bound Hanako-kun</h4>
+<h4>🌿 <u>English Title:</u> Is the Order a Rabbit? Bloom</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1050/111687.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1900/109179.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.92/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Supernatural</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -53,5 +53,5 @@
 
 <br />
 
-🍂 *More information: [Jibaku Shounen Hanako-kun](https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun)*
+🍂 *More information: [Gochuumon wa Usagi desu ka? Bloom](https://myanimelist.net/anime/38337/Gochuumon_wa_Usagi_desu_ka_Bloom)*
     
