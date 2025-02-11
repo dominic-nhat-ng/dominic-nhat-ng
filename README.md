@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The characters within a book were, from a certain point of view, identical on some fundamental level ‒ there weren't any images of them, no physical tangibility whatsoever. They were pictures in the reader's head, constructs of imagination and ideas, given shape by the writer's work and skill and the reader's imagination. Parents, of a sort.” - Jim Butcher
+“She wanted to and believed she could - Jill Telford
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Casshern Sins
+  <strong>🥭 <u>Title:</u></strong> Jibaku Shounen Hanako-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> Casshern Sins</h4>
+<h4>🌿 <u>English Title:</u> Toilet-Bound Hanako-kun</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/8/23336.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1050/111687.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Casshern Sins](https://myanimelist.net/anime/4981/Casshern_Sins)*
+🍂 *More information: [Jibaku Shounen Hanako-kun](https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun)*
     
