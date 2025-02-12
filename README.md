@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Reading was not an escape for her, any more than it is for me. It was an aspect of direct experience. She distinguished, of course, between the fictional world and the real one, in which she had to prepare dinners and so on. Still, for us, the fictional world was an extension of the real, and in no way a substitute for it, or refuge from it. Any more than sleeping is a substitute for waking." (Jincy Willett)” - Jincy Willett
+“We read to escape, to embrace, to challenge, and to understand. Reading enages our intellect, but also our empathy, and we are all the better for it.” - Dean F. Wilson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Higurashi no Naku Koro ni Kai
+  <strong>🥭 <u>Title:</u></strong> Koukyuu no Karasu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Higurashi: When They Cry – Kai</h4>
+<h4>🌿 <u>English Title:</u> Raven of the Inner Palace</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/12/14114.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1932/127228.jpg />
 
-<h4>🌱 Score: 8.16/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Suspense</h4>
+<h4>🌵 Genres: Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Higurashi no Naku Koro ni Kai](https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai)*
+🍂 *More information: [Koukyuu no Karasu](https://myanimelist.net/anime/50590/Koukyuu_no_Karasu)*
     
