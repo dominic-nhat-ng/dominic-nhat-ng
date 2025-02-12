@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“What amazes me is that most days feel useless. I don't seem to accomplish anything-just a few pages, most of which don't seem very good. Yet, when I put all those wasted days together, I somehow end up with a book of which I'm very proud.” - Louis Sachar
+“I had always turned to books, to knowledge, to help me get through everything in my life—and, - Michele Bardsley ()
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> UFO Robo Grendizer
+  <strong>🥭 <u>Title:</u></strong> Precure All Stars Movie F
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1440/127558.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1959/137024.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.11/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1975</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 74</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [UFO Robo Grendizer](https://myanimelist.net/anime/1985/UFO_Robo_Grendizer)*
+🍂 *More information: [Precure All Stars Movie F](https://myanimelist.net/anime/54650/Precure_All_Stars_Movie_F)*
     
