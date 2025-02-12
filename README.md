@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We read to escape, to embrace, to challenge, and to understand. Reading enages our intellect, but also our empathy, and we are all the better for it.” - Dean F. Wilson
+“What amazes me is that most days feel useless. I don't seem to accomplish anything-just a few pages, most of which don't seem very good. Yet, when I put all those wasted days together, I somehow end up with a book of which I'm very proud.” - Louis Sachar
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koukyuu no Karasu
+  <strong>🥭 <u>Title:</u></strong> UFO Robo Grendizer
 </h4>
 
-<h4>🌿 <u>English Title:</u> Raven of the Inner Palace</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1932/127228.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1440/127558.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1975</h4>
 
-<h4>🌵 Genres: Fantasy, Mystery</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 74</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Koukyuu no Karasu](https://myanimelist.net/anime/50590/Koukyuu_no_Karasu)*
+🍂 *More information: [UFO Robo Grendizer](https://myanimelist.net/anime/1985/UFO_Robo_Grendizer)*
     
