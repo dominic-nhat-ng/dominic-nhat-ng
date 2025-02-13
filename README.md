@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“But, how do you know if an ending is truly good for the characters unless you've traveled with them through every page?” - Shannon Hale
+“Afterwards, in bed with a book, the spell of television feels remote compared to the journey into the page. To be in a book. To slip into the crease where two pages meet, to live in the place where your eyes alight upon the words to ignite a world of smoke and peril, colour and serene delight. That is a journey no one can end with the change of a channel. Enduring magic.” - Ann-Marie MacDonald
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Final Fantasy VII: Advent Children - Venice Film Festival Footage
+  <strong>🥭 <u>Title:</u></strong> Ojamajo Doremi Dokkaan!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Final Fantasy VII: Advent Children - Venice Film Festival Footage</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/13516.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/40407.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 51</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Final Fantasy VII: Advent Children - Venice Film Festival Footage](https://myanimelist.net/anime/6152/Final_Fantasy_VII__Advent_Children_-_Venice_Film_Festival_Footage)*
+🍂 *More information: [Ojamajo Doremi Dokkaan!](https://myanimelist.net/anime/353/Ojamajo_Doremi_Dokkaan)*
     
