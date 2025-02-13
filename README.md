@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I had always turned to books, to knowledge, to help me get through everything in my life—and, - Michele Bardsley ()
+“Reading is the bridge between the island of ignorance towards the village of wisdom.” - HBR Patel
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Precure All Stars Movie F
+  <strong>🥭 <u>Title:</u></strong> Shuumatsu no Walküre II
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Record of Ragnarok II</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1959/137024.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1213/124646.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Precure All Stars Movie F](https://myanimelist.net/anime/54650/Precure_All_Stars_Movie_F)*
+🍂 *More information: [Shuumatsu no Walküre II](https://myanimelist.net/anime/49618/Shuumatsu_no_Walküre_II)*
     
