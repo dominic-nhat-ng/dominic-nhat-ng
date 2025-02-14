@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books themselves need no defense. Their spokesmen come and go, their readers live and die, they remain constant.” - Lawrence Clark Powell
+“A good book ... leaves you wanting to reread the book. A great book compels you to reread your own soul.” - Richard Flanagan
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai
+  <strong>🥭 <u>Title:</u></strong> Zan Sayonara Zetsubou Sensei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War - Ultra Romantic "Yu Ishigami Wants to Chat"</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1265/119435.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/78774.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2009</h4>
 
 <h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai](https://myanimelist.net/anime/50325/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic_Teaser_PV_-_Ishigami_Yuu_wa_Kataritai)*
+🍂 *More information: [Zan Sayonara Zetsubou Sensei](https://myanimelist.net/anime/6377/Zan_Sayonara_Zetsubou_Sensei)*
     
