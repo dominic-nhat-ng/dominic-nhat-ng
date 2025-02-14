@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“We're all strangers connected by what we reveal, what we share, what we take away--our stories. I guess that's what I love about books--they are thin strands of humanity that tether us to one another for a small bit of time, that make us feel less alone or even more comfortable with our aloneness, if need be.” - Libba Bray
+“Books themselves need no defense. Their spokesmen come and go, their readers live and die, they remain constant.” - Lawrence Clark Powell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ling Long: Incarnation Part 2
+  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ling Cage</h4>
+<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War - Ultra Romantic "Yu Ishigami Wants to Chat"</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1318/109517.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1265/119435.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: PV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Drama, Horror, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ling Long: Incarnation Part 2](https://myanimelist.net/anime/42290/Ling_Long__Incarnation_Part_2)*
+🍂 *More information: [Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai](https://myanimelist.net/anime/50325/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic_Teaser_PV_-_Ishigami_Yuu_wa_Kataritai)*
     
