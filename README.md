@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Afterwards, in bed with a book, the spell of television feels remote compared to the journey into the page. To be in a book. To slip into the crease where two pages meet, to live in the place where your eyes alight upon the words to ignite a world of smoke and peril, colour and serene delight. That is a journey no one can end with the change of a channel. Enduring magic.” - Ann-Marie MacDonald
+“We're all strangers connected by what we reveal, what we share, what we take away--our stories. I guess that's what I love about books--they are thin strands of humanity that tether us to one another for a small bit of time, that make us feel less alone or even more comfortable with our aloneness, if need be.” - Libba Bray
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ojamajo Doremi Dokkaan!
+  <strong>🥭 <u>Title:</u></strong> Ling Long: Incarnation Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Ling Cage</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/40407.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1318/109517.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Horror, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Ojamajo Doremi Dokkaan!](https://myanimelist.net/anime/353/Ojamajo_Doremi_Dokkaan)*
+🍂 *More information: [Ling Long: Incarnation Part 2](https://myanimelist.net/anime/42290/Ling_Long__Incarnation_Part_2)*
     
