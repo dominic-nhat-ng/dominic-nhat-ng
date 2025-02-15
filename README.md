@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Writing is perhaps the greatest of human inventions, binding together people, citizens of distant epochs, who never knew one another. Books break the shackles of time, proof that humans can work magic.” - Carl Sagan
+“I plan to learn enough to read you like a book.” - Sylvia Brownrigg
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mutsu Enmei Ryuu Gaiden: Shura no Toki
+  <strong>🥭 <u>Title:</u></strong> Uramichi Oniisan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Time of Shura</h4>
+<h4>🌿 <u>English Title:</u> Life Lessons with Uramichi-Oniisan</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/56847.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1126/115635.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mutsu Enmei Ryuu Gaiden: Shura no Toki](https://myanimelist.net/anime/340/Mutsu_Enmei_Ryuu_Gaiden__Shura_no_Toki)*
+🍂 *More information: [Uramichi Oniisan](https://myanimelist.net/anime/40620/Uramichi_Oniisan)*
     
