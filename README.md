@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Have you thought of an ending?" - J.R.R. Tolkien
+“What is a library, but a temple of truth? What other function do books have, the great ones, but to change the reader? Books to comfort. But most of all, books to disturb you forward.” - Jon Cohen
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Osomatsu-san 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mr. Osomatsu 2</h4>
+<h4>🌿 <u>English Title:</u> The Demon Hunter 2nd Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/88328.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1530/146755.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 27</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Osomatsu-san 2nd Season](https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season)*
+🍂 *More information: [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2nd_Season)*
     
