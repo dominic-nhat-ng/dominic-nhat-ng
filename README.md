@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“I plan to learn enough to read you like a book.” - Sylvia Brownrigg
+“Endings to be useful must be inconclusive.” - Samuel R. Delaney
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uramichi Oniisan
+  <strong>🥭 <u>Title:</u></strong> MF Ghost
 </h4>
 
-<h4>🌿 <u>English Title:</u> Life Lessons with Uramichi-Oniisan</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1126/115635.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1249/132348.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Uramichi Oniisan](https://myanimelist.net/anime/40620/Uramichi_Oniisan)*
+🍂 *More information: [MF Ghost](https://myanimelist.net/anime/50695/MF_Ghost)*
     
