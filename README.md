@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Books remember all the things you cannot contain.” - Elizabeth McCracken
+“Fiction is very, very important," he said, his voice is rising. "Storytelling is how people learn. You get people to understand new cultures and other lives through stories. Made-up stories. Fiction.” - Kristine Grayson
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushishi
+  <strong>🥭 <u>Title:</u></strong> Vampire Hunter D (2000)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushi-Shi</h4>
+<h4>🌿 <u>English Title:</u> Vampire Hunter D: Bloodlust</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/2/73862.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1571/135153.jpg />
 
-<h4>🌱 Score: 8.65/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Horror, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mushishi](https://myanimelist.net/anime/457/Mushishi)*
+🍂 *More information: [Vampire Hunter D (2000)](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000)*
     
