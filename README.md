@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Fiction is very, very important," he said, his voice is rising. "Storytelling is how people learn. You get people to understand new cultures and other lives through stories. Made-up stories. Fiction.” - Kristine Grayson
+“Sidda can't help herself. She just loves books. Loves the way they feel, the way they smell, loves the black letters marching across the white pages...” - Rebecca Wells
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Vampire Hunter D (2000)
+  <strong>🥭 <u>Title:</u></strong> Princess Connect! Re:Dive Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Vampire Hunter D: Bloodlust</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1571/135153.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1906/117145.jpg />
 
-<h4>🌱 Score: 7.95/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy, Horror, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy, Gourmet</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Vampire Hunter D (2000)](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000)*
+🍂 *More information: [Princess Connect! Re:Dive Season 2](https://myanimelist.net/anime/42670/Princess_Connect_Re_Dive_Season_2)*
     
