@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“People read books to escape the uncertainties of life.” - Barbara Kingsolver
+“This earth that we live on is full of stories in the same way that, for a fish, the ocean is full of ocean. Some people say when we are born we’re born into stories. I say we’re also born from stories.” - Ben Okri
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Shin Chan</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/83770.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/59897.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: null</h4>
 
 <h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome](https://myanimelist.net/anime/8369/Crayon_Shin-chan_Movie_18__Chou_Jikuu_Arashi_wo_Yobu_Ora_no_Hanayome)*
+🍂 *More information: [Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)*
     
