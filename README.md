@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Sidda can't help herself. She just loves books. Loves the way they feel, the way they smell, loves the black letters marching across the white pages...” - Rebecca Wells
+“People read books to escape the uncertainties of life.” - Barbara Kingsolver
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Princess Connect! Re:Dive Season 2
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1906/117145.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/11/83770.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy, Gourmet</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Princess Connect! Re:Dive Season 2](https://myanimelist.net/anime/42670/Princess_Connect_Re_Dive_Season_2)*
+🍂 *More information: [Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome](https://myanimelist.net/anime/8369/Crayon_Shin-chan_Movie_18__Chou_Jikuu_Arashi_wo_Yobu_Ora_no_Hanayome)*
     
