@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“The book can produce an addiction as fierce as heroin or nicotine, forcing us to spend much of our lives, like junkies, in book shops and libraries, those literary counterparts to the opium den.” - Phillip Adams
+“No matter how many compromises were made along the way, no matter what happens in the future, a book is a thing to behold.” - Betsy Lerner
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon SuperS
+  <strong>🥭 <u>Title:</u></strong> Fruits Basket 1st Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sailor Moon SuperS</h4>
+<h4>🌿 <u>English Title:</u> Fruits Basket 1st Season</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1600/92253.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1447/99827.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 39</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon SuperS](https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS)*
+🍂 *More information: [Fruits Basket 1st Season](https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season)*
     
