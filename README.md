@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“No matter how many compromises were made along the way, no matter what happens in the future, a book is a thing to behold.” - Betsy Lerner
+“Surprise!-FitzChivalry” - Robin Hobb
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fruits Basket 1st Season
+  <strong>🥭 <u>Title:</u></strong> K-On!!: Keikaku!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fruits Basket 1st Season</h4>
+<h4>🌿 <u>English Title:</u> K-On!!: Plan!</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1447/99827.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/26965.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fruits Basket 1st Season](https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season)*
+🍂 *More information: [K-On!!: Keikaku!](https://myanimelist.net/anime/9734/K-On__Keikaku)*
     
