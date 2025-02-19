@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Many people can and have written books, but many have nothing to say.” - Amy Rogers
+“The book can produce an addiction as fierce as heroin or nicotine, forcing us to spend much of our lives, like junkies, in book shops and libraries, those literary counterparts to the opium den.” - Phillip Adams
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koe no Katachi
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon SuperS
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Silent Voice</h4>
+<h4>🌿 <u>English Title:</u> Sailor Moon SuperS</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1122/96435.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1600/92253.jpg />
 
-<h4>🌱 Score: 8.93/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Award Winning, Drama</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 39</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Koe no Katachi](https://myanimelist.net/anime/28851/Koe_no_Katachi)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon SuperS](https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS)*
     
