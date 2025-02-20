@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Surprise!-FitzChivalry” - Robin Hobb
+“Literature illuminates life only for those to whom books are a necessity.” - Anthony Powell
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> K-On!!: Keikaku!
+  <strong>🥭 <u>Title:</u></strong> Arashi no Yoru ni
 </h4>
 
-<h4>🌿 <u>English Title:</u> K-On!!: Plan!</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/7/26965.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/5064.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Drama, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [K-On!!: Keikaku!](https://myanimelist.net/anime/9734/K-On__Keikaku)*
+🍂 *More information: [Arashi no Yoru ni](https://myanimelist.net/anime/1961/Arashi_no_Yoru_ni)*
     
