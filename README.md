@@ -23,7 +23,7 @@
 
 <blockquote>
 <i>
-“Literature illuminates life only for those to whom books are a necessity.” - Anthony Powell
+“Although I was so big, and so rough in many ways, loved hunting, fighting, horseback riding, I loved the piano above everything else...The mountain man's obsession is to get a glimpse of the sea.” - Anaïs Nin
 </i>
 </blockquote>
 
@@ -32,26 +32,26 @@
 <h3><i>Random anime</i></h3>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Arashi no Yoru ni
+  <strong>🥭 <u>Title:</u></strong> Jungle wa Itsumo Hare nochi Guu
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Haré+Guu</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/9/5064.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/10/24555.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Arashi no Yoru ni](https://myanimelist.net/anime/1961/Arashi_no_Yoru_ni)*
+🍂 *More information: [Jungle wa Itsumo Hare nochi Guu](https://myanimelist.net/anime/253/Jungle_wa_Itsumo_Hare_nochi_Guu)*
     
